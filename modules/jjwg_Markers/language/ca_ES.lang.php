@@ -1,0 +1,43 @@
+<?php
+
+$mod_strings['LBL_ASSIGNED_TO_ID'] = 'ID Usuari Assignat';
+$mod_strings['LBL_ASSIGNED_TO_NAME'] = 'Usuari';
+$mod_strings['LBL_ID'] = 'ID';
+$mod_strings['LBL_DATE_ENTERED'] = 'Data de Creació';
+$mod_strings['LBL_DATE_MODIFIED'] = 'Última Modificació';
+$mod_strings['LBL_MODIFIED'] = 'Modificat Per';
+$mod_strings['LBL_MODIFIED_ID'] = 'Modificat per Id';
+$mod_strings['LBL_MODIFIED_NAME'] = 'Modificat per Nom';
+$mod_strings['LBL_CREATED'] = 'Creat Per';
+$mod_strings['LBL_CREATED_ID'] = 'Creat per Id';
+$mod_strings['LBL_DESCRIPTION'] = 'Descripció';
+$mod_strings['LBL_DELETED'] = 'Esborrat';
+$mod_strings['LBL_NAME'] = 'Nom';
+$mod_strings['LBL_CREATED_USER'] = 'Creat per Usuari';
+$mod_strings['LBL_MODIFIED_USER'] = 'Modificat per Usuari';
+$mod_strings['LBL_LIST_NAME'] = 'Nom';
+$mod_strings['LBL_LIST_FORM_TITLE'] = 'Markers List';
+$mod_strings['LBL_MODULE_NAME'] = 'Markers';
+$mod_strings['LBL_MODULE_TITLE'] = 'Markers';
+$mod_strings['LBL_HOMEPAGE_TITLE'] = 'My Markers';
+$mod_strings['LNK_NEW_RECORD'] = 'Create Markers';
+$mod_strings['LNK_LIST'] = 'View Markers';
+$mod_strings['LNK_IMPORT_JJWG_MARKERS'] = 'Import Markers';
+$mod_strings['LBL_SEARCH_FORM_TITLE'] = 'Search Markers';
+$mod_strings['LBL_HISTORY_SUBPANEL_TITLE'] = 'Veure Històrial';
+$mod_strings['LBL_ACTIVITIES_SUBPANEL_TITLE'] = 'Activitats';
+$mod_strings['LBL_JJWG_MARKERS_SUBPANEL_TITLE'] = 'Markers';
+$mod_strings['LBL_NEW_FORM_TITLE'] = 'New Markers';
+$mod_strings['LBL_CITY'] = 'Ciutat';
+$mod_strings['LBL_STATE'] = 'Estat/Província';
+$mod_strings['LBL_COUNTRY'] = 'País';
+$mod_strings['LBL_JJWG_MAPS_LAT'] = 'Latitude';
+$mod_strings['LBL_JJWG_MAPS_LNG'] = 'Longitude';
+$mod_strings['LBL_MARKER_IMAGE'] = 'Marker Image Type';
+$mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Assignat a';
+$mod_strings['LBL_MARKER_MAP'] = 'Marker Map';
+
+$mod_strings['LBL_MARKER_MARKER_POSITION'] = 'Marker Position (Latitude, Longitude):';
+$mod_strings['LBL_MARKER_CLOSEST_MATCHING_ADDRESS'] = 'Closest Matching Address:';
+$mod_strings['LBL_MARKER_MARKER_STATUS'] = 'Marker Status';
+$mod_strings['LBL_MARKER_EDIT_DESCRIPTION'] = 'Click and drag the marker.';
