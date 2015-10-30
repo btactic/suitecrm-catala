@@ -43,12 +43,12 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $defaultText = "";
 $dashletStrings['JotPadDashlet'] = array('LBL_TITLE'            => 'JotPad',
-                                         'LBL_DESCRIPTION'      => 'A dashlet to keep your notes',
-                                         'LBL_SAVING'           => 'Saving JotPad ...',
+                                         'LBL_DESCRIPTION'      => 'Un dashlet per guardar les teves notes',
+                                         'LBL_SAVING'           => 'Guardant JotPad',
                                          'LBL_SAVED'            => 'Guardat',
                                          'LBL_CONFIGURE_TITLE'  => 'Títol',
-                                         'LBL_CONFIGURE_HEIGHT' => 'Height (1 - 300)',
-                                         'LBL_DBLCLICK_HELP'    => 'Double click below to Edit.',
+                                         'LBL_CONFIGURE_HEIGHT' => 'Altura (1 - 300)',
+                                         'LBL_DBLCLICK_HELP'    => 'Faci clic a sota per a editar.',
                                          'LBL_DEFAULT_TEXT'     => '$defaultText',
 );
 ?>

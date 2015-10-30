@@ -31,7 +31,7 @@ $app_strings['LBL_AOP_EMAIL_REPLY_DELIMITER'] = '========== Please reply above t
 
 $app_list_strings['case_state_dom'] =
   array (
-      'Open' => 'Open',
+      'Open' => 'Obert',
       'Closed' => 'Tancat',
   );
 $app_list_strings['case_state_default_key'] = 'Open';
@@ -41,19 +41,19 @@ $app_list_strings['case_status_dom'] =
       'Open_New' => 'Nou',
       'Open_Assigned' => 'Assignat',
       'Closed_Closed' => 'Tancat',
-      'Open_Pending Input' => 'Pendent d´Informació',
-      'Closed_Rejected' => 'Refusat',
-      'Closed_Duplicate' => 'Duplicar',
+      'Open_Pending Input' => 'Pendent d\'Informació',
+      'Closed_Rejected' => 'Rebutjat',
+      'Closed_Duplicate' => 'Duplicat',
   );
 $app_list_strings['contact_portal_user_type_dom'] =
     array (
-        'Single' => 'Single user',
-        'Account' => 'Account user',
+        'Single' => 'Usuari individual',
+        'Account' => 'Compta d\'usuari',
     );
 $app_list_strings['dom_email_distribution_for_auto_create']=array (
-    'AOPDefault' => 'Use AOP Default',
-    'singleUser' => 'Single User',
+    'AOPDefault' => 'Utilitza el AOP predeterminat',
+    'singleUser' => 'Usuari individual',
     'roundRobin' => 'Round-Robin',
     'leastBusy' => 'Menys-Ocupat',
-    'random' => 'Random',
+    'random' => 'Aleatori ',
 );

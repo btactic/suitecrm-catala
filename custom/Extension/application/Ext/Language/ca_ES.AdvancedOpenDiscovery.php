@@ -38,5 +38,5 @@
 ********************************************************************************/
 
 
-$app_list_strings['moduleList']['AOD_IndexEvent'] = 'Index Event';
-$app_list_strings['moduleList']['AOD_Index'] = 'Index';
+$app_list_strings['moduleList']['AOD_IndexEvent'] = 'Esdeveniment índex';
+$app_list_strings['moduleList']['AOD_Index'] = 'Índex';

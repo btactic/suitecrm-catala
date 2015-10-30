@@ -21,40 +21,40 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_SALESAGILITY_ADMIN'] = 'Advanced OpenAdmin';
-$mod_strings['LBL_AOP_ADMIN_MANAGE_AOP'] = 'Advanced OpenPortal Settings';
-$mod_strings['LBL_AOP_ENABLE_AOP'] = 'Enable AOP';
-$mod_strings['LBL_AOP_ENABLE_PORTAL'] = 'Enable External Portal';
-$mod_strings['LBL_AOP_JOOMLA_SETTINGS'] = 'Portal Settings';
-$mod_strings['LBL_AOP_JOOMLA_URL'] = 'Joomla URL';
-$mod_strings['LBL_AOP_JOOMLA_ACCESS_KEY'] = 'Joomla Access Key';
-$mod_strings['LBL_AOP_CASE_ASSIGNMENT'] = 'Case Distribution';
-$mod_strings['LBL_AOP_DISTRIBUTION_METHOD'] = 'Distribution method';
-$mod_strings['LBL_AOP_ASSIGNMENT_USER'] = 'Distribution user';
-$mod_strings['LBL_AOP_ASSIGNMENT_OPTIONS'] = 'Distribution target';
+$mod_strings['LBL_SALESAGILITY_ADMIN'] = 'OpenAdmin avançat';
+$mod_strings['LBL_AOP_ADMIN_MANAGE_AOP'] = 'Configuració avançada d\'OpenPtortal';
+$mod_strings['LBL_AOP_ENABLE_AOP'] = 'Habilitar AOD';
+$mod_strings['LBL_AOP_ENABLE_PORTAL'] = 'Habilitar un portal extern';
+$mod_strings['LBL_AOP_JOOMLA_SETTINGS'] = 'Configuració del portal';
+$mod_strings['LBL_AOP_JOOMLA_URL'] = 'URL de Joomla';
+$mod_strings['LBL_AOP_JOOMLA_ACCESS_KEY'] = 'Clau d\'accés de Joomla';
+$mod_strings['LBL_AOP_CASE_ASSIGNMENT'] = 'Distribució de casos';
+$mod_strings['LBL_AOP_DISTRIBUTION_METHOD'] = 'Mètode de distribució';
+$mod_strings['LBL_AOP_ASSIGNMENT_USER'] = 'Usuari de distribució';
+$mod_strings['LBL_AOP_ASSIGNMENT_OPTIONS'] = 'Objectiu de distribució';
 
 $mod_strings['LBL_AOP_EMAIL_SETTINGS'] = 'Configuració de Correu';
-$mod_strings['LBL_AOP_CONTACT_EMAIL_TEMPLATE'] = 'Contact Email Template';
-$mod_strings['LBL_AOP_USER_EMAIL_TEMPLATE'] = 'User Email Template';
-$mod_strings['LBL_AOP_CASE_CREATION_EMAIL_TEMPLATE'] = 'Case Created Email Template';
-$mod_strings['LBL_AOP_CASE_CLOSURE_EMAIL_TEMPLATE'] = 'Case Closed Email Template';
-$mod_strings['LBL_AOP_CASE_REMINDER_EMAIL_TEMPLATE'] = 'Case Reminder Email Template';
-$mod_strings['LBL_AOP_JOOMLA_ACCOUNT_CREATION_EMAIL_TEMPLATE'] = 'Joomla Support Portal Account Creation Template';
+$mod_strings['LBL_AOP_CONTACT_EMAIL_TEMPLATE'] = 'Plantilla de contacte de correu electrònic';
+$mod_strings['LBL_AOP_USER_EMAIL_TEMPLATE'] = 'Plantilla de correu electrònic d\'usuari';
+$mod_strings['LBL_AOP_CASE_CREATION_EMAIL_TEMPLATE'] = 'Plantilla de correu electrònic de cas creat';
+$mod_strings['LBL_AOP_CASE_CLOSURE_EMAIL_TEMPLATE'] = 'Plantilla de correu electrònic de cas tancat';
+$mod_strings['LBL_AOP_CASE_REMINDER_EMAIL_TEMPLATE'] = 'Plantilla de correu electrònic de recordatori de cas';
+$mod_strings['LBL_AOP_JOOMLA_ACCOUNT_CREATION_EMAIL_TEMPLATE'] = 'Plantilla de creació de creació de compta del portal de suport de Joomla';
 
-$mod_strings['LBL_AOP_BUSINESS_HOURS_SETTINGS'] = 'Business Hours';
-$mod_strings['LBL_AOP_OPENING_DAYS'] = 'Opening Days';
-$mod_strings['LBL_AOP_OPENING_HOURS'] = 'Opening Hours';
-$mod_strings['LBL_AOP_CLOSING_HOURS'] = 'Closing Hours';
-$mod_strings['LBL_SUPPORT_FROM_ADDRESS'] = 'Support Email From Address';
-$mod_strings['LBL_SUPPORT_FROM_NAME'] = 'Support Email From Name';
-$mod_strings['LBL_CREATE_EMAIL_TEMPLATE']  = 'Nou [Alt+N]';
+$mod_strings['LBL_AOP_BUSINESS_HOURS_SETTINGS'] = 'Hores Laborals';
+$mod_strings['LBL_AOP_OPENING_DAYS'] = 'Dies d\'obertura';
+$mod_strings['LBL_AOP_OPENING_HOURS'] = 'Hora d\'obertura';
+$mod_strings['LBL_AOP_CLOSING_HOURS'] = 'Hores de tancament';
+$mod_strings['LBL_SUPPORT_FROM_ADDRESS'] = 'Adreça de correu del soport';
+$mod_strings['LBL_SUPPORT_FROM_NAME'] = 'Nom del correu de soport';
+$mod_strings['LBL_CREATE_EMAIL_TEMPLATE']  = 'Crear';
 $mod_strings['LBL_EDIT_EMAIL_TEMPLATE']  = 'Editar';
-$mod_strings['LBL_SINGLE_USER'] = 'Single User';
-$mod_strings['LBL_AOP_SETTINGS'] = 'AOP Settings';
+$mod_strings['LBL_SINGLE_USER'] = 'Usuari individual';
+$mod_strings['LBL_AOP_SETTINGS'] = 'Configuració d\'AOP';
 
-$mod_strings['LBL_AOP_CASE_STATUS_SETTINGS'] = 'Case Status Changes';
-$mod_strings['LBL_AOP_IF_STATUS'] = 'If status is';
-$mod_strings['LBL_AOP_THEN_STATUS'] = 'change status to';
+$mod_strings['LBL_AOP_CASE_STATUS_SETTINGS'] = 'Canvis de l\'estat del cas';
+$mod_strings['LBL_AOP_IF_STATUS'] = 'Si l\'estat és';
+$mod_strings['LBL_AOP_THEN_STATUS'] = 'canviar l\'estat a';
 $mod_strings['LBL_AOP_ADD_STATUS'] = 'Afegir';
 $mod_strings['LBL_AOP_REMOVE_STATUS'] = 'Treure';
 

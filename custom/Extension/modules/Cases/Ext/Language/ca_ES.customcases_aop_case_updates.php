@@ -21,11 +21,11 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_UPDATE_TEXT'] = 'Update Text';
-$mod_strings['LBL_INTERNAL'] = 'Internal Update';
-$mod_strings['LBL_AOP_CASE_UPDATES'] = 'Case Updates';
-$mod_strings['LBL_AOP_CASE_UPDATES_THREADED'] = 'Case Updates Threaded';
-$mod_strings['LBL_CASE_UPDATES_COLLAPSE_ALL'] = 'Collapse All';
-$mod_strings['LBL_CASE_UPDATES_EXPAND_ALL'] = 'Expand All';
-$mod_strings['LBL_NO_CASE_UPDATES'] = "There have been no updates to this case";
-$mod_strings['LBL_AOP_CASE_ATTACHMENTS'] = 'Attachments: '; 
+$mod_strings['LBL_UPDATE_TEXT'] = 'Actualitzar text';
+$mod_strings['LBL_INTERNAL'] = 'Actualització interna';
+$mod_strings['LBL_AOP_CASE_UPDATES'] = 'Actualitzacions de casos';
+$mod_strings['LBL_AOP_CASE_UPDATES_THREADED'] = 'Actualitzacions de casos encadenats';
+$mod_strings['LBL_CASE_UPDATES_COLLAPSE_ALL'] = 'Col·lapsar tot';
+$mod_strings['LBL_CASE_UPDATES_EXPAND_ALL'] = 'Expandeix tot';
+$mod_strings['LBL_NO_CASE_UPDATES'] = "No hi ha hagut actualitzacions per aquest cas";
+$mod_strings['LBL_AOP_CASE_ATTACHMENTS'] = 'Adjunts:'; 

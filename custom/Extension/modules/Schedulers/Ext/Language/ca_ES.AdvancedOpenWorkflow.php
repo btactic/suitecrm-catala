@@ -22,6 +22,6 @@
  * @author SalesAgility <info@salesagility.com>
  */
  
-$mod_strings['LBL_PROCESSAOW_WORKFLOW']='Process AOW Workflow';
+$mod_strings['LBL_PROCESSAOW_WORKFLOW']='Processar flux de treball AOW';
 
 ?>

@@ -48,10 +48,10 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array (
   'LBL_MODULE_NAME' => 'Combinació de Registres',
   'LBL_MODULE_TITLE' => 'Combinació de Registres: Inici',
-  'LBL_SEARCH_FORM_TITLE' => 'Recerca de Combinacions',
+  'LBL_SEARCH_FORM_TITLE' => 'Cerca de Combinacions',
   'LBL_LIST_FORM_TITLE' => 'Llista de Combinacions',
 
-  'LBL_LBL_MERGE_RECORDS_STEP_1' => 'Find Search Records to Merge With',
+  'LBL_LBL_MERGE_RECORDS_STEP_1' => 'Cerca registres a fusionar amb',
   'LBL_AVAIL_FIELDS' => 'Camps Disponibles',
   'LBL_FILTER_COND' => 'Condició de Filtrat',
   'LBL_SELECTED_FIELDS' => 'Camps Seleccionats',
@@ -66,9 +66,9 @@ $mod_strings = array (
   'LBL_PERFORM_MERGE_BUTTON_KEY' => 'P',
   'LBL_PERFORM_MERGE_BUTTON_LABEL' => 'Realitzar Combinació',
 
-  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Guardar Combinació[Ctrl+S]',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Desar Combinació',
   'LBL_SAVE_MERGED_RECORD_BUTTON_KEY' => 'S',
-  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Guardar Combinació',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Desar Combinació',
 
   'LBL_STEP2_FORM_TITLE' => 'Registres Trobats amb els que Combinar:',
   'LBL_SELECT_ERROR'=>'Ha de realitzar una selecció abans de continuar.',
@@ -80,7 +80,7 @@ $mod_strings = array (
   'ERR_EXCEEDS_MAX'=>'Només li està permès combinar un màxim de 5 registres. Els registres que superin aquest límit seran ignorats.',
   'LBL_DELETE_MESSAGE'=>'Aquesta acció eliminarà els següents registres:',
   'LBL_PROCEED'=>'Continuar?',
-  'LBL_STEP1_DIRECTIONS' => 'Find possible duplicate records. If possible duplicates are found, you can select which records to merge with the current record.',
+  'LBL_STEP1_DIRECTIONS' => 'S\'han trobat registres que podrien estar duplicats. Quan es troben possibles duplicats, pot seleccionar aquells registres que desitja fusionar amb el registre actual.',
 );
 
 

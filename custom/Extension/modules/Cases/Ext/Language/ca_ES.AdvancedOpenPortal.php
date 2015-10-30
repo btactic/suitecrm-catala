@@ -21,13 +21,13 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_AOP_CASE_EVENTS'] = 'Case Events';
-$mod_strings['LBL_CASE_ATTACHMENTS_DISPLAY'] = 'Case Attachments:';
-$mod_strings['LBL_ADD_CASE_FILE'] = 'Add file';
-$mod_strings['LBL_REMOVE_CASE_FILE'] = 'Remove file';
-$mod_strings['LBL_SELECT_CASE_DOCUMENT'] = 'Select document';
-$mod_strings['LBL_CLEAR_CASE_DOCUMENT'] = 'Clear document';
-$mod_strings['LBL_SELECT_INTERNAL_CASE_DOCUMENT'] = 'Internal CRM document';
-$mod_strings['LBL_SELECT_EXTERNAL_CASE_DOCUMENT'] = 'External file';
-$mod_strings['LBL_CONTACT_CREATED_BY_NAME'] = 'Created by contact';
-$mod_strings['LBL_CASE_UPDATE_FORM'] = 'Update attachment form';
+$mod_strings['LBL_AOP_CASE_EVENTS'] = 'Esdeveniments de casos';
+$mod_strings['LBL_CASE_ATTACHMENTS_DISPLAY'] = 'Adjunts de cas:';
+$mod_strings['LBL_ADD_CASE_FILE'] = 'Afegir fitxer';
+$mod_strings['LBL_REMOVE_CASE_FILE'] = 'Eliminar fitxer';
+$mod_strings['LBL_SELECT_CASE_DOCUMENT'] = 'Seleccionar document';
+$mod_strings['LBL_CLEAR_CASE_DOCUMENT'] = 'Netejar document';
+$mod_strings['LBL_SELECT_INTERNAL_CASE_DOCUMENT'] = 'Document intern a CRM';
+$mod_strings['LBL_SELECT_EXTERNAL_CASE_DOCUMENT'] = 'Fitxer extern';
+$mod_strings['LBL_CONTACT_CREATED_BY_NAME'] = 'Creat per contacte';
+$mod_strings['LBL_CASE_UPDATE_FORM'] = 'Actualitzar l\'adjunt';

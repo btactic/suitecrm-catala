@@ -41,16 +41,16 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-    'LBL_OAUTH_REQUEST' => "Request Token",
-    'LBL_OAUTH_AUTHORIZE' => "Authorize Token",
-	'LBL_OAUTH_CONSUMERREQ' => "Authorize token from consumer <b>%s</b>?",
-    'LBL_OAUTH_ROLE' => "Token role",
-	'LBL_OAUTH_VALIDATION' => "Verification code",
+    'LBL_OAUTH_REQUEST' => "Sol·licitud de token",
+    'LBL_OAUTH_AUTHORIZE' => "Autoritzar Token",
+	'LBL_OAUTH_CONSUMERREQ' => "Autoritzar token del consumidor <b>%s</b>",
+    'LBL_OAUTH_ROLE' => "funció del Token",
+	'LBL_OAUTH_VALIDATION' => "Verificació del codi",
   	'LBL_ASSIGNED_TO_NAME' => 'Usuari',
   	'LBL_ID' => 'ID',
     'LBL_STATUS' => 'Estat',
-    'LBL_TS' => 'Timestamp',
-    'LBL_LIST_DELETE' => 'Delete Token',
-    'LBL_CONSUMER' => 'Consumer Name',
-    'LBL_OAUTH_DISABLED' => 'OAuth support not enabled. PHP oauth extension may be missing. Please contact your administrator.',
+    'LBL_TS' => 'Data i hora',
+    'LBL_LIST_DELETE' => 'Eliminar Token',
+    'LBL_CONSUMER' => 'Nom del consumidor',
+    'LBL_OAUTH_DISABLED' => 'El suport OAuth no esta habilitat. La extensió oauth de PHP pot estar fallant. Si us plau, contacti amb el seu administrador.',
 );

@@ -5,4 +5,4 @@
  * Date: 11/07/13
  */
 
-$mod_strings['COLUMN_TITLE_PARENT_ENUM'] = 'Parent DropDown';
+$mod_strings['COLUMN_TITLE_PARENT_ENUM'] = 'Llista desplegable pare';

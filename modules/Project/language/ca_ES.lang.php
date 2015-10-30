@@ -44,7 +44,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array (
 	'LBL_MODULE_NAME' => 'Projecte',
 	'LBL_MODULE_TITLE' => 'Projecte Inici',
-	'LBL_SEARCH_FORM_TITLE' => 'Recerca de Projectes',
+	'LBL_SEARCH_FORM_TITLE' => 'Cerca de Projectes',
     'LBL_LIST_FORM_TITLE' => 'Llista de Projectes',
     'LBL_HISTORY_TITLE' => 'Històrial',
 
@@ -93,7 +93,7 @@ $mod_strings = array (
     // quick create label
     'LBL_NEW_FORM_TITLE' => 'Nou Projecte',
 
-	'CONTACT_REMOVE_PROJECT_CONFIRM' => 'Està segur de que vol esborrar aquest contacte d´aquest projecte?',
+	'CONTACT_REMOVE_PROJECT_CONFIRM' => 'Està segur de que vol esborrar aquest contacte d\'aquest projecte?',
 
 	'LNK_NEW_PROJECT'	=> 'Crear Projecte',
 	'LNK_PROJECT_LIST'	=> 'Llista de Projectes',
@@ -138,13 +138,13 @@ $mod_strings = array (
     'LBL_OPPORTUNITIES' => 'Oportunitats',
 	'LBL_LAST_WEEK' => 'Anterior',
 	'LBL_NEXT_WEEK' => 'Següent',
-	'LBL_PROJECTRESOURCES_SUBPANEL_TITLE' => 'Project Resources',
+	'LBL_PROJECTRESOURCES_SUBPANEL_TITLE' => 'Recursos del projecte',
 	'LBL_PROJECTTASK_SUBPANEL_TITLE' => 'Tasques de Projecte',
-	'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Holidays',
-	'LBL_PROJECT_INFORMATION' => 'Project Overview',
+	'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Vacances',
+	'LBL_PROJECT_INFORMATION' => 'Visió general del projecte',
 	'LBL_EDITLAYOUT' => 'Editar Diseny' /*for 508 compliance fix*/,
-	'LBL_INSERTROWS' => 'Insert Rows' /*for 508 compliance fix*/,
-	'LBL_PROJECT_INFORMATION' => 'Project Overview',
+	'LBL_INSERTROWS' => 'Inserir files' /*for 508 compliance fix*/,
+	'LBL_PROJECT_INFORMATION' => 'Visió general del projecte',
 
 );
 ?>

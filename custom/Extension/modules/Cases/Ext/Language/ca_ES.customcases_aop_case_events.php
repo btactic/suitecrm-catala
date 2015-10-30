@@ -21,4 +21,4 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_AOP_CASE_EVENTS'] = 'Case Events';
+$mod_strings['LBL_AOP_CASE_EVENTS'] = 'Esdeveniments de casos';

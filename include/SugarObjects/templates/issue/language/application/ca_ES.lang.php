@@ -57,7 +57,7 @@ $object_name = strtolower($object_name);
     'New' => 'Nou',
     'Assigned' => 'Assignat',
     'Closed' => 'Tancat',
-    'Pending Input' => 'Pendent d´Informació',
+    'Pending Input' => 'Pendent d\'Informació',
     'Rejected' => 'Refusat',
     'Duplicate' => 'Duplicat',
   ),

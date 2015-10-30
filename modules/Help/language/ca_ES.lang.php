@@ -49,7 +49,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array (
   'LBL_MODULE_NAME' => 'Comptes',
   'LBL_MODULE_TITLE' => 'Comptes: Inici',
-  'LBL_SEARCH_FORM_TITLE' => 'Recerca de Comptes',
+  'LBL_SEARCH_FORM_TITLE' => 'Cerca de Comptes',
   'LBL_LIST_FORM_TITLE' => 'Llista de Comptes',
   'LBL_NEW_FORM_TITLE' => 'Nou Compte',
   'LNK_NEW_CONTACT' => 'Nou Contacte',
@@ -61,7 +61,7 @@ $mod_strings = array (
   'LNK_NEW_EMAIL' => 'Arxivar Correu',
   'LNK_NEW_MEETING' => 'Programar Reunió',
   'LNK_NEW_TASK' => 'Nova Tasca',
-  'ERR_DELETE_RECORD' => 'Ha d´especificar un número de registre a eliminar.',
+  'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
 );
 
 

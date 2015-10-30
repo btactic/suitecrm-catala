@@ -40,11 +40,11 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $dashletStrings['CalendarDashlet'] = array(
-					'LBL_TITLE'            => 'My Calendar',
-                         'LBL_DESCRIPTION'      => 'Calendar dashlet',
+					'LBL_TITLE'            => 'El meu calendari',
+                         'LBL_DESCRIPTION'      => 'Calendari dashlet',
                          'LBL_CONFIGURE_TITLE'  => 'Títol',
                          'LBL_CONFIGURE_VIEW'  => 'Veure',
-                         'LBL_SAVE_BUTTON_LABEL' => 'Guardar [Alt+S]',
+                         'LBL_SAVE_BUTTON_LABEL' => 'Desar',
                          
                          'LBL_VIEW_DAY' => 'Dia',
                          'LBL_VIEW_WEEK' => 'Setmana',

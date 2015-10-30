@@ -1,5 +1,4 @@
 <?php
-if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 /*********************************************************************************
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
@@ -38,11 +37,37 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  ********************************************************************************/
 
-
-
-
-
-$dashletStrings['OpportunitiesByLeadSourceDashlet'] = array('LBL_TITLE'       => 'Totes les Oportunitats per Presa de Contacte',
-                                                       'LBL_DESCRIPTION' => 'Gràfic de Pastís d\'Oportunitats per Presa de Contacte',
-                                                       'LBL_REFRESH'     => 'Actualitzar Gràfic');
-?>
+$mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'ID Usuari Assignat',
+  'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Data de Creació',
+  'LBL_DATE_MODIFIED' => 'Última Modificació',
+  'LBL_MODIFIED' => 'Modificat Per',
+  'LBL_MODIFIED_ID' => 'Modificat per Id',
+  'LBL_MODIFIED_NAME' => 'Modificat per Nom',
+  'LBL_CREATED' => 'Creat Per',
+  'LBL_CREATED_ID' => 'Creat per Id',
+  'LBL_DESCRIPTION' => 'Descripció',
+  'LBL_DELETED' => 'Esborrat',
+  'LBL_NAME' => 'Nom',
+  'LBL_CREATED_USER' => 'Creat per Usuari',
+  'LBL_MODIFIED_USER' => 'Modificat per Usuari',
+  'LBL_LIST_NAME' => 'Nom',
+  'LBL_EDIT_BUTTON' => 'Editar',
+  'LBL_REMOVE' => 'Treure',
+  'LBL_LIST_FORM_TITLE' => 'Llista d\'alertes',
+  'LBL_MODULE_NAME' => 'Alerta',
+  'LBL_MODULE_TITLE' => 'Alerta',
+  'LBL_HOMEPAGE_TITLE' => 'La meva alerta',
+  'LNK_NEW_RECORD' => 'Crear alerta',
+  'LNK_LIST' => 'Veure alerta',
+  'LNK_IMPORT_Alert' => 'Importar alerta',
+  'LBL_SEARCH_FORM_TITLE' => 'Cercar alerta',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'Veure historial',
+  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activitats',
+  'LBL_Alert_SUBPANEL_TITLE' => 'Alerta',
+  'LBL_NEW_FORM_TITLE' => 'Nova alerta',
+  'LBL_IS_READ' => 'llegit',
+  'LBL_DATE_TIME' => 'Data/Hora',
+);

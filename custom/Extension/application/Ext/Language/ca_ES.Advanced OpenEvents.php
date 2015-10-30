@@ -39,20 +39,20 @@
  ********************************************************************************/
 
 
-$app_list_strings['moduleList']['FP_events'] = 'Events';
-$app_list_strings['moduleList']['FP_Event_Locations'] = 'Locations';
+$app_list_strings['moduleList']['FP_events'] = 'Esdeveniments';
+$app_list_strings['moduleList']['FP_Event_Locations'] = 'Ubicacions';
 $app_list_strings['invite_template_list'][''] = '';
 
-$app_list_strings['fp_event_invite_status_dom']['Invited'] = 'Invited';
-$app_list_strings['fp_event_invite_status_dom']['Not Invited'] = 'Not Invited';
-$app_list_strings['fp_event_invite_status_dom']['Attended'] = 'Attended';
-$app_list_strings['fp_event_invite_status_dom']['Not Attended'] = 'Not Attended';
+$app_list_strings['fp_event_invite_status_dom']['Invited'] = 'Invitat';
+$app_list_strings['fp_event_invite_status_dom']['Not Invited'] = 'No Invitat';
+$app_list_strings['fp_event_invite_status_dom']['Attended'] = 'Assistents ';
+$app_list_strings['fp_event_invite_status_dom']['Not Attended'] = 'No Assistents';
 $app_list_strings['fp_event_status_dom']['Accepted'] = 'Acceptat';
-$app_list_strings['fp_event_status_dom']['Declined'] = 'Declined';
-$app_list_strings['fp_event_status_dom']['No Response'] = 'No Response';
+$app_list_strings['fp_event_status_dom']['Declined'] = 'Rebutjat';
+$app_list_strings['fp_event_status_dom']['No Response'] = 'Sense resposta';
 
-$app_strings['LBL_STATUS_EVENT'] = 'Invite Status';
-$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d´Acceptació';
-$app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Pàgina Actual';
-$app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Tots els Registres';
-$app_strings['LBL_LISTVIEW_NONE'] = 'Rés';
+$app_strings['LBL_STATUS_EVENT'] = 'Estat de la Invitació';
+$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d\'acceptació';
+$app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Seleccionar Pàgina Actual';
+$app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Seleccionar tot';
+$app_strings['LBL_LISTVIEW_NONE'] = 'Treure la Selecció';

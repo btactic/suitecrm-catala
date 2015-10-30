@@ -24,17 +24,17 @@
  */
 
 $app_list_strings['call_reschedule_dom'][''] = '';
-$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Out of Office';
-$app_list_strings['call_reschedule_dom']['In a Meeting'] = 'In a Meeting';
+$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Fora d\'Oficina';
+$app_list_strings['call_reschedule_dom']['In a Meeting'] = 'A una reunió';
 
-$app_strings['LBL_RESCHEDULE_LABEL'] = 'Reschedule';
-$app_strings['LBL_RESCHEDULE_TITLE'] = 'Please enter the reschedule information';
+$app_strings['LBL_RESCHEDULE_LABEL'] = 'Replanificar';
+$app_strings['LBL_RESCHEDULE_TITLE'] = 'Si us plau, ingressi les dades de la replanificació ';
 $app_strings['LBL_RESCHEDULE_DATE'] = 'Data:';
-$app_strings['LBL_RESCHEDULE_REASON'] = 'Reason:';
-$app_strings['LBL_RESCHEDULE_ERROR1'] = 'Please select a valid date';
-$app_strings['LBL_RESCHEDULE_ERROR2'] = 'Please select a reason';
+$app_strings['LBL_RESCHEDULE_REASON'] = 'Raó:';
+$app_strings['LBL_RESCHEDULE_ERROR1'] = 'Si us plau, seleccioni una data vàlida';
+$app_strings['LBL_RESCHEDULE_ERROR2'] = 'Si us plau, seleccioni una raó';
 
-$app_strings['LBL_RESCHEDULE_PANEL'] = 'Reschedule';
-$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Call attempt history';
-$app_strings['LBL_RESCHEDULE_COUNT'] = 'Call Attempts';
+$app_strings['LBL_RESCHEDULE_PANEL'] = 'Replanificar';
+$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historial d\'intents de trucada';
+$app_strings['LBL_RESCHEDULE_COUNT'] = 'Intents de trucada';
 

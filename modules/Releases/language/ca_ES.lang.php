@@ -48,22 +48,22 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
   'LBL_MODULE_NAME' => 'Llançaments',
-  'LBL_MODULE_TITLE' => 'Releases: Home',
-  'LBL_SEARCH_FORM_TITLE' => 'Release Search',
-  'LBL_LIST_FORM_TITLE' => 'Release List',
-  'LBL_NEW_FORM_TITLE' => 'New Release',
-  'LBL_RELEASE' => 'Release:',
-  'LBL_LIST_NAME' => 'Release',
-  'LBL_NAME' => 'Release version:',
+  'LBL_MODULE_TITLE' => 'Publicacions: Inici',
+  'LBL_SEARCH_FORM_TITLE' => 'Cerca de publicacions',
+  'LBL_LIST_FORM_TITLE' => 'Llista de publicacions',
+  'LBL_NEW_FORM_TITLE' => 'Nova publicació',
+  'LBL_RELEASE' => 'Publicació:',
+  'LBL_LIST_NAME' => 'Publicació',
+  'LBL_NAME' => 'Versió de la publicació:',
   'LBL_LIST_LIST_ORDER' => 'Ordre',
   'LBL_LIST_ORDER' => 'Ordre:',
   'LBL_LIST_STATUS' => 'Estat',
   'LBL_STATUS' => 'Estat:',
-  'LNK_NEW_RELEASE' => 'Release List',
+  'LNK_NEW_RELEASE' => 'Llista de publicacions',
   'NTC_DELETE_CONFIRMATION' => 'Està segur de que desitja eliminar el registre?',
-  'ERR_DELETE_RECORD' => 'You must specify a record number to delete the release.',
-  'NTC_STATUS' => 'Set status to Inactive to remove this release from the Release dropdown lists',
-  'NTC_LIST_ORDER' => 'Set the order this release will appear in the Release dropdown lists',
+  'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per a eliminar la publicació.',
+  'NTC_STATUS' => 'Establir l\'estat a inactiu per a eliminar aquesta publicació de les llistes desplegables de publicacions',
+  'NTC_LIST_ORDER' => 'Estableix l\'ordre en que aquesta publicació apareixerà a les llistes desplegables de publicacions',
 
   'release_status_dom' =>
   array (

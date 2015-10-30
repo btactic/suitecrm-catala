@@ -44,7 +44,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $mod_strings = array (
 	'LBL_MODULE_NAME' => 'Tasques de Projecte',
 	'LBL_MODULE_TITLE' => 'Tasques de Projecte: Inici',
-	'LBL_SEARCH_FORM_TITLE' => 'Recerca de Tasques de Projecte',
+	'LBL_SEARCH_FORM_TITLE' => 'Cerca de Tasques de Projecte',
 	'LBL_LIST_FORM_TITLE'=> 'Llista de Tasques de Projecte',
     'LBL_EDIT_TASK_IN_GRID_TITLE'=> 'Editar Tasca en Reixeta',    
 	
@@ -71,8 +71,8 @@ $mod_strings = array (
     'LBL_DURATION_UNIT' => 'Unitat de Durada:',
     'LBL_ACTUAL_DURATION' => 'Durada Real:',
 	'LBL_PARENT_ID' => 'Projecte:',
-    'LBL_PARENT_TASK_ID' => 'Id Tasca Padre:',    
-    'LBL_PERCENT_COMPLETE' => 'Porcentatge Completat (%):',
+    'LBL_PARENT_TASK_ID' => 'Id Tasca Pare:',    
+    'LBL_PERCENT_COMPLETE' => '% Completat:',
 	'LBL_PRIORITY' => 'Prioritat:',
 	'LBL_DESCRIPTION' => 'Descripció:',
 	'LBL_ORDER_NUMBER' => 'Ordre:',
@@ -83,13 +83,13 @@ $mod_strings = array (
 	'LBL_ESTIMATED_EFFORT' => 'Treball Estimat (h):',
 	'LBL_ACTUAL_EFFORT' => 'Treball Real (h):',
 	'LBL_UTILIZATION' => 'Ocupació (%):',
-	'LBL_DELETED' => 'Esborrada:',
+	'LBL_DELETED' => 'Eliminada:',
 
 	'LBL_LIST_ORDER_NUMBER' => 'Ordre',
 	'LBL_LIST_NAME' => 'Nom',
     'LBL_LIST_DAYS' => 'dies',
 	'LBL_LIST_PARENT_NAME' => 'Projecte',
-	'LBL_LIST_PERCENT_COMPLETE' => 'Porcentatge Completat (%)',
+	'LBL_LIST_PERCENT_COMPLETE' => '% Completat',
 	'LBL_LIST_STATUS' => 'Estat',
     'LBL_LIST_DURATION' => 'Durada',
     'LBL_LIST_ACTUAL_DURATION' => 'Durada Real',
@@ -111,15 +111,15 @@ $mod_strings = array (
 	'LBL_NEW_FORM_TITLE' => 'Nova Tasca de Projecte',
 
 	'LBL_ACTIVITIES_TITLE'=>'Activitats',
-	'LBL_HISTORY_TITLE'=>'Històrial',
+	'LBL_HISTORY_TITLE'=>'Historial',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activitats',
-	'LBL_HISTORY_SUBPANEL_TITLE'=>'Històrial', 
-	'DATE_JS_ERROR' => 'Si us plau, posi una data que correspongui a l´hora introduïda',
+	'LBL_HISTORY_SUBPANEL_TITLE'=>'Historial', 
+	'DATE_JS_ERROR' => 'Si us plau, introdueixi una data que correspongui a l\'hora introduïda',
 
     'LBL_ASSIGNED_USER_NAME' => 'Assignat a',
     'LBL_PARENT_NAME' => 'Nom de Projecte',
     'LBL_LIST_PROJECT_NAME' => 'Projectes',
 	'LBL_EDITLAYOUT' => 'Editar Diseny' /*for 508 compliance fix*/,
-    'LBL_PANEL_TIMELINE' => 'Timeline',
+    'LBL_PANEL_TIMELINE' => 'Línia de temps',
 );
 ?>

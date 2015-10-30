@@ -70,15 +70,15 @@ $mod_strings = array (
 	'LBL_CHANGE_LOG'=> 'Historial de Canvis',
 	'LBL_ACTIVE_DATE'=> 'Data de Publicació',
 	'LBL_EXPIRATION_DATE' => 'Data de Caducitat',
-	'LBL_FILE_EXTENSION'  => 'Extensió d´Arxiu',
+	'LBL_FILE_EXTENSION'  => 'Extensió d\'Arxiu',
 
 	'LBL_CAT_OR_SUBCAT_UNSPEC'=>'Sense especificar',
 	//quick search
 	'LBL_NEW_FORM_TITLE' => 'Nou Document',
 	//document edit and detail view
 	'LBL_DOC_NAME' => 'Nom de Document:',
-	'LBL_FILENAME' => 'Nom d´Arxiu:',
-	'LBL_FILE_UPLOAD' => 'Nom d´Arxiu',
+	'LBL_FILENAME' => 'Nom d\'Arxiu:',
+	'LBL_FILE_UPLOAD' => 'Arxiu:',
 	'LBL_DOC_VERSION' => 'Revisió:',
 	'LBL_CATEGORY_VALUE' => 'Categoría:',
 	'LBL_SUBCATEGORY_VALUE'=> 'Subcategoría:',
@@ -104,8 +104,8 @@ $mod_strings = array (
 
 	//document search form.
 	'LBL_SF_DOCUMENT' => 'Nom de Document:',
-	'LBL_SF_CATEGORY' => 'Categoría:',
-	'LBL_SF_SUBCATEGORY'=> 'Subcategoría:',
+	'LBL_SF_CATEGORY' => 'Categoria:',
+	'LBL_SF_SUBCATEGORY'=> 'Subcategoria:',
 	'LBL_SF_ACTIVE_DATE' => 'Data de Publicació:',
 	'LBL_SF_EXP_DATE'=> 'Data de Caducitat:',
 
@@ -115,13 +115,13 @@ $mod_strings = array (
 	'ERR_DOC_NAME'=>'Nom de Document',
 	'ERR_DOC_ACTIVE_DATE'=>'Data de Publicació',
 	'ERR_DOC_EXP_DATE'=> 'Data de Caducitat',
-	'ERR_FILENAME'=> 'Nom d´Arxiu',
+	'ERR_FILENAME'=> 'Nom d\'Arxiu',
 
 	'LBL_TREE_TITLE' => 'Documents',
 	//sub-panel vardefs.
 	'LBL_LIST_DOCUMENT_NAME'=>'Nom de Document',
 
-    'LBL_EDIT_BUTTON' => 'Edit ',
+    'LBL_EDIT_BUTTON' => 'Editar',
     'LBL_REMOVE' => 'Treure',
 
 );

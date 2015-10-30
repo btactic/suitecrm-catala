@@ -6,4 +6,4 @@
  * when directly downloading from Transifex requires post-download edits to work. See SuiteCREM forum
  */
 
-$mod_strings['fieldTypes']['dynamicenum'] = 'Dynamic DropDown';
+$mod_strings['fieldTypes']['dynamicenum'] = 'Llista desplegable dinàmica';

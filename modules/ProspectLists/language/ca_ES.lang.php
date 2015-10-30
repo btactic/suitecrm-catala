@@ -50,11 +50,11 @@ $mod_strings = array (
   'LBL_MODULE_NAME' => 'Llistes de Públic Objectiu',
   'LBL_MODULE_ID'   => 'Llistes de Prospectes',
   'LBL_MODULE_TITLE' => 'Llistes de Públic Objectiu: Inici',
-  'LBL_SEARCH_FORM_TITLE' => 'Recerca de Llistes de Públic Objectiu',
+  'LBL_SEARCH_FORM_TITLE' => 'Cerca de Llistes de Públic Objectiu',
   'LBL_LIST_FORM_TITLE' => 'Llistes de Públic Objectiu',
   'LBL_PROSPECT_LIST_NAME' => 'Llistes de Públic Objectiu:',
   'LBL_NAME' => 'Nom',
-  'LBL_ENTRIES' => 'Total d´Entrades',
+  'LBL_ENTRIES' => 'Total d\'Entrades',
   'LBL_LIST_PROSPECT_LIST_NAME' => 'Llista de Públic Objectiu',
   'LBL_LIST_ENTRIES' => 'Públic Objectiu en la Lista',
   'LBL_LIST_DESCRIPTION' => 'Descripció',
@@ -90,12 +90,12 @@ $mod_strings = array (
   'LBL_LIST_TYPE' => 'Tipus',
   'LBL_LIST_TYPE_LIST_NAME'=>'Tipus',
   'LBL_NEW_FORM_TITLE'=>'Nova Llista de Públic Objectiu',
-  'LBL_MARKETING_NAME'=>'Marketing Name',
+  'LBL_MARKETING_NAME'=>'Nom de màrqueting',
   'LBL_MARKETING_MESSAGE'=>'Missatge de Màrqueting per Correu',
   'LBL_DOMAIN_NAME'=>'Nom de Domini',
   'LBL_DOMAIN'=>'No hi ha correus per aquest domini',
   'LBL_LIST_PROSPECTLIST_NAME'=>'Nom',
-	'LBL_MORE_DETAIL' => 'More Detail' /*for 508 compliance fix*/,
+	'LBL_MORE_DETAIL' => 'Més detalls' /*for 508 compliance fix*/,
 );
 
 

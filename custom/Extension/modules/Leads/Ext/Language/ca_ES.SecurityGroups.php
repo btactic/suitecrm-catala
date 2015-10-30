@@ -2,7 +2,7 @@
 
 $mod_strings = array_merge($mod_strings,
 	array(
-		 'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => "Security Groups",
+		 'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => "Grups de Seguretat",
 	)
 );
 ?>

@@ -1,9 +1,9 @@
 <?php
     
-$mod_strings['LBL_RESCHEDULE_REBUILD'] = 'Repair Reschedule';
-$mod_strings['LBL_RESCHEDULE_REBUILD_DESC'] = 'Repairs the Reschedule Module';
-$mod_strings['LBL_RESCHEDULE_ADMIN'] = 'Reschedule Settings';
-$mod_strings['LBL_RESCHEDULE_ADMIN_DESC'] = 'Configure and Manage Reschedule';
-$mod_strings['LBL_REPAIR_RESCHEDULE_DONE'] = 'Reschedule Successfully Repaired';
-$mod_strings['LBL_SALESAGILITY_ADMIN'] = 'Advanced OpenAdmin';
+$mod_strings['LBL_RESCHEDULE_REBUILD'] = 'Reparar el replanificador';
+$mod_strings['LBL_RESCHEDULE_REBUILD_DESC'] = 'Reparar el mòdul de replanificació';
+$mod_strings['LBL_RESCHEDULE_ADMIN'] = 'Configuració del replanificador';
+$mod_strings['LBL_RESCHEDULE_ADMIN_DESC'] = 'Configurar i administrar la replanificació';
+$mod_strings['LBL_REPAIR_RESCHEDULE_DONE'] = 'S\'ha reparat el replanificador';
+$mod_strings['LBL_SALESAGILITY_ADMIN'] = 'OpenAdmin avançat';
 

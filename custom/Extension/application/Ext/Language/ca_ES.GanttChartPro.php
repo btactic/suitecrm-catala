@@ -35,15 +35,15 @@
  ********************************************************************************/
 
 
-$app_list_strings['moduleList']['AM_ProjectTemplates'] = 'Project Templates';
-$app_list_strings['moduleList']['AM_TaskTemplates'] = 'Project Task Templates';
-$app_list_strings['relationship_type_list']['FS'] = 'Finish to Start';
-$app_list_strings['relationship_type_list']['SS'] = 'Start to Start';
-$app_list_strings['moduleList']['AM_ProjectHolidays'] = 'Project Holidays';
+$app_list_strings['moduleList']['AM_ProjectTemplates'] = 'Plantilles de Projecte';
+$app_list_strings['moduleList']['AM_TaskTemplates'] = 'Plantilles de Tasques de Projecte';
+$app_list_strings['relationship_type_list']['FS'] = 'de principi a fi';
+$app_list_strings['relationship_type_list']['SS'] = 'començar per començar';
+$app_list_strings['moduleList']['AM_ProjectHolidays'] = 'dies de festa de projecte';
 $app_list_strings['holiday_resource_dom']['Contacts'] = 'Contactes';
 $app_list_strings['holiday_resource_dom']['Users'] = 'Usuaris';
 $app_list_strings['duration_unit_dom']['Days'] = 'Dies';
 $app_list_strings['duration_unit_dom']['Hours'] = 'Hores';
-$app_strings['LBL_GANTT_BUTTON_LABEL'] = 'View Gantt';
-$app_strings['LBL_GANTT_BUTTON_TITLE'] = 'View Gantt';
+$app_strings['LBL_GANTT_BUTTON_LABEL'] = 'Veure gantt';
+$app_strings['LBL_GANTT_BUTTON_TITLE'] = 'Veure gantt';
 $app_strings['LBL_CREATE_PROJECT'] = 'Crear Projecte';

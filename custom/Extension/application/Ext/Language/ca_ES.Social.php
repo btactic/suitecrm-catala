@@ -24,7 +24,7 @@
  */
 
 $mod_strings = array (
-    'TWITTER_USER_C' => 'Twitter User',
-    'FACEBOOK_USER_C' => 'Facebook User',
+    'TWITTER_USER_C' => 'Usuari de Twitter',
+    'FACEBOOK_USER_C' => 'Usuari de Facebook',
 );
 

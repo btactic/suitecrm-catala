@@ -1,23 +1,23 @@
 {
-    "sEmptyTable": "No data available in table",
-    "sInfo": "Showing _START_ to _END_ of _TOTAL_ entries",
-    "sInfoEmpty": "Showing 0 to 0 of 0 entries",
-    "sInfoFiltered": "(filtered from _MAX_ total entries)",
+    "sEmptyTable": "No hi ha cap dada disponible a aquesta taula",
+    "sInfo": "Mostrar_començament_al_final_del_total_registres",
+    "sInfoEmpty": "Mostrant entrades de la 0 a la 0 de un total de 0",
+    "sInfoFiltered": "(filtrat d'un_màxim_de registres)",
     "sInfoPostFix": ".",
     "sInfoThousands": ",",
-    "sLengthMenu": "Show _MENU_ entries",
+    "sLengthMenu": "Mostrar_Menu_registres",
     "sLoadingRecords": "Carregant...",
-    "sProcessing": "Processing...",
-    "sSearch": "Buscar:",
-    "sZeroRecords": "No matching records found",
+    "sProcessing": "Processant...",
+    "sSearch": "Cercar:",
+    "sZeroRecords": "No s'han trobat resultats",
     "oPaginate": {
-        "sFirst": "First",
-        "sLast": "Last",
+        "sFirst": "Primer",
+        "sLast": "Últim",
         "sNext": "Següent",
         "sPrevious": "Anterior"
     },
     "oAria": {
-        "sSortAscending": ": activate to sort column ascending",
-        "sSortDescending": ": activate to sort column descending"
+        "sSortAscending": ": activar per a ordenar la columna ascendentment",
+        "sSortDescending": ": activar per a ordenar la columna descendentment"
     }
 }

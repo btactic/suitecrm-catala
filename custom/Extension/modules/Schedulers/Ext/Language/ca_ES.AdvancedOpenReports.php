@@ -22,4 +22,4 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_AORRUNSCHEDULEDREPORTS'] = 'Run scheduled reports';
+$mod_strings['LBL_AORRUNSCHEDULEDREPORTS'] = 'Executar informes programats';

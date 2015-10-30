@@ -21,25 +21,25 @@
  * @author Salesagility Ltd <info@salesagility.com>
  */
 
-$app_strings['LBL_QUICK_ACCOUNT'] = 'Nou Compte';
-$app_strings['LBL_QUICK_CONTACT'] = 'Nou Contacte';
-$app_strings['LBL_QUICK_OPPORTUNITY'] = 'Nova Oportunitat';
-$app_strings['LBL_QUICK_LEAD'] = 'Nou Client Potencial';
+$app_strings['LBL_QUICK_ACCOUNT'] = 'Crear Compte';
+$app_strings['LBL_QUICK_CONTACT'] = 'Crear Contacte';
+$app_strings['LBL_QUICK_OPPORTUNITY'] = 'Crear Oportunitat';
+$app_strings['LBL_QUICK_LEAD'] = 'Crear Client Potencial';
 $app_strings['LBL_QUICK_DOCUMENT'] = 'Crear Document';
-$app_strings['LBL_QUICK_CALL'] = 'Programar Trucada';
-$app_strings['LBL_QUICK_TASK'] = 'Nova Tasca';
+$app_strings['LBL_QUICK_CALL'] = 'Registrar Trucada';
+$app_strings['LBL_QUICK_TASK'] = 'Crear Tasca';
 $app_strings['LBL_COLLECTION_TYPE'] = 'Tipus';
 
-$app_strings['LBL_ADD_TAB'] = 'Add Tab';
-$app_strings['LBL_SUITE_DASHBOARD'] = 'Suite Dashboard';
-$app_strings['LBL_ENTER_DASHBOARD_NAME'] = 'Enter Dashboard Name:';
-$app_strings['LBL_NUMBER_OF_COLUMNS'] = 'Number of Columns:';
-$app_strings['LBL_DELETE_DASHBOARD1'] = 'Are you sure you want to delete the';
-$app_strings['LBL_DELETE_DASHBOARD2'] = 'dashboard?';
-$app_strings['LBL_ADD_DASHBOARD_PAGE'] = 'Add a Dashboard Page';
-$app_strings['LBL_DELETE_DASHBOARD_PAGE'] = 'Remove Current Dashboard Page';
-$app_strings['LBL_RENAME_DASHBOARD_PAGE'] = 'Rename Dashboard Page';
+$app_strings['LBL_ADD_TAB'] = 'Afegir pestanya';
+$app_strings['LBL_SUITE_DASHBOARD'] = 'Tauler de control de SuiteCRM';
+$app_strings['LBL_ENTER_DASHBOARD_NAME'] = 'Entrar el nom del tauler de control:';
+$app_strings['LBL_NUMBER_OF_COLUMNS'] = 'Nombre de columnes:';
+$app_strings['LBL_DELETE_DASHBOARD1'] = 'Està segur que vol eliminar el';
+$app_strings['LBL_DELETE_DASHBOARD2'] = 'tauler de control?';
+$app_strings['LBL_ADD_DASHBOARD_PAGE'] = 'Afegir una pàgina de tauler de control';
+$app_strings['LBL_DELETE_DASHBOARD_PAGE'] = 'Eliminar la pàgina de tauler de control actual';
+$app_strings['LBL_RENAME_DASHBOARD_PAGE'] = 'Renombrar pàgina de control';
 
-$app_strings['LBL_DISCOVER_SUITECRM'] = 'Discover SuiteCRM';
+$app_strings['LBL_DISCOVER_SUITECRM'] = 'Descobrir SuiteCRM';
 
 $app_list_strings['collection_temp_list'] = array ( 'Tasks' => 'Tasks', 'Meetings' => 'Meetings', 'Calls' => 'Calls', 'Notes' => 'Notes', 'Emails' => 'Emails' );

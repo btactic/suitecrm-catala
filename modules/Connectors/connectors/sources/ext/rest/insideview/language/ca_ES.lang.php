@@ -40,17 +40,17 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $connector_strings = array (
-    'LBL_GET_STARTED' => 'Get Started!',
-    'LBL_TOS0' => 'I agree to InsideView\'s  ',
-    'LBL_TOS1' => 'Terms of Use',
-    'LBL_TOS3' => 'Privacy Policy',
-    'iv_description0' => 'By clicking "Get Started" you agree to InsideView\'s',
-    'LBL_OPP' => 'Find Opportunities',
-    'LBL_OPP_SUB' => 'to reach out to customers',
-    'LBL_REFERRAL' => 'Get Referrals',
-    'LBL_REFERRAL_SUB' => 'to key decision makers',
-    'LBL_ENGAGE' => 'Engage Customers',
-    'LBL_ENGAGE_SUB' => 'with conversation starters',
+    'LBL_GET_STARTED' => 'Començar!',
+    'LBL_TOS0' => 'Estic d\'acord amb la vista interior',
+    'LBL_TOS1' => 'Condicions d\'ús',
+    'LBL_TOS3' => 'Política de privacitat',
+    'iv_description0' => 'quan facis click a "començar" voldrà dir que estas d\'acord amb la vista interior',
+    'LBL_OPP' => 'Trobar oportunitats',
+    'LBL_OPP_SUB' => 'per arribar als clients',
+    'LBL_REFERRAL' => 'Obtenir referències',
+    'LBL_REFERRAL_SUB' => 'Prenedors de decisions clau',
+    'LBL_ENGAGE' => 'Captar clients',
+    'LBL_ENGAGE_SUB' => 'amb iniciadors de converses',
 );
 
 ?>
