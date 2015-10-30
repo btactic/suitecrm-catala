@@ -1,31 +1,33 @@
 <?PHP
-/******************************************
- * SuiteCRM Translation.
- * @URL: https://www.transifex.com/projects/p/suitecrm/
- * @author SuiteCRM Community via Transifex
- ******************************************/
-$manifest = array( 
-	'name' => 'Catalan (Spain)',
-	'description' => 'Created by http://www.transifex.com/projects/p/suitecrm',
+/*******************************************************************
+ * SuiteCRM Translation by bTactic and SuiteCRM Community
+ * @URL: https://github.com/btactic/suitecrm-catala
+ * @author bTactic
+ * SuiteCRM Community: https://www.transifex.com/projects/p/suitecrm
+ *******************************************************************/
+
+$manifest = array(
+	'name' => 'Català',
+	'description' => 'Traducció al Català de SuiteCRM',
 	'type' => 'langpack',
 	'is_uninstallable' => 'Yes',
 	'acceptable_sugar_versions' =>
 		  array (),
 	'acceptable_sugar_flavors' =>
-		  array('CE'),
-	'author' => 'Transifex',
-	'version' => '7.3.0.1',
-	'published_date' => '14/08/2015',
-      );
+		  array('CE', 'PRO', 'CORP', 'ENT', 'ULT'),
+	'author' => 'bTactic and Transifex',
+	'version' => '7.3.2',
+	'published_date' => '30/10/2015',
+);
+
 $installdefs = array(
-	'id'=> 'ca_ES',
+	'id'=> 'ca',
 	'image_dir'=>'<basepath>/images',
 	'copy' => array(
 	array('from'=> '<basepath>/include','to'=>'include'),
 	array('from'=> '<basepath>/modules','to'=>'modules'),
 	array('from'=> '<basepath>/install','to'=>'install'),
-	array('from'=> '<basepath>/custom','to'=>'custom')
+	array('from'=> '<basepath>/custom','to'=>'custom'))
+);
 
-                        )
- );
 ?>
