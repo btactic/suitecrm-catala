@@ -129,7 +129,6 @@ $mod_strings = array (
 	'LBL_VISIBLE_IF'=>'Visible si',
 	'LBL_ENFORCED'=>'Cumpliment',
 	'LBL_HELP' => 'Ajuda' /*for 508 compliance fix*/,
-	'COLUMN_TITLE_GLOBAL_SEARCH'=>'Cerca global',
 	'COLUMN_TITLE_INLINE_EDIT_TEXT'=>'edició de línia ',
 );
 

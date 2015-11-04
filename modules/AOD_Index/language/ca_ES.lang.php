@@ -80,7 +80,6 @@ $mod_strings = array (
   'LBL_INDEXED_RECORDS' => 'Registres indexats',
   'LBL_UNINDEXED_RECORDS' => 'Registres no indexats',
   'LBL_FAILED_RECORDS' => 'Registres fallits',
-  'LBL_LAST_OPTIMISED' => 'Última optimització',
   'LBL_INDEX_FILES' => 'Índex del nombre d\'arxius',
   'LBL_SEARCH_RESULT_SCORE' => 'Puntuació cerca',
   'LBL_SEARCH_RESULT_MODULE' => 'Mòdul',

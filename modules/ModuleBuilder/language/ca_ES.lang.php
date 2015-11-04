@@ -92,9 +92,8 @@ $mod_strings = array(
 'LBL_EDIT_ROWS'=>'Editar Files',
 'LBL_EDIT_COLUMNS'=>'Editar Columnes',
 'LBL_EDIT_LABELS'=>'Editar Etiquetes',
-'LBL_EDIT_FIELDS'=>'Editar Camps Personalitzats',
 'LBL_EDIT_PORTAL'=>'Editar portal per a',
-'LBL_EDIT_FIELDS'=>'Editar Camps Personalitzats',
+'LBL_EDIT_FIELDS'=>'Editar camps',
 'LBL_EDITVIEW'=>'Vista d\'edició',
 'LBL_FILLER'=>'(filler)',
 'LBL_FIELDS'=>'Camps',
@@ -230,7 +229,7 @@ $mod_strings = array(
 'LBL_DEFAULT'=>'Per defecte',
 'LBL_HIDDEN'=>'Ocult',
 'LBL_AVAILABLE'=>'Disponible',
-'LBL_LISTVIEW_DESCRIPTION'=>'There are three columns displayed below. The <b>Default</b> column contains fields that are displayed in a list view by default.  The <b>Additional</b> column contains fields that a user can choose to use for creating a custom view.  The <b>Available</b> column displays fields availabe for you as an admin to add to the Default or Additional columns for use by users.',
+'LBL_LISTVIEW_DESCRIPTION'=>'Hi ha tres columnes que es mostren a continuació. El <b> per defecte </b> la columna conté els camps que es mostren en una vista de llista per defecte. El <b> addicional </b> columna conté els camps que l\'usuari pot triar per crear una vista personalitzada. El <b> disponible </b> columna mostra els camps disponibles per a vostè com un administrador per afegir a l\'omissió o columnes addicionals per al seu ús pels usuaris.',
 'LBL_LISTVIEW_EDIT'=>'Editor de Llistes',
 
 //Manager Backups History
@@ -296,7 +295,6 @@ $mod_strings = array(
 'LBL_DESCRIPTION'=>'Descripció:',
 'LBL_KEY'=>'Clau:',
 'LBL_ADD_README'=>'Llegiu-me',
-'LBL_MODULES'=>'Mòdul',
 'LBL_LAST_MODIFIED'=>'Última modificació:',
 'LBL_NEW_MODULE'=>'Nou mòdul',
 'LBL_LABEL'=>'Etiqueta:',
@@ -319,7 +317,6 @@ $mod_strings = array(
 'LBL_HISTORY'=>'Veure Històrial',
 'LBL_RESTORE_DEFAULT'=>'Restaurar predeterminat',
 'LBL_ACTIVITIES'=>'Activitats',
-'LBL_SEARCH'=>'Cercar',
 'LBL_NEW'=>'Nou',
 'LBL_TYPE_BASIC'=>'bàsic',
 'LBL_TYPE_COMPANY'=>'companyia',
@@ -405,10 +402,6 @@ $mod_strings = array(
 'LBL_RESET_LAYOUTS' => 'Restablir dissenys',
 'LBL_REMOVE_FIELDS' => 'Eliminar camps personalitzats',
 'LBL_CLEAR_EXTENSIONS' => 'Netejar extensions',
-'LBL_CLEAR_EXTENSIONS' => 'Netejar extensions',
-
-
-
 'LBL_HISTORY_TIMESTAMP' => 'Registre de temps.',
 'LBL_HISTORY_TITLE' => 'historial',
 
@@ -515,7 +508,7 @@ $mod_strings = array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Available</b> column contains fields that a user can select in the Search to create a custom ListView. <br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.',
 		'savebtn'	=> 'Feu clic a <b> Desa i Desplegar </b> per desar els canvis realitzats i perquè siguin actius dins del mòdul.',
 		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
-		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
+		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </ b> per restaurar la vista en el seu format original. <br> <B> Restaura valors per defecte </ b> només es restaura la col·locació de camp dins el traçat original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
 		'Available' => '<b>Available</b> fields are not shown by default, but can be added to ListViews by users.',
 		'Default'	=> '<b>Default</b> fields appear in ListViews that are not customized by users.'
@@ -524,7 +517,7 @@ $mod_strings = array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.',
 		'savebtn'	=> 'Feu clic a <b> Desa i Desplegar </ b> per desar els canvis realitzats i perquè siguin actius dins del mòdul.',
 		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
-		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
+		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </b> per restaurar la vista en el seu format original.<br><br><b>Restaura valors per defecte </b> només es restaura la col·locació de camp dins el vista original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
 		'Default'	=> '<b>Default</b> fields appear in ListViews that are not customized by users.'
 	),
@@ -533,7 +526,7 @@ $mod_strings = array(
 		'savebtn'	=> 'Clicant <b>Desar i Aplicar</b> els canvis seran actius',
 		'Hidden' 	=> 'Els camps <b>Ocults</b> no apareixen a la cerca.',
 		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
-		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
+		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </b> per restaurar la vista en el seu format original.<br><br><b>Restaura valors per defecte </b> només es restaura la col·locació de camp dins el vista original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Default'	=> 'Les files per <b>Defecte</b> apareixen a la cerca.'
 	),
 	'layoutEditor'=>array(
@@ -543,7 +536,7 @@ $mod_strings = array(
 		'default'	=> 'The <b>Layout</b> area contains the fields that are currently displayed within the <b>EditView</b>.<br/><br/>The <b>Toolbox</b> contains the <b>Recycle Bin</b> and the fields and layout elements that can be added to the layout.<br><br>Make changes to the layout by dragging and dropping elements and fields between the <b>Toolbox</b> and the <b>Layout</b> and within the layout itself.<br><br>To remove a field from the layout, drag the field to the <b>Recycle Bin</b>. The field will then be available in the Toolbox to add to the layout.',
 		'saveBtn'	=> 'Faci clic a <b>Desar</b> per a preservar els canvis que ha realitzat al disseny des de l\'última vegada que el va desar.<br><br>Els canvis no es mostraran al mòdul fins que apliqui els canvis desats.',
 		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
-		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
+		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </ b> per restaurar la vista en el seu format original. <br> <B> Restaura valors per defecte </ b> només es restaura la col·locació de camp dins el traçat original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'publishBtn'=> 'Cliqui <b>Desar i aplicar</b> per a desar tots els canvis que ha realitzat al disseny des de l\'últim cop que els va desar, i per a deixar actius els canvis al mòdul.<br><br>El disseny serà mostrat immediatament al mòdul.',
 		'toolbox'	=> 'La <b>Caja de Herramientas</b> contiene la <b>Papelera de Reciclaje</b>, elementos de diseño adicionales y el conjunto de campos disponibles para ser agregados al diseño.<br/><br/>Los elementos de diseño y los campos de la Caja de Herramientas pueden ser arrastrados y soltados en el diseño, y los elementos de diseño y los campos pueden ser arrastrados y soltados del diseño a la Caja de Herramientas.<br><br>Los elementos de diseño son <b>Paneles</b> y <b>Filas</b>. Agregando una nueva fila o un nuevo panel al diseño proporciona ubicaciones adicionales en el diseño para los campos.<br/><br/>Arrastre y suelte cualquier campo en la Caja de Herramientas o en el diseño a una posición de campo ocupada para intercambiar las ubicacines de los dos campos.<br/><br/>El campo de <b>Relleno</b> crea espacio vacío en el diseño allí donde es colocado.',
 		'panels'	=> 'El área de <b>Diseño</b> proporciona una vista sobre cómo el diseño aparecerá en el módulo cuando los cambios realizados al diseño sean desplegados.<br/><br/>Puede reposicionar campos, filas y paneles arrastrándolos y soltándolos en la ubicación deseada.<br/><br/>Quite elementos arrastrándolos y soltándolos en la <b>Papelera de Reciclaje</b> de la Caja de Herramientas, o agregue nuevos elementos y campos arrastrándolos de la <b>Caja de Herramientas</b> y soltándolos en la ubicación deseada del diseño.',
@@ -618,20 +611,20 @@ $mod_strings = array(
 		'default'=> 'The <b>Fields</b> in the module are listed here by Field Name.<br><br>The module template includes a pre-determined set of fields.<br><br>To create a new field, click <b>Add Field</b>.<br><br>To edit a field, click the <b>Field Name</b>.<br/><br/>After the module is deployed, the new fields created in Module Builder, along with the template fields, are regarded as standard fields in Studio.',
 	),
 	'relationshipsHelp'=>array(
-		'default0'=> 'The <b>Relationships</b> that have been created between the module and other modules appear here.<br><br>The relationship <b>Name</b> is the system-generated name for the relationship.<br><br>The <b>Primary Module</b> is the module that owns the relationships. The relationship properties are stored in the database tables belonging to the primary module.<br><br>The <b>Type</b> is the type of relationship exists between the Primary module and the <b>Related Module</b>.<br><br>Click a column title to sort by the column.<br><br>Click a row in the relationship table to view and edit the properties associated with the relationship.<br><br>Click <b>Add Relationship</b> to create a new relationship.',
+		'default'=> 'The <b>Relationships</b> that have been created between the module and other modules appear here.<br><br>The relationship <b>Name</b> is the system-generated name for the relationship.<br><br>The <b>Primary Module</b> is the module that owns the relationships. The relationship properties are stored in the database tables belonging to the primary module.<br><br>The <b>Type</b> is the type of relationship exists between the Primary module and the <b>Related Module</b>.<br><br>Click a column title to sort by the column.<br><br>Click a row in the relationship table to view and edit the properties associated with the relationship.<br><br>Click <b>Add Relationship</b> to create a new relationship.',
 		'addrelbtn'=> 'ayuda emergente para agregar relación...',
 		'addRelationship'=> 'Las <b>Relaciones</b> pueden ser creadas entre el módulo y otro módulo personalizado o desplegado.<br><br> Las relaciones se expresan visualmente a través de subpaneles y relacionan campos de los registros del módulo.<br><br>Seleccione uno de los siguientes <b>Tipos</b> de relación para el módulo:<br><br> <b>Uno-a-Uno</b> - Los registros de ambos módulos contendrán campos relacionados.<br><br> <b>Uno-a-Muchos</b> - Los registros del Módulo Principal contendrán un subpanel, y los registros del Módulo Relacionado contendrán un campo relacionado.<br><br> <b>Muchos-a-Muchos</b> - Los registros de ambos módulos mostrarán subpaneles.<br><br> Seleccione el <b>Módulo Relacionado</b> para la relación. <br><br>Si el tipo de relación implica el uso de subpaneles, seleccione la vista de subpanel para los módulos correspondientes.<br><br> Haga clic en <b>Guardar</b> para crear la relación.',
 	),
 	'labelsHelp'=>array(
-		'default1'=> 'The <b>Labels</b> for the fields and other titles in the module can be changed.<br><br>Edit the label by clicking within the field, entering a new label and clicking <b>Save</b>.<br><br>If any language packs are installed in the application, you can select the <b>Language</b> to use for the labels.',
-		'saveBtn1'=> 'Cliqui <b>Desar</b> per desar tots els canvis.',
-		'publishBtn1'=> 'Feu clic a <b>Desa i Desplegar</b> per guardar tots els canvis i fer que s\'activin.',
+		'default'=> 'The <b>Labels</b> for the fields and other titles in the module can be changed.<br><br>Edit the label by clicking within the field, entering a new label and clicking <b>Save</b>.<br><br>If any language packs are installed in the application, you can select the <b>Language</b> to use for the labels.',
+		'saveBtn'=> 'Cliqui <b>Desar</b> per desar tots els canvis.',
+		'publishBtn'=> 'Feu clic a <b>Desa i Desplegar</b> per guardar tots els canvis i fer que s\'activin.',
 	),
 	'portalSync'=>array(
-	    'default2' => 'Enter the <b>SuiteCRM Portal URL</b> of the portal instance to update, and click <b>Go</b>.<br><br>Then enter a valid SuiteCRM user name and password, and then click <b>Begin Sync</b>.<br><br>The customizations made to the SuiteCRM Portal <b>Layouts</b>, along with the <b>Style Sheet</b> if one was uploaded, will be transferred to specified the portal instance.',
+	    'default' => 'Enter the <b>SuiteCRM Portal URL</b> of the portal instance to update, and click <b>Go</b>.<br><br>Then enter a valid SuiteCRM user name and password, and then click <b>Begin Sync</b>.<br><br>The customizations made to the SuiteCRM Portal <b>Layouts</b>, along with the <b>Style Sheet</b> if one was uploaded, will be transferred to specified the portal instance.',
 	),
 	'portalStyle'=>array(
-	    'default3' => 'You can customize the look of the SuiteCRM Portal by using a style sheet.<br><br>Select a <b>Style Sheet</b> to upload.<br><br>The style sheet will be implemented in the SuiteCRM Portal the next time a sync is performed.',
+	    'default' => 'Vostè pot personalitzar l\'aspecte del Portal SuiteCRM mitjançant l\'ús d\'un full d\'estil. <br><br> Seleccioneu una <b> Full d\'estil </b> per a carregar. <br> El full d\'estil es durà a terme al Portal SuiteCRM la propera alhora una sincronització es porta a terme.',
 	),
 	),
 
@@ -661,58 +654,58 @@ $mod_strings = array(
 		'labels'=> 'Las etiquetas de los campos estándar así como las de los campos personalizados pueden ser cambiadas. Los cambios a las etiquetas de los campos no afecta a los datos almacenados en los mismos.',
 	),
 	'listViewEditor'=>array(
-		'modify4'	=> 'There are three columns displayed to the left. The "Default" column contains the fields that are displayed in a list view by default, the "Available" column contains fields that a user can choose to use for creating a custom list view, and the "Hidden" column contains fields available for you as an admin to either add to the default or Available columns for use by users but are currently disabled.',
-		'savebtn4'	=> 'Clicant <b>Desar</b> es desaran tots els canvis i es faran efectius.',
-		'Hidden4' 	=> 'Camps ocults són camps que no estan disponibles actualment per als usuaris per al seu ús en les vistes de llista.',
-		'Available4' => 'Els camps disponibles són camps que no es mostren per defecte, però es poden activar pels usuaris.',
-		'Default4'	=> 'Camps per defecte apareixen als usuaris que no han creat configuració de la vista de llista personalitzat.'
+		'modify'	=> 'There are three columns displayed to the left. The "Default" column contains the fields that are displayed in a list view by default, the "Available" column contains fields that a user can choose to use for creating a custom list view, and the "Hidden" column contains fields available for you as an admin to either add to the default or Available columns for use by users but are currently disabled.',
+		'savebtn'	=> 'Clicant <b>Desar</b> es desaran tots els canvis i es faran efectius.',
+		'Hidden' 	=> 'Camps ocults són camps que no estan disponibles actualment per als usuaris per al seu ús en les vistes de llista.',
+		'Available' => 'Els camps disponibles són camps que no es mostren per defecte, però es poden activar pels usuaris.',
+		'Default'	=> 'Camps per defecte apareixen als usuaris que no han creat configuració de la vista de llista personalitzat.'
 	),
 
 	'searchViewEditor'=>array(
-		'modify5'	=> 'There are two columns displayed to the left. The "Default" column contains the fields that will be displayed in the search view, and the "Hidden" column contains fields available for you as an admin to add to the view.',
-		'savebtn5'	=> 'En fer clic a <b> Desa i Desplegar </b> guardar tots els canvis i fer que s\'activa.',
-		'Hidden5' 	=> 'Camps ocults són camps que no es mostren a la vista de cerca.',
-		'Default5'	=> 'Camps predeterminats es mostraran a la vista de cerca.'
+		'modify'	=> 'There are two columns displayed to the left. The "Default" column contains the fields that will be displayed in the search view, and the "Hidden" column contains fields available for you as an admin to add to the view.',
+		'savebtn'	=> 'En fer clic a <b> Desa i Desplegar </b> guardar tots els canvis i fer que s\'activa.',
+		'Hidden' 	=> 'Camps ocults són camps que no es mostren a la vista de cerca.',
+		'Default'	=> 'Camps predeterminats es mostraran a la vista de cerca.'
 	),
 	'layoutEditor'=>array(
-		'default6'	=> 'There are two columns displayed to the left. The right-hand column, labeled Current Layout or Layout Preview, is where you change the module layout. The left-hand column, entitled Toolbox, contains useful elements and tools for use when editing the layout. <br/><br/>If the layout area is titled Current Layout then you are working on a copy of the layout currently used by the module for display.<br/><br/>If it is titled Layout Preview then you are working on a copy created earlier by a click on the Save button, that might have already been changed from the version seen by users of this module.',
-		'saveBtn6'	=> 'Clicking this button saves the layout so that you can preserve your changes. When you return to this module you will start from this changed layout. Your layout however will not be seen by users of the module until you click the Save and Publish button.',
-		'publishBtn6'=> 'Click this button to deploy the layout. This means that this layout will immediately be seen by users of this module.',
-		'toolbox6'	=> 'The toolbox contains a variety of useful features for editing layouts, including a trash area, a set of additional elements and a set of available fields. Any of these can be dragged and dropped onto the layout.',
-		'panels6'	=> 'This area shows how your layout will look to users of this module when it is depolyed.<br/><br/>You can reposition elements such as fields, rows and panels by dragging and dropping them; delete elements by dragging and dropping them on the trash area in the toolbox, or add new elements by dragging them from the toolbox and dropping them on to the layout in the desired position.'
+		'default'	=> 'There are two columns displayed to the left. The right-hand column, labeled Current Layout or Layout Preview, is where you change the module layout. The left-hand column, entitled Toolbox, contains useful elements and tools for use when editing the layout. <br/><br/>If the layout area is titled Current Layout then you are working on a copy of the layout currently used by the module for display.<br/><br/>If it is titled Layout Preview then you are working on a copy created earlier by a click on the Save button, that might have already been changed from the version seen by users of this module.',
+		'saveBtn'	=> 'Clicking this button saves the layout so that you can preserve your changes. When you return to this module you will start from this changed layout. Your layout however will not be seen by users of the module until you click the Save and Publish button.',
+		'publishBtn'=> 'Click this button to deploy the layout. This means that this layout will immediately be seen by users of this module.',
+		'toolbox'	=> 'La caixa d\'eines conté una varietat de característiques útils per als dissenys d\'edició, incloent una àrea d\'escombraries, un conjunt d\'elements addicionals i un conjunt de camps disponibles. Qualsevol d\'ells pot arrossegar i deixar anar en el disseny.',
+		'panels'	=> 'This area shows how your layout will look to users of this module when it is depolyed.<br/><br/>You can reposition elements such as fields, rows and panels by dragging and dropping them; delete elements by dragging and dropping them on the trash area in the toolbox, or add new elements by dragging them from the toolbox and dropping them on to the layout in the desired position.'
 	),
 	'dropdownEditor'=>array(
-		'default7'	=> 'There are two columns displayed to the left. The right-hand column, labeled Current Layout or Layout Preview, is where you change the module layout. The left-hand column, entitled Toolbox, contains useful elements and tools for use when editing the layout. <br/><br/>If the layout area is titled Current Layout then you are working on a copy of the layout currently used by the module for display.<br/><br/>If it is titled Layout Preview then you are working on a copy created earlier by a click on the Save button, that might have already been changed from the version seen by users of this module.',
+		'default'	=> 'There are two columns displayed to the left. The right-hand column, labeled Current Layout or Layout Preview, is where you change the module layout. The left-hand column, entitled Toolbox, contains useful elements and tools for use when editing the layout. <br/><br/>If the layout area is titled Current Layout then you are working on a copy of the layout currently used by the module for display.<br/><br/>If it is titled Layout Preview then you are working on a copy created earlier by a click on the Save button, that might have already been changed from the version seen by users of this module.',
 		'dropdownaddbtn'=> 'Haciendo clic en este botón se añade un nuevo elemento a la lista desplegable.',
 
 	),
 	'exportcustom'=>array(
-	    'exportHelp7'=> 'Customizations made in Studio within this instance can be packaged and deployed in another instance.  <br><br>Provide a <b>Package Name</b>.  You can provide <b>Author</b> and <b>Description</b> information for package.<br><br>Select the module(s) that contain the customizations to export. (Only modules containing customizations will appear for you to select.)<br><br>Click <b>Export</b> to create a .zip file for the package containing the customizations.  The .zip file can be uploaded in another instance through <b>Module Loader</b>.',
-	    'exportCustomBtn7'=> 'Haga clic en <b>Exportar</b> para crear un archivo .zip para el paquete que contenga las personalizaciones que desea exportar.',
-	    'name7'=> 'El <b> Nom </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
-	    'author7'=> 'El <b> Autor </b> és el nom de l\'entitat que va crear el paquet. L\'autor pot ser un individu o una empresa. <br> L\'Autor es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
-	    'description7'=> 'El <b> Descripció </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
+	    'exportHelp'=> 'Customizations made in Studio within this instance can be packaged and deployed in another instance.  <br><br>Provide a <b>Package Name</b>.  You can provide <b>Author</b> and <b>Description</b> information for package.<br><br>Select the module(s) that contain the customizations to export. (Only modules containing customizations will appear for you to select.)<br><br>Click <b>Export</b> to create a .zip file for the package containing the customizations.  The .zip file can be uploaded in another instance through <b>Module Loader</b>.',
+	    'exportCustomBtn'=> 'Haga clic en <b>Exportar</b> para crear un archivo .zip para el paquete que contenga las personalizaciones que desea exportar.',
+	    'name'=> 'El <b> Nom </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
+	    'author'=> 'El <b> Autor </b> és el nom de l\'entitat que va crear el paquet. L\'autor pot ser un individu o una empresa. <br> L\'Autor es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
+	    'description'=> 'El <b> Descripció </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
 	),
 	'studioWizard'=>array(
-		'mainHelp8' 	=> 'Benvingut a la <b> Eines de Desenvolupament </b> zona. <br/><br/> Utilitzeu les eines dins d\'aquesta àrea per crear i administrar mòduls i camps estàndard i personalitzats.',
-		'studioBtn8'	=> 'Utilitzeu <b> Studio </b> per personalitzar mòduls instal·lats canviant la disposició de camp, la selecció del que es disposa dels camps i la creació de camps de dades personalitzades.',
+		'mainHelp' 	=> 'Benvingut a la <b> Eines de Desenvolupament </b> zona. <br/><br/> Utilitzeu les eines dins d\'aquesta àrea per crear i administrar mòduls i camps estàndard i personalitzats.',
+		'studioBtn'	=> 'Utilitzeu <b> Studio </b> per personalitzar mòduls instal·lats canviant la disposició de camp, la selecció del que es disposa dels camps i la creació de camps de dades personalitzades.',
 		'mbBtn'		=> 'Use el <b>Constructor de Módulos</b> para crear nuevos módulos.',
-		'appBtn8' 	=> 'Utilitzeu la manera d\'aplicació per personalitzar les diferents propietats del programa, com quants es mostren els informes de TPS a la pàgina principal.',
+		'appBtn' 	=> 'Utilitzeu la manera d\'aplicació per personalitzar les diferents propietats del programa, com quants es mostren els informes de TPS a la pàgina principal.',
 		'backBtn'	=> 'Volver al paso previo.',
-		'studioHelp8'=> 'Utilitzeu <b>Studio</b> per personalitzar els mòduls instal·lats.',
+		'studioHelp'=> 'Utilitzeu <b>Studio</b> per personalitzar els mòduls instal·lats.',
 		'moduleBtn'	=> 'Haga clic para editar este módulo.',
-		'moduleHelp8'=> 'Seleccioneu el component de mòdul que voleu editar',
-		'fieldsBtn8'	=> 'Edita la informació que s\'emmagatzema en el mòdul mitjançant el control de la <b> Camps </b> en el mòdul. <br/> Vostè pot editar i crear camps personalitzats aquí.',
-		'labelsBtn8' => 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
-		'layoutsBtn8'=> 'Personalitzeu els <b> Layouts </b> de l\'Edició, Detall, de llista i buscar punts de vista.',
-		'subpanelBtn8'=> 'Edita la informació que es mostra en els subpanells d\'aquest mòdul.',
-		'layoutsHelp8'=> 'Seleccioneu un <b> Disseny per editar </b>.<br/<br/> Per canviar el disseny que conté camps de dades per a la introducció de dades, feu clic a <b> Mostra l\'</b>. <br/<br/> Per canviar la presentació que mostra les dades introduïdes en els camps de la vista d\'edició, feu clic a <b> Detallat </b>. <br/> Per canviar les columnes que apareixen a la llista predeterminada, feu clic a <b> Vista de llista </b>. <br/> per canviar la recerca de dissenys Bàsic i Avançat, feu clic a <b> Cercar </b> .Seleccionar a <b> Cercar </b> disseny per editar .',
-		'subpanelHelp8'=> 'Seleccioni un <b>Subpanell</b> a editar.',
-		'searchHelp8' => 'Seleccioneu un disseny de <b>Cerca</b> a editar.',
-		'labelsBtn8'	=> 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
+		'moduleHelp'=> 'Seleccioneu el component de mòdul que voleu editar',
+		'fieldsBtn'	=> 'Edita la informació que s\'emmagatzema en el mòdul mitjançant el control de la <b> Camps </b> en el mòdul. <br/> Vostè pot editar i crear camps personalitzats aquí.',
+		'labelsBtn' => 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
+		'layoutsBtn'=> 'Personalitzeu els <b> Layouts </b> de l\'Edició, Detall, de llista i buscar punts de vista.',
+		'subpanelBtn'=> 'Edita la informació que es mostra en els subpanells d\'aquest mòdul.',
+		'layoutsHelp'=> 'Seleccioneu un <b> Disseny per editar </b>.<br/<br/> Per canviar el disseny que conté camps de dades per a la introducció de dades, feu clic a <b> Mostra l\'</b>. <br/<br/> Per canviar la presentació que mostra les dades introduïdes en els camps de la vista d\'edició, feu clic a <b> Detallat </b>. <br/> Per canviar les columnes que apareixen a la llista predeterminada, feu clic a <b> Vista de llista </b>. <br/> per canviar la recerca de dissenys Bàsic i Avançat, feu clic a <b> Cercar </b> .Seleccionar a <b> Cercar </b> disseny per editar .',
+		'subpanelHelp'=> 'Seleccioni un <b>Subpanell</b> a editar.',
+		'searchHelp' => 'Seleccioneu un disseny de <b>Cerca</b> a editar.',
+		'labelsBtn'	=> 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
         'newPackage'=> 'Haga clic en <b>Nuevo Paquete</b> para crear un nuevo paquete.',
-        'mbHelp8'    => '<b> Benvinguts al Mòdul Constructor. </b> <br/> ús <b> Mòdul Constructor </b> per crear paquets que continguin mòduls personalitzats en base a objectes estàndard o personalitzats. <br/> Per començar, feu clic a <b> Nou paquet </b> per crear un nou paquet, o seleccionar un paquet per editar. <br/> A <b> Paquet </b > actua com un contenidor per mòduls personalitzats, tots els quals formen part d\'un projecte. El paquet pot contenir un o més mòduls personalitzats que poden estar relacionats entre si o amb els mòduls de l\'aplicació. <br/> Exemples: Vostè pot ser que desitgi per crear un paquet que conté un mòdul personalitzat que es relaciona amb el mòdul de comptes estàndard. O bé, és possible que vulgueu crear un paquet que conté diversos mòduls nous que funcionen junts com un projecte i que es relacionen entre si i amb els mòduls de l\'aplicació.',
-        'exportBtn8' => 'Cliqui <b>Exportar personalitzacions</b> per a crear un paquet que contingui les personalitzacions realitzades a l\'estudi per mòduls específics.',
+        'mbHelp'    => '<b> Benvinguts al Mòdul Constructor. </b> <br/> ús <b> Mòdul Constructor </b> per crear paquets que continguin mòduls personalitzats en base a objectes estàndard o personalitzats. <br/> Per començar, feu clic a <b> Nou paquet </b> per crear un nou paquet, o seleccionar un paquet per editar. <br/> A <b> Paquet </b > actua com un contenidor per mòduls personalitzats, tots els quals formen part d\'un projecte. El paquet pot contenir un o més mòduls personalitzats que poden estar relacionats entre si o amb els mòduls de l\'aplicació. <br/> Exemples: Vostè pot ser que desitgi per crear un paquet que conté un mòdul personalitzat que es relaciona amb el mòdul de comptes estàndard. O bé, és possible que vulgueu crear un paquet que conté diversos mòduls nous que funcionen junts com un projecte i que es relacionen entre si i amb els mòduls de l\'aplicació.',
+        'exportBtn' => 'Cliqui <b>Exportar personalitzacions</b> per a crear un paquet que contingui les personalitzacions realitzades a l\'estudi per mòduls específics.',
 	),
 
 	),

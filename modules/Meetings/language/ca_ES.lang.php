@@ -189,16 +189,5 @@ $mod_strings = array (
     
     'LBL_SYNCED_RECURRING_MSG' => 'Aquesta convocatòria es va originar en un altre sistema i se sincronitzen amb el SuiteCRM. Per realitzar canvis, aneu a la reunió original en l\'altre sistema. Els canvis realitzats en l\'altre sistema es pot sincronitzar amb aquest registre.',
     'LBL_RELATED_TO' => 'Relacionat amb:',
-    'LBL_ALERTS' => 'Alertes',
-
-	// for reminders
-	'LBL_REMINDERS' => 'Recordatoris',
-	'LBL_REMINDERS_ACTIONS' => 'Accions:',
-	'LBL_REMINDERS_POPUP' => 'Enviar invitacions, una finestra emergent o una notificació d\'escriptori',
-	'LBL_REMINDERS_EMAIL' => 'Enviar un correu electrònic als invitats',
-	'LBL_REMINDERS_WHEN' => 'Quan:',
-	'LBL_REMINDERS_REMOVE_REMINDER' => 'Eliminar recordatori [x]',
-	'LBL_REMINDERS_ADD_ALL_INVITEES' => '[+] Afegir a tots els invitats',
-	'LBL_REMINDERS_ADD_REMINDER' => 'Afegir un recordatori',	
 );
 ?>

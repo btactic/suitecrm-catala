@@ -133,7 +133,6 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
   'LBL_MODIFIED_ID'=>'Modificada por ID',
   'LBL_MODIFIED_NAME'=>'Modificada per Usuari',
   'LBL_SALE_INFORMATION'=>'Informació sobre la Venta',
-  'LBL_CURRENCY_ID'=>'ID de Moneda',
   'LBL_CURRENCY_NAME'=>'Nom de Moneda',
   'LBL_CURRENCY_SYMBOL'=>'Símbol de Moneda',
   'LBL_EDIT_BUTTON' => 'Editar',

@@ -332,7 +332,7 @@ $mod_strings = array (
     'LBL_IMPORT_CUSTOM_FIELDS_DESC'=> ' <br>Importa un arxiu .sug que va ser exportat d\'una altra màquina. Això farà que l\'estructura de camp personalitzat d\'aquesta màquina sigui idèntica a la de l\'altra màquina. Es recomana que exporti la seva Estructura de Camp Personalitzat actual abans de realitzar la importació. Després d\'importar l\'Estructura de Camp Personalitzat, el sistema li guiarà automàticament a través d\'una Actualització de Camps Personalitzats en la qual se l\'informarà dels canvis a realitzar en la base de dades. Si està d\'acord amb aquests canvis faci clic en l\'enllaç executar en manera no-simulació en la part inferior. Si desitja llançar enrere el procés d\'importació simplement importi l\'estructura que havia exportat abans d\'executar aquesta última importació. Si ho fa <br> Advertència: Això eliminarà qualsevol estructura de camps personalitzats prèviament definida que no estigui inclosa en l\'arxiu .sug així com totes les dades emmagatzemats en aquests camps personalitzats.',
     'LBL_IMPORT_CUSTOM_FIELDS_STRUCT'=> 'Estructura de camps personalitzats',
     'LBL_IMPORT_CUSTOM_FIELDS_TITLE' => 'Importar Estructura de Camps Personalitzats',
-    'LBL_IMPORT_CUSTOM_FIELDS'=> 'Importa les definicions de camps personalitzats des d\'un arxiu .sugar',
+     'LBL_IMPORT_CUSTOM_FIELDS'=> 'Importa les definicions de camps personalitzats des d\'un arxiu .sugar',
     'LBL_IMPORT_VALIDATION_KEY' =>'Importar Clau de Validació',
     'LBL_IMPORT_WIZARD' => 'Assistent d\'importació',
     'LBL_IMPORT_WIZARD_DESC' => 'Utilitzi l\'assistent d\'importació per importar registres al sistema facilment',
@@ -576,7 +576,6 @@ $mod_strings = array (
     'LBL_PASSWORD_EXP_IN'=> 'La contrasenya caduca en',
     'LBL_PASSWORD_USER_RESET' => 'Contrasenya restaurable per l\'usuari',
 	'LBL_PERFORM_UPDATE'=>'Realitzar Actualització',
-    'LBL_PLUGINS_TITLE' => 'SuiteCRM Extres',
     'LBL_PLUGINS' => 'Obtenir complements i altres extensions de SuiteCRM.',
     'LBL_PRICE_LIST_TITLE' => 'Productes i Pressupostos',
     'LBL_PRICE_LIST_DESC' => 'Administri el catàleg de productes, junt amb la informació relacionada sobre fabricants i Proveïdors d\'enviament.',
@@ -652,7 +651,6 @@ $mod_strings = array (
     'LBL_REBUILD_WORKFLOW_CACHE' => 'Reconstruint Caché de Workflow...<BR>',
     'LBL_REBUILD_WORKFLOW_COMPILING' => 'Compilant Plugins... <BR>',
     'LBL_REBUILD' => 'Reconstruir',
-    'LBL_REBUILD'=>'Reconstruir',
     'LBL_REGEX_HELP_TITLE'		=>'Descripció de Regex',
     'LBL_REGEX_HELP_TEXT'		=>'<b>Regular Expressions </b> provide a concise and flexible means for identifying strings of the password, such as particular characters or patterns of characters. You can create custom password rules by providing a regex that will be used in a NOT MATCH condition; the password must not contain a match to any expressions in the regex.',
     'LBL_REGEX_DESC_HELP_TEXT'	=>'This description should explain the Regex Requirement and will be displayed in the list of requirements for users when they provide new passwords.',
@@ -803,7 +801,7 @@ $mod_strings = array (
     'LBL_USERNAME'             => 'Nom d\'Usuari',
     'LBL_USERS_TITLE' => 'Usuaris',
     'LBL_HISTORY_CONTACTS_EMAILS' => 'History Subpanel',
-    'LBL_HISTORY_CONTACTS_EMAILS_DESC' => 'Enable/Disable contacts\' emails in history',
+    'LBL_HISTORY_CONTACTS_EMAILS_DESC' => 'Habilitar / desactivar missatges de correu electrònic contactes en l\'historial',
 
     'LBL_USERS_DESC' => 'Crear, editar, activar i desactivar usuaris de SuiteCRM.',
 
@@ -905,7 +903,7 @@ $mod_strings = array (
     'REMOVE_QUESTION'           => 'Està segur que desitja treure el paquet seleccionat?',
     'WARN_POSSIBLE_JS_OVERWRITE'=>'Avís, això sobreescriurà qualsevol canvi que hagi realitzat als arxius de javascript, vol continuar?',
     'WARN_INSTALLER_LOCKED'=>'Avís: Per protegir els seves dades, l\'instal·lador ha d\'estar bloquejat establint la variable \'installer_locked\' a \'true\' en l\'arxiu config.php.',
-    'WARN_REPAIR_CONFIG' => 'Avís: L\'arxiu config.php necessita ser reparat. Si us plau, utilitzi el script <a href=\'index.php?module=Administration&action=RebuildConfig\'>Reconstruir Arxiu de Configuració</a> a la pàgina de Reparació de l\'àrea d\'Administració per reparar l\'arxiu de configuració.',
+ 	'WARN_REPAIR_CONFIG' => 'Avís: L\'arxiu config.php necessita ser reparat. Si us plau, utilitzi el script <a href=\'index.php?module=Administration&action=RebuildConfig\'>Reconstruir Arxiu de Configuració</a> a la pàgina de Reparació de l\'àrea d\'Administració per reparar l\'arxiu de configuració.',
     'WARN_UPGRADE_APP'=> "Hi ha disponible una versió actualitzada de l'aplicació. ",
     'WARN_UPGRADE' => 'Avís: Si us plau, actualitzi ',
     'WARN_UPGRADENOTE' => 'Nota:',
@@ -965,8 +963,6 @@ $mod_strings = array (
     'LBL_QR_CBOX_CLEARPDFFONT'=> 'Netejar la caché de fonts PDF',
     'LBL_QR_CLEARPDFFONT'=>'Netejant la caché de fonts PDF...fet',
     'LBL_QR_CLEAR_EXT_API'=>'Netejant la caché d\'APIs externes...fet',
-	'LBL_TRACKER_SETTINGS' => 'Configuració de Monitoratge',
-	'LBL_TRACKER_SETTINGS_DESC' => 'Habilitar/Deshabilitar monitoratge',
 	'LBL_REPAIR_SEED_USERS_TITLE'	=> 'Habilitar/Deshabilitar Usuaris Cap de sèrie',
 	'LBL_REPAIR_SEED_USERS_ACTIVATE'	=> 'Activar',
 	'LBL_REPAIR_SEED_USERS_DECACTIVATE'	=> 'Desactivar',
@@ -1096,7 +1092,6 @@ $mod_strings = array (
 	// OAuth
     'LBL_OAUTH_TITLE' => "Claus d'OAuth",
     'LBL_OAUTH' => "Clau de gestió de OAuth",
-    'LBL_SAML_LOGIN_URL_DESC' => 'Introduir URL d\'inici de sessió',
 
     // SNIP / Sugar Ease / Email Archiving
     'LBL_SNIP_TITLE' => 'Arxivador de correu electrònic',

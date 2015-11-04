@@ -1,7 +1,5 @@
 <?php
-/**
- * when directly downloading from Transifex requires post-download edits to work. See SuiteCREM forum
- */
+
 $app_strings['LBL_MAP'] = 'Mapa';
 $app_strings['LBL_MAPS'] = 'Mapes';
 

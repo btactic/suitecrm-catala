@@ -117,7 +117,6 @@ $mod_strings = array (
 	//document list view.
 	'LBL_LIST_FORM_TITLE' => 'Llista de Documents',
 	'LBL_LIST_DOCUMENT' => 'Document',
-	'LBL_LIST_CATEGORY' => 'Categoría',
 	'LBL_LIST_SUBCATEGORY' => 'Subcategoría',
 	'LBL_LIST_REVISION' => 'Versió',
 	'LBL_LIST_LAST_REV_CREATOR' => 'Publicat Per',
@@ -159,7 +158,6 @@ $mod_strings = array (
 	'LBL_TREE_TITLE' => 'Documents',
 	//sub-panel vardefs.
 	'LBL_LIST_DOCUMENT_NAME'=>'Nom de Document',
-	'LBL_CONTRACT_NAME'=>'Nom de Contracte:',
 	'LBL_LIST_IS_TEMPLATE'=>'Plantilla?',
 	'LBL_LIST_TEMPLATE_TYPE'=>'Tipus de Document',
 	'LBL_LIST_SELECTED_REVISION'=>'Versió Seleccionada',

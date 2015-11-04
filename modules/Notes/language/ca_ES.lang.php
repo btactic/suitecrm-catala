@@ -92,7 +92,6 @@ $mod_strings = array (
 	'LNK_IMPORT_NOTES' => 'Importar Notes',
 	'LNK_NEW_NOTE' => 'Nova Nota o Adjunt',
 	'LNK_NOTE_LIST' => 'Notes',
-	'LNK_IMPORT_NOTES' => 'Importar Notes',
 	'LBL_MEMBER_OF' => 'Membre de:',
 	'LBL_LIST_ASSIGNED_TO_NAME' => 'Usuari Assignat',
     'LBL_REMOVING_ATTACHMENT'=>'Traient adjunt...',

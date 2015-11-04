@@ -69,5 +69,4 @@ $mod_strings = array (
   'LBL_Alert_SUBPANEL_TITLE' => 'Alerta',
   'LBL_NEW_FORM_TITLE' => 'Nova alerta',
   'LBL_IS_READ' => 'llegit',
-  'LBL_DATE_TIME' => 'Data/Hora',
 );

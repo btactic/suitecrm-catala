@@ -19,7 +19,7 @@
  * along with this program; if not, see http://www.gnu.org/licenses
  * or write to the Free Software Foundation,Inc., 51 Franklin Street,
  * Fifth Floor, Boston, MA 02110-1301  USA
- * when directly downloading from Transifex requires post-download edits to work. See SuiteCREM forum
+ *
  * @author Salesagility Ltd <info@salesagility.com>
  */
 

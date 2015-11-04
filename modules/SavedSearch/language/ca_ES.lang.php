@@ -48,7 +48,6 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
 	'LBL_MODULE_TITLE' => 'Les Meves Recerques Guardades',
-	'LBL_MODULE_TITLE' => 'Les Meves Recerques Guardades',
 	'LBL_SEARCH_FORM_TITLE' => 'Les Meves Cerques Desades: Cerca',
 	'LBL_LIST_FORM_TITLE' => 'Llista de Les Meves Recerques Guardades', 
 	'LBL_DELETE_CONFIRM' => 'Està segur de que vol eliminar la Cerca Desada Seleccionada?',

@@ -130,7 +130,6 @@ $mod_strings = array (
     'LBL_PROJECTS_SUBPANEL_TITLE' => 'Projectes',
 	'LBL_ASSIGNED_TO_NAME' => 'Assignat a:',
 	'LBL_LIST_ASSIGNED_TO_NAME' => 'Usuari Assignat',
-  'LBL_LIST_SALES_STAGE' => 'Etapa Vendes',
   'LBL_MY_CLOSED_OPPORTUNITIES' => 'Les Meves Oportunitats Tancades',
   'LBL_TOTAL_OPPORTUNITIES' => 'Total d\'Oportunitats',
   'LBL_CLOSED_WON_OPPORTUNITIES' => 'Oportunitats Guanyades',

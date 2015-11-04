@@ -59,7 +59,7 @@ $mod_strings = array (
     'LBL_SUGGESTION_BOX_STATUS' => 'Estat',
     'LBL_SUGGESTION_BOX_TITLE' => 'Títol',
     'LBL_SUGGESTION_BOX_REL' => 'Rellevància',
-    
+
 	'LBL_ACCOUNT_ID'					=> 'ID Compte',
 	'LBL_ACCOUNT_NAME'					=> 'Compte:',
 	'LBL_ACCOUNTS_SUBPANEL_TITLE'		=> 'Comptes',
@@ -102,7 +102,6 @@ $mod_strings = array (
 	'LBL_LIST_PRIORITY'					=> 'Prioritat',
 	'LBL_LIST_STATUS'					=> 'Estat',
 	'LBL_LIST_SUBJECT'					=> 'Assumpte',
-	'LBL_LIST_ASSIGNED_TO_NAME'   		=> 'Usuari Assignat',
 
 	'LNK_CASE_LIST'						=> 'Casos',
 	'LNK_NEW_CASE'						=> 'Nou Cas',

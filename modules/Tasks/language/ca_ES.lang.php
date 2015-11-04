@@ -109,7 +109,6 @@ $mod_strings = array (
   'LBL_ACTIVITIES_REPORTS' => 'Informe d\'activitats',
   'LBL_TASK_INFORMATION' => 'Visió general de la tasca',
   'LBL_EDITLAYOUT' => 'Editar Diseny' /*for 508 compliance fix*/,
-  'LBL_TASK_INFORMATION' => 'Visió general de la tasca',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'Notes',
   //For export labels
   'LBL_DATE_DUE' => 'Data Venciment',

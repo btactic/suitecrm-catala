@@ -169,6 +169,5 @@ $mod_strings = array (
 'LBL_SENDEMAILREMINDERS'=> 'Executar l\'enviament de recordatoris per correu electrònic',
 'LBL_CLEANJOBQUEUE' => 'Netejar la cua de treballs',
 'LBL_REMOVEDOCUMENTSFROMFS' => 'Eliminar documents del sistema de fitxers',
-'LBL_HANDLEMISSEDALERTS' => 'Controlar alertes perdudes',
 );
 ?>

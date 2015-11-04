@@ -144,7 +144,6 @@ $mod_strings = array (
 	'LBL_PROJECT_INFORMATION' => 'Visió general del projecte',
 	'LBL_EDITLAYOUT' => 'Editar Diseny' /*for 508 compliance fix*/,
 	'LBL_INSERTROWS' => 'Inserir files' /*for 508 compliance fix*/,
-	'LBL_PROJECT_INFORMATION' => 'Visió general del projecte',
 
 );
 ?>

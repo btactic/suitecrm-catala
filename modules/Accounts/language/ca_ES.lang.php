@@ -185,7 +185,6 @@ $mod_strings = array (
 	'LBL_COPY' => 'Copiar' /*for 508 compliance fix*/,
     //For export labels
     'LBL_ACCOUNT_TYPE' => 'Tipus de compta',
-    'LBL_CAMPAIGN_ID' => 'ID Campanya',
     'LBL_PARENT_ID' => 'Id pare',
     'LBL_PHONE_ALTERNATE' => 'Telèfon alternatiu',
     'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Nom d\'usuari assignat',

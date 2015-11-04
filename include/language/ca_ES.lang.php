@@ -50,8 +50,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 //to translate, only modify the right value in each key/value pair
 $app_list_strings = array (
 
-  'language_pack_name' => 'Català (Catalan) - ca_ES',
-  
+  'language_pack_name' => 'Català (CA)',
+
   'moduleList' =>
   array (
     'Home' => 'Inici',
@@ -325,16 +325,16 @@ $app_list_strings = array (
       ),
   //time is in seconds; the greater the time the longer it takes;
   'reminder_max_time' => '90000',
-  'reminder_time_options' => array( '602'=> '1 minut abans',
-                                  '3002'=> '5 minuts abans',
-                                  '6002'=> '10 minuts abans',
-                                  '9002'=> '15 minuts abans',
-                                  '18002'=> '30 minuts abans',
-                                  '36002'=> '1 hora abans',
-                                  '72002' => '2 hores abans',
-                                  '108002' => '3 hores abans',
-                                  '180002' => '5 hores abans',
-                                  '864002' => '1 dia abans',
+  'reminder_time_options' => array( '60'=> '1 minut abans',
+                                  '300'=> '5 minuts abans',
+                                  '600'=> '10 minuts abans',
+                                  '900'=> '15 minuts abans',
+                                  '1800'=> '30 minuts abans',
+                                  '3600'=> '1 hora abans',
+                                  '7200' => '2 hores abans',
+                                  '10800' => '3 hores abans',
+                                  '18000' => '5 hores abans',
+                                  '86400' => '1 dia abans',
                                  ),
 
   'task_priority_default' => 'Medium',
@@ -798,14 +798,14 @@ $app_list_strings = array (
     'dom_email_distribution_for_auto_create'=> array('roundRobin'   => 'Round-Robin',
                                                      'leastBusy'    => 'Menys-Ocupat',
     ),
-    'dom_email_errors'      => array('10' => 'Only select one user when Direct Assigning items.',
-                                     '20' => 'You must assign Only Checked Items when Direct Assigning items.',
+    'dom_email_errors'      => array('1' => 'Only select one user when Direct Assigning items.',
+                                     '2' => 'You must assign Only Checked Items when Direct Assigning items.',
     ),
     'dom_email_bool'        => array('bool_true' => 'Si',
                                      'bool_false' => 'No',
     ),
-    'dom_int_bool'          => array('11' => 'Si',
-                                     '01' => 'No',
+    'dom_int_bool'          => array('1' => 'Si',
+                                     '0' => 'No',
     ),
     'dom_switch_bool'       => array ('on' => 'Si',
                                         'off' => 'No',
@@ -1165,7 +1165,6 @@ $app_strings = array (
     'LBL_MODULE_FILTER' => 'Filtra per',
     'LBL_CONNECTORS_POPUPS'=>'Connector de finestres emergents',
     'LBL_CLOSEINLINE'=>'Tancar',
-    'LBL_MOREDETAIL'=>'Més detalls',
     'LBL_EDITINLINE'=>'Editar',
     'LBL_VIEWINLINE'=>'Veure',
     'LBL_INFOINLINE'=>'Informació',
@@ -1574,7 +1573,6 @@ $app_strings = array (
     'LBL_EMAIL_SPACER_MAIL_SERVER'          => '[ Carpetes Remotes ]',
     'LBL_EMAIL_SPACER_LOCAL_FOLDER'         => '[ Carpetes de SuiteCRM ]',
     'LBL_EMAIL_SUBJECT'                     => 'Assumpte',
-    'LBL_EMAIL_TO'                        => 'Per a',
     'LBL_EMAIL_SUCCESS'                     => 'Fet',
     'LBL_EMAIL_SUGAR_FOLDER'                => 'Carpeta de SuiteCRM',
     'LBL_EMAIL_TEMPLATE_EDIT_PLAIN_TEXT'    => 'El cos de la plantilla de correu electrònic és vuit',
@@ -1596,7 +1594,6 @@ $app_strings = array (
     'LBL_EMAIL_YES'                         => 'Si',
     'LBL_EMAIL_TEST_OUTBOUND_SETTINGS'      => 'Enviar correu electrònic de prova',
     'LBL_EMAIL_TEST_OUTBOUND_SETTINGS_SENT' => 'Correu electrònic de prova enviat',
- 
     'LBL_EMAIL_MESSAGE_NO'                  => 'Missatge Nº',
     'LBL_EMAIL_IMPORT_SUCCESS'              => 'Importació Correcta',
     'LBL_EMAIL_IMPORT_FAIL'                 => 'Importació Fallida a causa que el missatge ja ha estat importat o eliminat del servidor',
@@ -1883,10 +1880,8 @@ $app_strings = array (
 
     'LBL_PROSPECTS'=>'Perspectives',
     'LBL_PRODUCT_BUNDLES'=>'Jocs de Productes',
-    'LBL_PRODUCT_BUNDLES'=>'Jocs de Productes',
     'LBL_PRODUCTS'=>'Productes',
     'LBL_PROJECT_TASKS'=>'Tasques de Projecte',
-    'LBL_PROJECTS'=>'Projectes',
     'LBL_PROJECTS'=>'Projectes',
     'LBL_QUOTE_TO_OPPORTUNITY_KEY' => 'O',
     'LBL_QUOTE_TO_OPPORTUNITY_LABEL' => 'Crear Oportunitat a partir de Pressupost',
@@ -2018,7 +2013,6 @@ $app_strings = array (
 
 
     'LBL_SYNC' => 'Sincronitzar',
-    'LBL_SYNC' => 'Sincronitzar',
     'LBL_TABGROUP_ALL' => 'Tot',
     'LBL_TABGROUP_ACTIVITIES' => 'Activitats',
     'LBL_TABGROUP_COLLABORATION' => 'Col·laboració',
@@ -2109,7 +2103,7 @@ $app_strings = array (
     'WARN_BROWSER_VERSION_WARNING' => '<b>Atenció:</b> La versió del seu navegador ja no és compatible o esteu utilitzant un navegador incompatible.<p></p>Es recomanen les següents versions de navegadors:<p></p><ul><li>Internet Explorer 10 (la vista de compatibilitat no és compatible)<li>Firefox 32.0<li>Safari 5.1<li>Chrome 37</ul>',
     'WARN_BROWSER_IE_COMPATIBILITY_MODE_WARNING' => '<b>Atenció:</b> El seu navegador està en mode vista compatible IE. Aquest mode no és compatible.',
     'ERROR_TYPE_NOT_VALID' => 'Error. Aquest tipus no es vàlid.',
-    'ERROR_NO_BEAN' => 'obtenció del bean fallida', 
+    'ERROR_NO_BEAN' => 'obtenció del bean fallida',
     'LBL_DUP_MERGE'=>'Cercar Duplicats',
     'LBL_MANAGE_SUBSCRIPTIONS'=>'Administrar Subscripcions',
     'LBL_MANAGE_SUBSCRIPTIONS_FOR'=>'Administrar Subscripcions a ',
@@ -2155,10 +2149,6 @@ $app_strings = array (
 Cliqui Acceptar per veure aquesta trucada o cliqui Cancel·lar per tancar aquest missatge.",
   	'MSG_JS_ALERT_MTG_REMINDER_MEETING_MSG' => "
 Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest missatge.",
-	'MSG_JS_ALERT_MTG_REMINDER_NO_EVENT_NAME' => 'Esdeveniment',
-	'MSG_JS_ALERT_MTG_REMINDER_NO_DESCRIPTION' => '',
-	'MSG_JS_ALERT_MTG_REMINDER_NO_LOCATION' => 'La ubicació no està configurada.',
-	'MSG_JS_ALERT_MTG_REMINDER_NO_START_DATE' => 'La data d\'inici no està definida.',
  	'MSG_LIST_VIEW_NO_RESULTS_BASIC' => "No s'han trobat resultats.",
 	'MSG_LIST_VIEW_NO_RESULTS' => "No s'han trobat resultats per <item1>",
  	'MSG_LIST_VIEW_NO_RESULTS_SUBMSG' => "Crear <item1> com a nou <item2>",
@@ -2187,7 +2177,6 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
     'LBL_ADD_ALL_LEAD_FIELDS' => 'Afegir Tots els Camps',
     'LBL_REMOVE_ALL_LEAD_FIELDS' => 'Borrar Tots els Camps',
     'LBL_ONLY_IMAGE_ATTACHMENT' => 'Només pot incloure\'s un adjunt de tipus imatge',
-    'LBL_REMOVE' => 'Treure',
     'LBL_TRAINING' => 'Formació',
     'ERR_DATABASE_CONN_DROPPED'=>'Error executant una consulta. Possiblement la seva base de dades s\'ha desconnectat. Si us plau, actualitzi aquesta pàgina. És possible que fins i tot necessiti reiniciar el seu servidor web.',
     'ERR_MSSQL_DB_CONTEXT' =>'Canviat el context de base de dades a',
@@ -2294,9 +2283,8 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
   'MSG_OR_GREATER' => 'o més gran',
 
     'LBL_PORTAL_WELCOME_TITLE' => 'Benvingut al portal SuiteCRM',
-    'LBL_PORTAL_WELCOME_INFO' => 'El Portal de SuiteCRM és un marc que proporciona en temps real punt de vista dels casos, els errors i butlletins de notícies als clients, etc. Es tracta d\'una interfície externa deSuiteCRM que es pot implementar en qualsevol lloc web. Per estar atent a les característiques de servei al client com l\'acte de Gestió de Projectes i fòrums en les nostres futures versions.',
+    'LBL_PORTAL_WELCOME_INFO' => 'SuiteCRM Portal is a framework which provides real-time view of cases, bugs & newsletters etc to customers. This is an external facing interface to SuiteCRM that can be deployed within any website.',
     'LBL_LIST' => 'Llista',
-    'LBL_CREATE_CASE' => 'Nou Cas',
     'LBL_CREATE_BUG' => 'Nova Incidència',
     'LBL_NO_RECORDS_FOUND' => '- 0 Registres Trobats -',
 
@@ -2340,20 +2328,17 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
     'LBL_MASSUPDATE_DELETE_USER_EXISTS'=>'Aquest equip privat [{0}] no pot ser eliminat fins que l\'usuari [{1}] sigui eliminat.',
 
     //martin #25548
-    'LBL_NO_FLASH_PLAYER' => 'You either have Abobe Flash turned off or are using an older version of the Adobe Flash Player. To get the latest version of the Flash Player, <a href="http://www.adobe.com/go/getflashplayer/">click here</a>.',
+    'LBL_NO_FLASH_PLAYER' => 'O tens Adobe flash apagat o utilitzeu una versió antiga d\'Adobe Flash Player. Per obtenir l\'última versió del Flash Player, <a href="http://www.adobe.com/go/getflashplayer/"> clic aquí </a>.',
   //Collection Field
   'LBL_COLLECTION_NAME' => 'Nom',
   'LBL_COLLECTION_PRIMARY' => 'Principal',
   'ERROR_MISSING_COLLECTION_SELECTION' => 'Camp requerit vuit',
     'LBL_COLLECTION_EXACT' => 'Exacte',
 
-    // fastcgi checks
-    'LBL_FASTCGI_LOGGING'      => 'Per a una millor experiència amb ISS/FastCGI sapi, configuri el valor de fastcgi.logging a 0 al fitxer php.ini',
     //MB -Fixed Bug #32812 -Max
     'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
     'LBL_DESCRIPTION' => 'Descripció',
 
-  'LBL_NONE' => '--Cap--',
   'LBL_YESTERDAY'=> 'ahir',
   'LBL_TODAY'=>'avui',
   'LBL_TOMORROW'=>'demà',
@@ -2514,11 +2499,7 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
 
 
 $app_list_strings['library_type'] = array('Books'=>'B', 'Music'=>'Música', 'DVD'=>'DVD', 'Magazines'=>'Revistes',);
-$app_list_strings['project_priority_options'] = array (
-    'High' => 'Alta',
-    'Medium' => 'Mitja',
-    'Low' => 'Baixa',
-);
+
 
 $app_list_strings['kbdocument_status_dom'] = array (
     'Draft' => 'Borrador',
@@ -3298,13 +3279,5 @@ $app_list_strings['aok_status_list']['In_Review'] = 'In Review';
 //$app_list_strings['aok_status_list']['Published'] = 'Published';
 $app_list_strings['aok_status_list']['published_private'] = 'Private';
 $app_list_strings['aok_status_list']['published_public'] = 'Public';
-
-
-$app_list_strings['moduleList']['AOM_Reminders'] = 'Reminders';
-$app_list_strings['moduleListSingular']['AOM_Reminders'] = 'Reminder';
-
-$app_list_strings['moduleList']['AOM_Reminders_Invitees'] = 'Reminders_Invitees';
-$app_list_strings['moduleListSingular']['AOM_Reminders_Invitees'] = 'Reminder_Invitee';
-
 
 ?>

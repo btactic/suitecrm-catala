@@ -63,7 +63,6 @@ $mod_strings = array(
     'ERR_CHECKSYS'                      => 'S\'han detectat errors durant les comprovacions de compatibilitat. Perquè la seva Instal·lació de SugarCRM funcioni correctament, du a terme els següents passos per corregir els problemes llistats a continuació i faci clic al botó comprovar de nou, o iniciï de nou la instal·lació, si us plau.',
     'ERR_CHECKSYS_CALL_TIME'            => '"Allow Call Time Pass Reference" està Deshabilitat (si us plau, l\'habiliti en php.ini)',
 	'ERR_CHECKSYS_CURL'					=> 'No trobat: El Planificador de Sugar tindrà funcionalitat limitada.',
-	'ERR_CHECKSYS_FASTCGI_LOGGING'      => 'Per a una millor experiència amb ISS/FastCGI sapi, configuri el valor de fastcgi.logging a 0 al fitxer php.ini',
     'ERR_CHECKSYS_IMAP'					=> 'No trobat: Correu Entrant i Campanyes (Correu Electrònic) requereixen les biblioteques d\'IMAP. Cap no serà funcional .',
 	'ERR_CHECKSYS_MSSQL_MQGPC'			=> 'Magic Quotes GPC no pot ser activat quan s\'usa  MS SQL Server.',
 	'ERR_CHECKSYS_MEM_LIMIT_0'			=> 'Avís: ',
@@ -188,7 +187,6 @@ $mod_strings = array(
 	'LBL_CHECKSYS_PHP_OK'				=> 'Correcte (veure ',
 	'LBL_CHECKSYS_PHPVER'				=> 'Versió de PHP',
     'LBL_CHECKSYS_IISVER'               => 'Versió d\'ISS',
-    'LBL_CHECKSYS_FASTCGI'              => 'FastCGI',
 	'LBL_CHECKSYS_RECHECK'				=> 'Comprovar de nou',
 	'LBL_CHECKSYS_SAFE_MODE'			=> 'Manera Segura de PHP Deshabilitat',
 	'LBL_CHECKSYS_SESSION'				=> 'Ruta d\'Emmagatzemament de Sessió Escribible (',
@@ -219,9 +217,9 @@ $mod_strings = array(
     'LBL_DBCONF_DB_NAME'				=> 'Nom de Base de dades',
 	'LBL_DBCONF_DB_PASSWORD'			=> 'Contrasenya de l\'Usuari de Base de dades de Sugar',
 	'LBL_DBCONF_DB_PASSWORD2'			=> 'Introdueixi de nou la Clau de Pas de l\'Usuari de Base de dades de Sugar',
-	'LBL_DBCONF_DB_USER'				=> 'Usuari de Base de dades de Sugar',
+	'LBL_DBCONF_DB_USER'				=> 'Usuari de la base de dades de SuiteCRM',
     'LBL_DBCONF_SUGAR_DB_USER'          => 'Usuari de la base de dades de SuiteCRM',
-    'LBL_DBCONF_DB_ADMIN_USER'          => 'Usuari administrador de la base de dades',
+    'LBL_DBCONF_DB_ADMIN_USER'          => 'Nom d´usuari de l´Administrador de Base de Dades',
     'LBL_DBCONF_DB_ADMIN_PASSWORD'      => 'Contrasenya del Administrador de Base de dades',
 	'LBL_DBCONF_DEMO_DATA'				=> 'Introduir Dades de Demostració en la Base de Dades?',
     'LBL_DBCONF_DEMO_DATA_TITLE'        => 'Seleccioni les Dades de Demo',
@@ -291,6 +289,7 @@ $mod_strings = array(
     'LBL_LICENSE_CHKENV_HEADER'         => 'Comprovant Entorn',
     'LBL_LICENSE_CHKDB_HEADER'          => 'Validant Credenciales de BD.',
     'LBL_LICENSE_CHECK_PASSED'          => 'El sistema ha pasat les proves de compatibilitat.',
+	'LBL_CREATE_CACHE' => 'Preparant per a instal·lar...',
     'LBL_LICENSE_REDIRECT'              => 'Redirigint a ',
 	'LBL_LICENSE_DIRECTIONS'			=> 'Si té informació sobre el seu llicència, si us plau introdueixi-la en els següents camps.',
 	'LBL_LICENSE_DOWNLOAD_KEY'			=> 'Introdueixi Clau de Descàrrega',
@@ -601,7 +600,7 @@ $mod_strings = array(
 	'SYSTEM_NAME_WIZARD'=>'Nom:',
 	'SYSTEM_NAME_HELP'=>'Aquest és el nom que es mostrarà al títol de la barra del seu navegador.',
 	'NEW_LOGO'=>'Pujar nou logo',
-	'NEW_LOGO_HELP'=>'The image file format can be either .png or .jpg. The maximum height is 17px, and the maximum width is 450px. Any image uploaded that is larger in any direction will be scaled to these max dimensions.',
+	'NEW_LOGO_HELP'=>'El format d\'arxiu d\'imatge pot ser .png o .jpg. L\'alçada màxima és de 17px, i l\'amplada màxima és de 450px. Qualsevol imatge carregada que és més gran en qualsevol direcció serà modificada perquè aquestes dimensions màximes.',
 	'COMPANY_LOGO_UPLOAD_BTN' => 'Pujar',
 	'CURRENT_LOGO'=>'Logo actual',
     'CURRENT_LOGO_HELP'=>'Aquest logotip es mostra a la cantonada superior esquerra de l\'aplicació Sugar.',
@@ -647,8 +646,8 @@ $mod_strings = array(
 
 	'LBL_MORE_OPTIONS_TITLE' => 'Més opcions',
 	'LBL_START' => 'Iniciar',
-	
-	
+
+
 );
 
 ?>

@@ -18,7 +18,7 @@
  * along with this program; if not, see http://www.gnu.org/licenses
  * or write to the Free Software Foundation,Inc., 51 Franklin Street,
  * Fifth Floor, Boston, MA 02110-1301  USA
- * when directly downloading from Transifex requires post-download edits to work. See SuiteCREM forum
+ *
  * @author SalesAgility <info@salesagility.com>
  */
 
@@ -54,7 +54,6 @@ $app_list_strings['aow_process_status_list']['Running'] = 'Corrent';
 $app_list_strings['aow_process_status_list']['Pending'] = 'Pendent';
 $app_list_strings['aow_process_status_list']['Failed'] = 'Fallat';
 $app_list_strings['aow_condition_operator_list']['And'] = 'I';
-$app_list_strings['aow_condition_operator_list']['OR'] = 'O';
 $app_list_strings['aow_condition_operator_list']['OR'] = 'O';
 $app_list_strings['aow_condition_type_list']['Value'] = 'Valor';
 $app_list_strings['aow_condition_type_list']['Field'] = 'Camp';

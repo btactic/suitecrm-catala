@@ -192,7 +192,6 @@ $mod_strings = array (
   'LBL_PHONE_WORK' => 'Telèfon de la feina',
   'LBL_PHONE_OTHER' => 'Un altre telèfon',
   'LBL_PHONE_FAX' => 'Fax:',
-  'LBL_CAMPAIGN_ID' => 'ID Campanya',
   'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Nom d\'usuari assignat',
   'LBL_EXPORT_ASSIGNED_USER_ID' => 'Id de l\'usuari assignat',
   'LBL_EXPORT_MODIFIED_USER_ID' => 'Modificat Per ID',

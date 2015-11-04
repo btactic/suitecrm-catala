@@ -47,7 +47,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 $mod_strings = array (
-	'LBL_ADD_ANOTHER_FILE'		=> 'Afegir un altre fitxer',
+	'LBL_ADD_ANOTHER_FILE'		=> 'Afegir Un altre Arxiu',
 	'LBL_ADD_DOCUMENT'			=> 'Afegir un document',
 	'LBL_ADD_FILE'				=> 'Afegir un arxiu',
 	'LBL_ATTACHMENTS'			=> 'Adjunts',

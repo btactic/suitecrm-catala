@@ -37,21 +37,37 @@
  * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  ********************************************************************************/
 
+$mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'ID Usuari Assignat',
+  'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Data de Creació',
+  'LBL_DATE_MODIFIED' => 'Última Modificació',
+  'LBL_MODIFIED' => 'Modificat Per',
+  'LBL_MODIFIED_ID' => 'Modificat per Id',
+  'LBL_MODIFIED_NAME' => 'Modificat per Nom',
+  'LBL_CREATED' => 'Creat Per',
+  'LBL_CREATED_ID' => 'Creat per Id',
+  'LBL_DESCRIPTION' => 'Descripció',
+  'LBL_DELETED' => 'Esborrat',
+  'LBL_NAME' => 'Nom',
+  'LBL_CREATED_USER' => 'Creat per Usuari',
+  'LBL_MODIFIED_USER' => 'Modificat per Usuari',
+  'LBL_LIST_NAME' => 'Nom',
+  'LBL_EDIT_BUTTON' => 'Editar',
+  'LBL_REMOVE' => 'Treure',
+  'LBL_LIST_FORM_TITLE' => 'Llista de categories KB',
+  'LBL_MODULE_NAME' => 'Categories KB',
+  'LBL_MODULE_TITLE' => 'Categories KB',
+  'LBL_HOMEPAGE_TITLE' => 'les meves categories KB',
+  'LNK_NEW_RECORD' => 'crear categories KB',
+  'LNK_LIST' => 'vista de les categories KB',
+  'LNK_IMPORT_AOK_KB_CATEGORIES' => 'Importar les categories KB',
+  'LBL_SEARCH_FORM_TITLE' => 'Cercar categories KB',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'Veure Històrial',
+  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activitats',
+  'LBL_AOK_KB_CATEGORIES_SUBPANEL_TITLE' => 'Categories KB',
+  'LBL_NEW_FORM_TITLE' => 'noves categories KB',
+);
 
-$app_list_strings['moduleList']['FP_events'] = 'Esdeveniments';
-$app_list_strings['moduleList']['FP_Event_Locations'] = 'Ubicacions';
-$app_list_strings['invite_template_list'][''] = '';
-
-$app_list_strings['fp_event_invite_status_dom']['Invited'] = 'Invitat';
-$app_list_strings['fp_event_invite_status_dom']['Not Invited'] = 'No Invitat';
-$app_list_strings['fp_event_invite_status_dom']['Attended'] = 'Assistents ';
-$app_list_strings['fp_event_invite_status_dom']['Not Attended'] = 'No Assistents';
-$app_list_strings['fp_event_status_dom']['Accepted'] = 'Acceptat';
-$app_list_strings['fp_event_status_dom']['Declined'] = 'Rebutjat';
-$app_list_strings['fp_event_status_dom']['No Response'] = 'Sense resposta';
-
-$app_strings['LBL_STATUS_EVENT'] = 'Estat de la Invitació';
-$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d\'acceptació';
-$app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Seleccionar Pàgina Actual';
-$app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Seleccionar tot';
-$app_strings['LBL_LISTVIEW_NONE'] = 'Treure la Selecció';
+$mod_strings['LBL_AOK_KB_TITLE'] = 'Knowledge Base';
