@@ -38,7 +38,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  ********************************************************************************/
 
- 
+
 $mod_strings = array (
 
 	'LBL_MODULE_NAME' => 'Calendari',
@@ -82,7 +82,7 @@ $mod_strings = array (
 	'LBL_SELECT_USERS' => 'Seleccioni usuaris per a la visualització de calendari',
 	'LBL_FILTER_BY_TEAM' => 'Filtrat d\'usuaris per equip:',
 	'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
-	'LBL_DATE' => 'Data i Hora d\'Inici',  
+	'LBL_DATE' => 'Data i Hora d\'Inici',
 	'LBL_CREATE_MEETING' => 'Programar Reunió',
 	'LBL_CREATE_CALL' => 'Programar Trucada',
 	'LBL_HOURS_ABBREV' => 'h',
@@ -123,8 +123,8 @@ $mod_strings = array (
 
 	'LBL_SETTINGS_TITLE' => 'Configuració',
 	'LBL_SETTINGS_DISPLAY_TIMESLOTS' => 'Mostra els intervals de temps en setmanes i dies:',
-	'LBL_SETTINGS_TIME_STARTS'=>'Hora d\'inici:', 
-	'LBL_SETTINGS_TIME_ENDS'=>'Hora de finalització:', 
+	'LBL_SETTINGS_TIME_STARTS'=>'Hora d\'inici:',
+	'LBL_SETTINGS_TIME_ENDS'=>'Hora de finalització:',
 	'LBL_SETTINGS_CALLS_SHOW' => 'Veure trucades:',
 	'LBL_SETTINGS_TASKS_SHOW' => 'Veure tasques:',
     'LBL_SETTINGS_COMPLETED_SHOW' => 'Mostrar reunions, trucades i tasques realitzades:',
@@ -138,19 +138,19 @@ $mod_strings = array (
 
 	'LBL_GENERAL_TAB' => 'Detalls',
 	'LBL_PARTICIPANTS_TAB' => 'Assistents',
-	'LBL_REPEAT_TAB' => 'Repetició',	
-	
+	'LBL_REPEAT_TAB' => 'Repetició',
+
 	'LBL_REPEAT_TYPE' => 'Repetir',
 	'LBL_REPEAT_INTERVAL' => 'Cada',
-	'LBL_REPEAT_END' => 'Últim',	
+	'LBL_REPEAT_END' => 'Últim',
 	'LBL_REPEAT_END_AFTER' => 'Desprès de',
 	'LBL_REPEAT_OCCURRENCES' => 'Ocurrències',
-	'LBL_REPEAT_END_BY' => 'Per',	
-	'LBL_REPEAT_DOW' => 'En',	
+	'LBL_REPEAT_END_BY' => 'Per',
+	'LBL_REPEAT_DOW' => 'En',
 	'LBL_REPEAT_UNTIL' => 'Repetir fins',
 	'LBL_REPEAT_COUNT' => 'Nombre de recurrències',
 	'LBL_REPEAT_LIMIT_ERROR' => 'La seva solicitud anava a crear més de $limit reunions.',
-	
+
 	'LBL_EDIT_ALL_RECURRENCES' => 'Editeu totes les recurrències',
 	'LBL_REMOVE_ALL_RECURRENCES' => 'Eliminar totes les recurrències',
 
@@ -164,55 +164,55 @@ $mod_strings = array (
 $mod_list_strings = array(
 	'dom_cal_weekdays'=>
 		array(
-			"Sun",
-			"Mon",
-			"Tue",
-			"Wed",
-			"Thu",
-			"Fri",
-			"Sat",
+			"dg.",
+			"dl.",
+			"dt.",
+			"dc.",
+			"dj.",
+			"dv.",
+			"ds.",
 		),
 	'dom_cal_weekdays_long'=>
 		array(
-			"Sunday",
-			"Monday",
-			"Tuesday",
-			"Wednesday",
-			"Thursday",
-			"Friday",
-			"Saturday",
+			"diumenge",
+			"dilluns",
+			"dimarts",
+			"dimecres",
+			"dijous",
+			"divendres",
+			"dissabte",
 		),
 	'dom_cal_month'=>
 		array(
 			"",
-			"Jan",
-			"Feb",
-			"Mar",
-			"Apr",
-			"May",
-			"Jun",
-			"Jul",
-			"Aug",
-			"Sep",
-			"Oct",
-			"Nov",
-			"Dec",
+			"gen.",
+			"febr.",
+			"març",
+			"abr.",
+			"maig",
+			"juny",
+			"jul.",
+			"ag.",
+			"set.",
+			"act.",
+			"nov.",
+			"des.",
 		),
 	'dom_cal_month_long'=>
 		array(
 			"",
-			"January",
-			"February",
-			"March",
-			"April",
-			"May",
-			"June",
-			"July",
-			"August",
-			"September",
-			"October",
-			"November",
-			"December",
+			"gener",
+			"febrer",
+			"març",
+			"abril",
+			"maig",
+			"juny",
+			"juliol",
+			"agost",
+			"setembre",
+			"octubre",
+			"novembre",
+			"desembre",
 		),
 );
 ?>
