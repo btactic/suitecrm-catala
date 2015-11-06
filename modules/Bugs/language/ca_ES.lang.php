@@ -95,7 +95,7 @@ $mod_strings = array (
   'LBL_MODIFIED_BY' => 'Modificat per:',
   'LBL_DATE_LAST_MODIFIED' => 'Última modificació:',
 
-  'LBL_LIST_EMAIL_ADDRESS' => 'Correu',
+  'LBL_LIST_EMAIL_ADDRESS' => 'Direcció de correu electrònic',
   'LBL_LIST_CONTACT_NAME' => 'Contacte',
   'LBL_LIST_ACCOUNT_NAME' => 'Compte',
   'LBL_LIST_PHONE' => 'Telèfon',

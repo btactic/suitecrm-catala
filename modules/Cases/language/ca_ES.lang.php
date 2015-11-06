@@ -56,7 +56,7 @@ $mod_strings = array (
     'LBL_SUGGESTION_BOX' => 'Suggeriments',
     'LBL_NO_SUGGESTIONS' => 'Sense suggeriments',
     'LBL_RESOLUTION_BUTTON'  => 'Resolució',
-    'LBL_SUGGESTION_BOX_STATUS' => 'Estat',
+    'LBL_SUGGESTION_BOX_STATUS' => 'Situació',
     'LBL_SUGGESTION_BOX_TITLE' => 'Títol',
     'LBL_SUGGESTION_BOX_REL' => 'Rellevància',
 
@@ -88,7 +88,7 @@ $mod_strings = array (
 	'LBL_DOCUMENTS_SUBPANEL_TITLE' 		=> 'Documents',
 	'LBL_RESOLUTION'					=> 'Resolució:',
 	'LBL_SEARCH_FORM_TITLE'				=> 'Cerca de Casos',
-	'LBL_STATUS'						=> 'Estat:',
+	'LBL_STATUS'						=> 'Situació:',
 	'LBL_SUBJECT'						=> 'Assumpte:',
 	'LBL_SYSTEM_ID'						=> 'ID Sistema',
 	'LBL_LIST_ASSIGNED_TO_NAME' 		=> 'Usuari Assignat',
@@ -100,7 +100,7 @@ $mod_strings = array (
 	'LBL_LIST_MY_CASES'					=> 'Els Meus Casos Oberts',
 	'LBL_LIST_NUMBER'					=> 'Núm.',
 	'LBL_LIST_PRIORITY'					=> 'Prioritat',
-	'LBL_LIST_STATUS'					=> 'Estat',
+	'LBL_LIST_STATUS'					=> 'Situació',
 	'LBL_LIST_SUBJECT'					=> 'Assumpte',
 
 	'LNK_CASE_LIST'						=> 'Casos',

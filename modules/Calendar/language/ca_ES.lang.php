@@ -112,7 +112,7 @@ $mod_strings = array (
 	'LBL_INFO_DUE_DT' => 'Data Venciment',
 	'LBL_INFO_DURATION' => 'Durada',
 	'LBL_INFO_NAME' => 'Assumpte',
-	'LBL_INFO_RELATED_TO' => 'Relatiu a',
+	'LBL_INFO_RELATED_TO' => 'Relacionat amb',
 
 	'LBL_NO_USER' => 'No hi ha resultats pel camp: Assignat a',
 	'LBL_SUBJECT' => 'Assumpte',

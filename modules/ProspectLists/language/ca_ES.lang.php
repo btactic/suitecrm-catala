@@ -91,9 +91,9 @@ $mod_strings = array (
   'LBL_LIST_TYPE_LIST_NAME'=>'Tipus',
   'LBL_NEW_FORM_TITLE'=>'Nova Llista de Públic Objectiu',
   'LBL_MARKETING_NAME'=>'Nom de màrqueting',
-  'LBL_MARKETING_MESSAGE'=>'Missatge de Màrqueting per Correu',
+  'LBL_MARKETING_MESSAGE'=>'Missatge de màrqueting per correu electrònic',
   'LBL_DOMAIN_NAME'=>'Nom de Domini',
-  'LBL_DOMAIN'=>'No hi ha correus per aquest domini',
+  'LBL_DOMAIN'=>'No hi ha correus electrònics per aquest domini',
   'LBL_LIST_PROSPECTLIST_NAME'=>'Nom',
 	'LBL_MORE_DETAIL' => 'Més detalls' /*for 508 compliance fix*/,
 );
