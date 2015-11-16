@@ -51,7 +51,6 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $app_list_strings = array (
 
   'language_pack_name' => 'Català (CA)',
-  
   'moduleList' =>
   array (
     'Home' => 'Inici',
@@ -324,17 +323,17 @@ $app_list_strings = array (
         'Prof.' => 'Prof.',
       ),
   //time is in seconds; the greater the time the longer it takes;
-  'reminder_max_time' => '90000',
-  'reminder_time_options' => array( '60'=> '1 minut abans',
-                                  '300'=> '5 minuts abans',
-                                  '600'=> '10 minuts abans',
-                                  '900'=> '15 minuts abans',
-                                  '1800'=> '30 minuts abans',
-                                  '3600'=> '1 hora abans',
-                                  '7200' => '2 hores abans',
-                                  '10800' => '3 hores abans',
-                                  '18000' => '5 hores abans',
-                                  '86400' => '1 dia abans',
+  'reminder_max_time' => 90000,
+  'reminder_time_options' => array( 60=> '1 minut abans',
+                                  300=> '5 minuts abans',
+                                  600=> '10 minuts abans',
+                                  900=> '15 minuts abans',
+                                  1800=> '30 minuts abans',
+                                  3600=> '1 hora abans',
+                                  7200 => '2 hores abans',
+                                  10800 => '3 hores abans',
+                                  18000 => '5 hores abans',
+                                  86400 => '1 dia abans',
                                  ),
 
   'task_priority_default' => 'Medium',
@@ -798,14 +797,14 @@ $app_list_strings = array (
     'dom_email_distribution_for_auto_create'=> array('roundRobin'   => 'Round-Robin',
                                                      'leastBusy'    => 'Menys-Ocupat',
     ),
-    'dom_email_errors'      => array('1' => 'Only select one user when Direct Assigning items.',
-                                     '2' => 'You must assign Only Checked Items when Direct Assigning items.',
+    'dom_email_errors'      => array(1 => 'Only select one user when Direct Assigning items.',
+                                     2 => 'You must assign Only Checked Items when Direct Assigning items.',
     ),
     'dom_email_bool'        => array('bool_true' => 'Si',
                                      'bool_false' => 'No',
     ),
-    'dom_int_bool'          => array('1' => 'Si',
-                                     '0' => 'No',
+    'dom_int_bool'          => array(1 => 'Si',
+                                     0 => 'No',
     ),
     'dom_switch_bool'       => array ('on' => 'Si',
                                         'off' => 'No',
@@ -1004,8 +1003,8 @@ $app_list_strings = array (
     ),
 
   'custom_fields_merge_dup_dom'=> array (
-        '0'=>'Deshabilitat',
-        '1'=>'Habilitat',
+        0=>'Deshabilitat',
+        1=>'Habilitat',
   ),
 
   'navigation_paradigms' => array(
@@ -1165,6 +1164,7 @@ $app_strings = array (
     'LBL_MODULE_FILTER' => 'Filtra per',
     'LBL_CONNECTORS_POPUPS'=>'Connector de finestres emergents',
     'LBL_CLOSEINLINE'=>'Tancar',
+    'LBL_MOREDETAIL'=>'Més detalls',
     'LBL_EDITINLINE'=>'Editar',
     'LBL_VIEWINLINE'=>'Veure',
     'LBL_INFOINLINE'=>'Informació',
@@ -1273,6 +1273,8 @@ $app_strings = array (
     'LBL_EMAIL_ADDRESS_BOOK_SELECT_TITLE'   => 'Seleccionar Entrades de la Llibreta de Direccions',
     'LBL_EMAIL_ADDRESS_BOOK_TITLE'          => 'Llibreta de Direccions',
     'LBL_EMAIL_REPORTS_TITLE'               => 'Informes',
+    'LBL_EMAIL_ADDRESS_BOOK_TITLE_ICON'     => SugarThemeRegistry::current()->getImage('icon_email_addressbook', "", null, null, ".gif", 'Address Book').' Address Book',
+    'LBL_EMAIL_ADDRESS_BOOK_TITLE_ICON_SHORT'     => SugarThemeRegistry::current()->getImage('icon_email_addressbook', 'align=absmiddle border=0', 14, 14, ".gif", ''),
     'LBL_EMAIL_REMOVE_SMTP_WARNING'         => 'Avís! El compte de sortida que està intentant eliminar està associat a un compte d\'entrada actual. Esteu segur que voleu continuar?',
     'LBL_EMAIL_ADDRESSES'                   => 'Correu electrònic',
     'LBL_EMAIL_ADDRESS_PRIMARY'             => 'Direcció de correu electrònic',
@@ -1372,6 +1374,8 @@ $app_strings = array (
     'LBL_EMAIL_ERROR_TRASH_FOLDER'          => 'Es requereix una Carpeta de Paperera.',
     'LBL_EMAIL_ERROR_VIEW_RAW_SOURCE'       => 'Aquesta informació no està disponible',
     'LBL_EMAIL_ERROR_NO_OUTBOUND'           => 'No hi ha cap servidor de correu sortint especificat.',
+    'LBL_EMAIL_FOLDERS'                     => SugarThemeRegistry::current()->getImage('icon_email_folder', 'align=absmiddle border=0', null, null, ".gif", '').'Folders',
+    'LBL_EMAIL_FOLDERS_SHORT'               => SugarThemeRegistry::current()->getImage('icon_email_folder', 'align=absmiddle border=0', null, null, ".gif", ''),
     'LBL_EMAIL_FOLDERS_ACTIONS'             => 'Moure A',
     'LBL_EMAIL_FOLDERS_ADD'                 => 'Afegir',
     'LBL_EMAIL_FOLDERS_ADD_DIALOG_TITLE'    => 'Afegir Nova Carpeta',
@@ -1498,6 +1502,8 @@ $app_strings = array (
     'LBL_EMAIL_SAVE_DRAFT'                  => 'Desar Esborrany',
 
     'LBL_EMAIL_SEARCHING'                   => 'Duent a terme la cerca',
+    'LBL_EMAIL_SEARCH'                      => SugarThemeRegistry::current()->getImage('Search', 'align=absmiddle border=0', null, null, ".gif", ''),
+    'LBL_EMAIL_SEARCH_SHORT'                => SugarThemeRegistry::current()->getImage('Search', 'align=absmiddle border=0', null, null, ".gif", ''),
     'LBL_EMAIL_SEARCH_ADVANCED'             => 'Cerca avançada',
     'LBL_EMAIL_SEARCH_DATE_FROM'            => 'Data Desde',
     'LBL_EMAIL_SEARCH_DATE_UNTIL'           => 'Data Fis a',
@@ -1573,6 +1579,7 @@ $app_strings = array (
     'LBL_EMAIL_SPACER_MAIL_SERVER'          => '[ Carpetes Remotes ]',
     'LBL_EMAIL_SPACER_LOCAL_FOLDER'         => '[ Carpetes de SuiteCRM ]',
     'LBL_EMAIL_SUBJECT'                     => 'Assumpte',
+    'LBL_EMAIL_TO'                        => 'Per',
     'LBL_EMAIL_SUCCESS'                     => 'Fet',
     'LBL_EMAIL_SUGAR_FOLDER'                => 'Carpeta de SuiteCRM',
     'LBL_EMAIL_TEMPLATE_EDIT_PLAIN_TEXT'    => 'El cos de la plantilla de correu electrònic és vuit',
@@ -1880,8 +1887,10 @@ $app_strings = array (
 
     'LBL_PROSPECTS'=>'Perspectives',
     'LBL_PRODUCT_BUNDLES'=>'Jocs de Productes',
+    'LBL_PRODUCT_BUNDLES'=>'Jocs de Productes',
     'LBL_PRODUCTS'=>'Productes',
     'LBL_PROJECT_TASKS'=>'Tasques de Projecte',
+    'LBL_PROJECTS'=>'Projectes',
     'LBL_PROJECTS'=>'Projectes',
     'LBL_QUOTE_TO_OPPORTUNITY_KEY' => 'O',
     'LBL_QUOTE_TO_OPPORTUNITY_LABEL' => 'Crear Oportunitat a partir de Pressupost',
@@ -2013,6 +2022,7 @@ $app_strings = array (
 
 
     'LBL_SYNC' => 'Sincronitzar',
+    'LBL_SYNC' => 'Sincronitzar',
     'LBL_TABGROUP_ALL' => 'Tot',
     'LBL_TABGROUP_ACTIVITIES' => 'Activitats',
     'LBL_TABGROUP_COLLABORATION' => 'Col·laboració',
@@ -2084,8 +2094,7 @@ $app_strings = array (
     'NTC_DATE_TIME_FORMAT' => '(aaaa-mm-dd 24:00)',
     'NTC_DELETE_CONFIRMATION_MULTIPLE' => 'Està segur que desitja eliminar els registres seleccionats?',
     'NTC_TEMPLATE_IS_USED' => 'La plantilla s\'està utilitzant almenys en un registre de màrqueting per correu electrònic. Està segur que desitja eliminar-la?',
-    'NTC_TEMPLATES_IS_USED' => 'Les següents plantilles s\'estan utilitzant en registres de màrqueting per correu electrònic. Està segur que desitja eliminar-les?
-',
+    'NTC_TEMPLATES_IS_USED' => 'Les següents plantilles s\'estan utilitzant en registres de màrqueting per correu electrònic. Està segur que desitja eliminar-les?',
     'NTC_DELETE_CONFIRMATION' => 'Està segur de que desitja eliminar el registre?',
     'NTC_DELETE_CONFIRMATION_NUM' => 'Està segur de que desitja eliminar el ',
     'NTC_UPDATE_CONFIRMATION_NUM' => 'Està segur de que desitja actualitzar el ',
@@ -2104,7 +2113,7 @@ $app_strings = array (
     'WARN_BROWSER_VERSION_WARNING' => '<b>Atenció:</b> La versió del seu navegador ja no és compatible o esteu utilitzant un navegador incompatible.<p></p>Es recomanen les següents versions de navegadors:<p></p><ul><li>Internet Explorer 10 (la vista de compatibilitat no és compatible)<li>Firefox 32.0<li>Safari 5.1<li>Chrome 37</ul>',
     'WARN_BROWSER_IE_COMPATIBILITY_MODE_WARNING' => '<b>Atenció:</b> El seu navegador està en mode vista compatible IE. Aquest mode no és compatible.',
     'ERROR_TYPE_NOT_VALID' => 'Error. Aquest tipus no es vàlid.',
-    'ERROR_NO_BEAN' => 'obtenció del bean fallida', 
+    'ERROR_NO_BEAN' => 'obtenció del bean fallida',
     'LBL_DUP_MERGE'=>'Cercar Duplicats',
     'LBL_MANAGE_SUBSCRIPTIONS'=>'Administrar Subscripcions',
     'LBL_MANAGE_SUBSCRIPTIONS_FOR'=>'Administrar Subscripcions a ',
@@ -2146,10 +2155,8 @@ $app_strings = array (
     'MSG_JS_ALERT_MTG_REMINDER_DESC' => 'Descripció: ',
     'MSG_JS_ALERT_MTG_REMINDER_STATUS' => 'Estat: ',
     'MSG_JS_ALERT_MTG_REMINDER_RELATED_TO' => 'Relacionat amb:',
-    'MSG_JS_ALERT_MTG_REMINDER_CALL_MSG' => "
-Cliqui Acceptar per veure aquesta trucada o cliqui Cancel·lar per tancar aquest missatge.",
-  	'MSG_JS_ALERT_MTG_REMINDER_MEETING_MSG' => "
-Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest missatge.",
+    'MSG_JS_ALERT_MTG_REMINDER_CALL_MSG' => "\nCliqui Acceptar per veure aquesta trucada o cliqui Cancel·lar per tancar aquest missatge.",
+  	'MSG_JS_ALERT_MTG_REMINDER_MEETING_MSG' => "\nCliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest missatge.",
  	'MSG_LIST_VIEW_NO_RESULTS_BASIC' => "No s'han trobat resultats.",
 	'MSG_LIST_VIEW_NO_RESULTS' => "No s'han trobat resultats per <item1>",
  	'MSG_LIST_VIEW_NO_RESULTS_SUBMSG' => "Crear <item1> com a nou <item2>",
@@ -2178,6 +2185,7 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
     'LBL_ADD_ALL_LEAD_FIELDS' => 'Afegir Tots els Camps',
     'LBL_REMOVE_ALL_LEAD_FIELDS' => 'Borrar Tots els Camps',
     'LBL_ONLY_IMAGE_ATTACHMENT' => 'Només pot incloure\'s un adjunt de tipus imatge',
+    'LBL_REMOVE' => 'Eliminar',
     'LBL_TRAINING' => 'Suport',
     'ERR_DATABASE_CONN_DROPPED'=>'Error executant una consulta. Possiblement la seva base de dades s\'ha desconnectat. Si us plau, actualitzi aquesta pàgina. És possible que fins i tot necessiti reiniciar el seu servidor web.',
     'ERR_MSSQL_DB_CONTEXT' =>'Canviat el context de base de dades a',
@@ -2286,6 +2294,7 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
     'LBL_PORTAL_WELCOME_TITLE' => 'Benvingut al portal SuiteCRM',
     'LBL_PORTAL_WELCOME_INFO' => 'SuiteCRM Portal is a framework which provides real-time view of cases, bugs & newsletters etc to customers. This is an external facing interface to SuiteCRM that can be deployed within any website.',
     'LBL_LIST' => 'Llista',
+    'LBL_CREATE_CASE' => 'Crear cas',
     'LBL_CREATE_BUG' => 'Nova Incidència',
     'LBL_NO_RECORDS_FOUND' => '- 0 Registres Trobats -',
 
@@ -2336,10 +2345,13 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
   'ERROR_MISSING_COLLECTION_SELECTION' => 'Camp requerit vuit',
     'LBL_COLLECTION_EXACT' => 'Exacte',
 
+    // fastcgi checks
+    'LBL_FASTCGI_LOGGING'      => 'For optimal experience using IIS/FastCGI sapi, set fastcgi.logging to 0 in your php.ini file.',
     //MB -Fixed Bug #32812 -Max
     'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
     'LBL_DESCRIPTION' => 'Descripció',
 
+  'LBL_NONE' => '-cap-',
   'LBL_YESTERDAY'=> 'ahir',
   'LBL_TODAY'=>'avui',
   'LBL_TOMORROW'=>'demà',
@@ -2496,7 +2508,6 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
     'ERR_BAD_RESPONSE_FROM_SERVER' => 'Resposta incorrecta del servidor',
     'LBL_ACCOUNT_PRODUCT_QUOTE_LINK' => 'Pressupost',
     'LBL_ACCOUNT_PRODUCT_SALE_PRICE' => 'Preu de venda',
-  
     'LBL_EMAIL_CHECK_INTERVAL_DOM'          => array(
         '-1' => 'Manualment',
         '5' => 'Cada 5 minuts',
@@ -2505,7 +2516,7 @@ Cliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest
         '60' => 'Every hour',
     ),
     );
-  
+
 $app_list_strings['moduleList']['Library'] = 'Library';
 $app_list_strings['library_type'] = array('Books'=>'Llibre', 'Music'=>'Música', 'DVD'=>'DVD', 'Magazines'=>'Revistes',);
 $app_list_strings['moduleList']['EmailAddresses'] = 'Email Address';
@@ -3253,9 +3264,9 @@ $app_list_strings['eapm_list_documents']= array(
   	'Google' => 'Google Docs',
   );
 	$app_list_strings['token_status'] = array(
-        '1' => 'Petició',
-        '2' => 'Accés',
-        '3' => 'No Vàlid',
+        1 => 'Petició',
+        2 => 'Accés',
+        3 => 'No Vàlid',
     );
 
 $app_list_strings ['emailTemplates_type_list'] = array (
@@ -3282,6 +3293,7 @@ $app_strings ['documentation'] = array (
 	'PRO' => '04_Sugar_Professional',
 	'COM' => '05_Sugar_Community_Edition',
 );
+
 
 // knowledge base
 $app_list_strings['moduleList']['AOK_KnowledgeBase'] = 'Knowledge Base';
