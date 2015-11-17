@@ -114,7 +114,7 @@ $mod_strings = array (
 	'LBL_HISTORY_TITLE'=>'Historial',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activitats',
 	'LBL_HISTORY_SUBPANEL_TITLE'=>'Historial', 
-	'DATE_JS_ERROR' => 'Si us plau, introdueixi una data que correspongui a l\'hora introduïda',
+	'DATE_JS_ERROR' => 'Si us plau, introdueixi una data que correspongui a l’hora introduïda',
 
     'LBL_ASSIGNED_USER_NAME' => 'Assignat a',
     'LBL_PARENT_NAME' => 'Nom de Projecte',

@@ -44,8 +44,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $dashletStrings['InvadersDashlet'] = array(
     'LBL_TITLE'         => '¡Invaders!',
-    'LBL_DESCRIPTION'   => 'Una forma de pasar l\'estona',
-    'LBL_DBLCLICK_HELP' => 'Faci servir A i D per moure\'s, S per disparar.',
+    'LBL_DESCRIPTION'   => 'Una forma de pasar l’estona',
+    'LBL_DBLCLICK_HELP' => 'Faci servir A i D per moure’s, S per disparar.',
     'LBL_START'         => 'Faci clic per a començar',
     'LBL_GAME_OVER'     => 'Fi del joc<br>(Fes click per tornar a començar)',
 

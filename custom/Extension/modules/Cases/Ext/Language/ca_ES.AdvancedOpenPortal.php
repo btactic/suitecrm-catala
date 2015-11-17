@@ -30,4 +30,4 @@ $mod_strings['LBL_CLEAR_CASE_DOCUMENT'] = 'Netejar document';
 $mod_strings['LBL_SELECT_INTERNAL_CASE_DOCUMENT'] = 'Document intern a CRM';
 $mod_strings['LBL_SELECT_EXTERNAL_CASE_DOCUMENT'] = 'Fitxer extern';
 $mod_strings['LBL_CONTACT_CREATED_BY_NAME'] = 'Creat per contacte';
-$mod_strings['LBL_CASE_UPDATE_FORM'] = 'Actualitzar l\'adjunt';
+$mod_strings['LBL_CASE_UPDATE_FORM'] = 'Actualitzar l’adjunt';

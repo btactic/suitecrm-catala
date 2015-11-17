@@ -61,9 +61,9 @@ $mod_strings = array (
   'LBL_STATUS' => 'Estat:',
   'LNK_NEW_RELEASE' => 'Llista de publicacions',
   'NTC_DELETE_CONFIRMATION' => 'Està segur de que desitja eliminar el registre?',
-  'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per a eliminar la publicació.',
-  'NTC_STATUS' => 'Establir l\'estat a inactiu per a eliminar aquesta publicació de les llistes desplegables de publicacions',
-  'NTC_LIST_ORDER' => 'Estableix l\'ordre en que aquesta publicació apareixerà a les llistes desplegables de publicacions',
+  'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre per a eliminar la publicació.',
+  'NTC_STATUS' => 'Establir l’estat a inactiu per a eliminar aquesta publicació de les llistes desplegables de publicacions',
+  'NTC_LIST_ORDER' => 'Estableix l’ordre en que aquesta publicació apareixerà a les llistes desplegables de publicacions',
 
   'release_status_dom' =>
   array (

@@ -73,7 +73,7 @@ $mod_strings = array (
   'LBL_FROM_ADDR' => 'Direcció correu electrònic remitent: ',
   'LBL_DATE_START' => 'Data Inici',
   'LBL_TIME_START' => 'Hora Inici',
-  'LBL_START_DATE_TIME' => 'Data i Hora d\'Inici: ',
+  'LBL_START_DATE_TIME' => 'Data i Hora d’Inici: ',
   'LBL_TEMPLATE' => 'Plantilla de correu electrònic:',
 
   'LBL_MODIFIED_BY' => 'Modificat per: ',

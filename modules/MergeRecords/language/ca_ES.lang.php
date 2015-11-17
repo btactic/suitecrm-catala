@@ -80,7 +80,7 @@ $mod_strings = array (
   'ERR_EXCEEDS_MAX'=>'Només li està permès combinar un màxim de 5 registres. Els registres que superin aquest límit seran ignorats.',
   'LBL_DELETE_MESSAGE'=>'Aquesta acció eliminarà els següents registres:',
   'LBL_PROCEED'=>'Continuar?',
-  'LBL_STEP1_DIRECTIONS' => 'S\'han trobat registres que podrien estar duplicats. Quan es troben possibles duplicats, pot seleccionar aquells registres que desitja fusionar amb el registre actual.',
+  'LBL_STEP1_DIRECTIONS' => 'S’han trobat registres que podrien estar duplicats. Quan es troben possibles duplicats, pot seleccionar aquells registres que desitja fusionar amb el registre actual.',
 );
 
 

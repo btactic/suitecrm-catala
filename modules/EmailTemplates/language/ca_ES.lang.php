@@ -97,7 +97,7 @@ $mod_strings = array (
 	// for Inbox
 	'LBL_NEW'					=> 'Nou',
 	'LNK_CHECK_MY_INBOX'		=> 'Comprovar el meu correu',
-	'LNK_GROUP_INBOX'			=> 'Safata d\'Entrada Compartida',
+	'LNK_GROUP_INBOX'			=> 'Safata d’Entrada Compartida',
 	'LNK_MY_ARCHIVED_LIST'		=> 'Els Meus Arxius',
 	'LNK_MY_DRAFTS'				=> 'Borradors',
 	'LNK_MY_INBOX'				=> 'El meu correu electrònic',
@@ -111,7 +111,7 @@ $mod_strings = array (
     'LBL_CREATED_BY'=>'Creat Per',
     'LBL_FROM_ADDRESS'=>'Direcció del Remitent',
     'LBL_PUBLISHED'=>'Publicat',
-    'LBL_ACTIVITIES_REPORTS' 	=> 'Informe d\'activitats',
+    'LBL_ACTIVITIES_REPORTS' 	=> 'Informe d’activitats',
     'LNK_VIEW_MY_INBOX' => 'Veure els meus correus eletrònics',
 	'LBL_ASSIGNED_TO_ID' => 'Assignat a',
 	'LBL_EDIT_LAYOUT' => 'Editar Diseny' /*for 508 compliance fix*/,

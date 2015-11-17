@@ -22,15 +22,15 @@
  * @author Salesagility Ltd <support@salesagility.com>
  */
 $mod_strings['LBL_AOP_CASE_UPDATES'] = 'Actualitzacions de casos';
-$mod_strings['LBL_CREATE_PORTAL_USER'] = 'Crear portal d\'usuari';
-$mod_strings['LBL_ENABLE_PORTAL_USER'] = 'Habilitar portal d\'usuari';
-$mod_strings['LBL_DISABLE_PORTAL_USER'] = 'Deshabilitar portal d\'usuari';
-$mod_strings['LBL_CREATE_PORTAL_USER_FAILED'] = 'Error al crear el portal d\'usuari';
-$mod_strings['LBL_ENABLE_PORTAL_USER_FAILED'] = 'Error al habilitar el portal d\'usuari';
-$mod_strings['LBL_DISABLE_PORTAL_USER_FAILED'] = 'Error al deshabilitar el portal d\'usuari';
-$mod_strings['LBL_CREATE_PORTAL_USER_SUCCESS'] = 'S\'ha creat el portal d\'usuari';
-$mod_strings['LBL_ENABLE_PORTAL_USER_SUCCESS'] = 'S\'ha habilitat el portal d\'usuari';
-$mod_strings['LBL_DISABLE_PORTAL_USER_SUCCESS'] = 'S\'ha deshabilitat el portal d\'usuari';
-$mod_strings['LBL_NO_JOOMLA_URL'] = 'No s\'ha especificat la URL del portal';
-$mod_strings['LBL_PORTAL_USER_TYPE'] = 'Tipus de portal d\'usuari';
+$mod_strings['LBL_CREATE_PORTAL_USER'] = 'Crear portal d’usuari';
+$mod_strings['LBL_ENABLE_PORTAL_USER'] = 'Habilitar portal d’usuari';
+$mod_strings['LBL_DISABLE_PORTAL_USER'] = 'Deshabilitar portal d’usuari';
+$mod_strings['LBL_CREATE_PORTAL_USER_FAILED'] = 'Error al crear el portal d’usuari';
+$mod_strings['LBL_ENABLE_PORTAL_USER_FAILED'] = 'Error al habilitar el portal d’usuari';
+$mod_strings['LBL_DISABLE_PORTAL_USER_FAILED'] = 'Error al deshabilitar el portal d’usuari';
+$mod_strings['LBL_CREATE_PORTAL_USER_SUCCESS'] = 'S’ha creat el portal d’usuari';
+$mod_strings['LBL_ENABLE_PORTAL_USER_SUCCESS'] = 'S’ha habilitat el portal d’usuari';
+$mod_strings['LBL_DISABLE_PORTAL_USER_SUCCESS'] = 'S’ha deshabilitat el portal d’usuari';
+$mod_strings['LBL_NO_JOOMLA_URL'] = 'No s’ha especificat la URL del portal';
+$mod_strings['LBL_PORTAL_USER_TYPE'] = 'Tipus de portal d’usuari';
 $mod_strings['LBL_PORTAL_ACCOUNT_DISABLED'] = "Compta desactivada";

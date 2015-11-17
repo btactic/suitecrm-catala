@@ -48,10 +48,10 @@ $mod_strings = array (
 'LIST_ROLES'=>'Llistar Rols',
 'LBL_USERS_SUBPANEL_TITLE'=>'Usuaris',
 'LIST_ROLES_BY_USER'=>'Llistar Rols per Usuaris',
-'LBL_ROLES_SUBPANEL_TITLE'=>'Rols d\'Usuari',
+'LBL_ROLES_SUBPANEL_TITLE'=>'Rols d’Usuari',
 'LBL_SEARCH_FORM_TITLE'=>'Cerca',
-'LBL_NO_ACCESS'=>'No té accés a aquesta àrea. Contacti amb l\'Administrador del seu lloc web per obtenir-lo.',
-'LBL_REDIRECT_TO_HOME'=>'Redirigint a l\'inici en',
+'LBL_NO_ACCESS'=>'No té accés a aquesta àrea. Contacti amb l’Administrador del seu lloc web per obtenir-lo.',
+'LBL_REDIRECT_TO_HOME'=>'Redirigint a l’inici en',
 'LBL_SECONDS'=>'segons',
 'LBL_ADDING'=>'Afegint per a ',
 

@@ -93,7 +93,7 @@ $mod_strings = array (
     // quick create label
     'LBL_NEW_FORM_TITLE' => 'Nou Projecte',
 
-	'CONTACT_REMOVE_PROJECT_CONFIRM' => 'Està segur de que vol esborrar aquest contacte d\'aquest projecte?',
+	'CONTACT_REMOVE_PROJECT_CONFIRM' => 'Està segur de que vol esborrar aquest contacte d’aquest projecte?',
 
 	'LNK_NEW_PROJECT'	=> 'Crear Projecte',
 	'LNK_PROJECT_LIST'	=> 'Llista de Projectes',

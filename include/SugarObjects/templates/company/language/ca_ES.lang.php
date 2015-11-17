@@ -40,8 +40,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-	'ACCOUNT_REMOVE_PROJECT_CONFIRM' => 'Està segur que desitja treure aquest compte d\'aquest projecte?',
-	'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per eliminar el compte.',
+	'ACCOUNT_REMOVE_PROJECT_CONFIRM' => 'Està segur que desitja treure aquest compte d’aquest projecte?',
+	'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre per eliminar el compte.',
 	'LBL_ACCOUNT_NAME' => 'Nom del Compte:',
 	'LBL_ACCOUNT' => 'Compte:',
 	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activitats',
@@ -103,15 +103,15 @@ $mod_strings = array (
 	'LBL_PUSH_BILLING' => 'Emissió de Factures',
 	'LBL_PUSH_SHIPPING' => 'Emissió de Trameses',
 	'LBL_SAVE_ACCOUNT' => 'Desar Compte',
-	'LBL_SHIPPING_ADDRESS_CITY' => 'Ciutat d\'enviament:',
+	'LBL_SHIPPING_ADDRESS_CITY' => 'Ciutat d’enviament:',
 	'LBL_SHIPPING_ADDRESS_COUNTRY' => 'País enviament:',
-	'LBL_SHIPPING_ADDRESS_POSTALCODE' => 'Codi postal d\'enviament:',
+	'LBL_SHIPPING_ADDRESS_POSTALCODE' => 'Codi postal d’enviament:',
 	'LBL_SHIPPING_ADDRESS_STATE' => 'Estat/Província enviament:',
 	'LBL_SHIPPING_ADDRESS_STREET_2' => 'Carrer enviament 2',
 	'LBL_SHIPPING_ADDRESS_STREET_3' => 'Carrer enviament 3',
 	'LBL_SHIPPING_ADDRESS_STREET_4' => 'Carrer enviament 4',
 	'LBL_SHIPPING_ADDRESS_STREET' => 'Carrer enviament:',
-	'LBL_SHIPPING_ADDRESS' => 'Direcció d\'Enviament:',
+	'LBL_SHIPPING_ADDRESS' => 'Direcció d’Enviament:',
 
 	'LBL_STATE' => 'Estat/Província:',
 	'LBL_TICKER_SYMBOL' => 'Sigla Bursàtil:',
@@ -125,12 +125,12 @@ $mod_strings = array (
 	'LNK_ACCOUNT_LIST' => 'Comptes',
 	'LNK_NEW_ACCOUNT' => 'Nou Compte',
 
-	'MSG_DUPLICATE' => 'La creació d\'aquest compte pot produir un compte duplicat. Pot elegir un compte existent de la llista inferior o fer clic a Desar per continuar la creació d\'un nou compte amb les dades introduïdes prèviament.',
-	'MSG_SHOW_DUPLICATES' => 'La creació d\'aquest compte pot crear un duplicat. Pot fer clic a Desar per continuar amb la creació d\'aquest nou compte amb les dades prèviament introduïdes o pot fer clic en Cancel·lar.',
+	'MSG_DUPLICATE' => 'La creació d’aquest compte pot produir un compte duplicat. Pot elegir un compte existent de la llista inferior o fer clic a Desar per continuar la creació d’un nou compte amb les dades introduïdes prèviament.',
+	'MSG_SHOW_DUPLICATES' => 'La creació d’aquest compte pot crear un duplicat. Pot fer clic a Desar per continuar amb la creació d’aquest nou compte amb les dades prèviament introduïdes o pot fer clic en Cancel·lar.',
 
-	'NTC_COPY_BILLING_ADDRESS' => 'Copiar adreça de facturació a adreça d\'enviament',
-	'NTC_COPY_BILLING_ADDRESS2' => 'Copiar a direcció d\'enviament',
-	'NTC_COPY_SHIPPING_ADDRESS' => 'Copiar adreça d\'enviament a adreça de facturació',
+	'NTC_COPY_BILLING_ADDRESS' => 'Copiar adreça de facturació a adreça d’enviament',
+	'NTC_COPY_BILLING_ADDRESS2' => 'Copiar a direcció d’enviament',
+	'NTC_COPY_SHIPPING_ADDRESS' => 'Copiar adreça d’enviament a adreça de facturació',
 	'NTC_COPY_SHIPPING_ADDRESS2' => 'Copiar a adreça de facturació',
 	'NTC_DELETE_CONFIRMATION' => 'Està segur de que vol suprimir aquest registre?',
 	'NTC_REMOVE_ACCOUNT_CONFIRMATION' => 'Està segur de que vol suprimir aquest registre?',

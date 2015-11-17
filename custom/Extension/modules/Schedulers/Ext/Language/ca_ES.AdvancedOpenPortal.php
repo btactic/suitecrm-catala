@@ -21,4 +21,4 @@
  *
  * @author Salesagility Ltd <support@salesagility.com>
  */
-$mod_strings['LBL_POLLMONITOREDINBOXESAOP'] = 'enquesta monitoritzada de safates d\'entrada AOP';?>
+$mod_strings['LBL_POLLMONITOREDINBOXESAOP'] = 'enquesta monitoritzada de safates d’entrada AOP';?>

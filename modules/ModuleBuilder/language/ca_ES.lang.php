@@ -49,9 +49,9 @@ $mod_strings = array(
 'LBL_HOME_EDIT_DROPDOWNS'=>'Editor de Llistes Desplegables',
 
 //ASSISTANT
-'LBL_AS_SHOW' => 'Mostrar l\'assistent al futur.',
-'LBL_AS_IGNORE' => 'Ignorar l\'assistent en un futur.',
-'LBL_AS_SAYS' => 'L\'assistent diu:',
+'LBL_AS_SHOW' => 'Mostrar l’assistent al futur.',
+'LBL_AS_IGNORE' => 'Ignorar l’assistent en un futur.',
+'LBL_AS_SAYS' => 'L’assistent diu:',
 
 
 //STUDIO2
@@ -66,7 +66,7 @@ $mod_strings = array(
 'LBL_HOME' => 'Inici',
 'LBL_NONE'=>'-Cap-',
 'LBL_DEPLOYE_COMPLETE'=>'Desplegament completat',
-'LBL_DEPLOY_FAILED'   =>'Hi ha hagut un error durant el desplegament del procés. Es possible que el seu paquet no s\'hagi instal·lat correctament',
+'LBL_DEPLOY_FAILED'   =>'Hi ha hagut un error durant el desplegament del procés. Es possible que el seu paquet no s’hagi instal·lat correctament',
 'LBL_ADD_FIELDS'=>'Agregar Camps Personalitzat',
 'LBL_AVAILABLE_SUBPANELS'=>'Subpanells disponibles',
 'LBL_ADVANCED'=>'Avançat',
@@ -94,7 +94,7 @@ $mod_strings = array(
 'LBL_EDIT_LABELS'=>'Editar Etiquetes',
 'LBL_EDIT_PORTAL'=>'Editar portal per a',
 'LBL_EDIT_FIELDS'=>'Editar camps',
-'LBL_EDITVIEW'=>'Vista d\'edició',
+'LBL_EDITVIEW'=>'Vista d’edició',
 'LBL_FILLER'=>'(filler)',
 'LBL_FIELDS'=>'Camps',
 'LBL_FAILED_TO_SAVE' => 'Error al desar',
@@ -121,9 +121,9 @@ $mod_strings = array(
 'LBL_SEARCH_FORMS' => 'Cercar',
 'LBL_SEARCH'=>'Cercar',
 'LBL_STAGING_AREA' => 'Àrea de Disseny (arrossegui i deixi anar elements aquí)',
-'LBL_SUGAR_FIELDS_STAGE' => 'Camps de SuiteCRM (faci clic en els elements per a afegir-los a l\'àrea de disseny)',
-'LBL_SUGAR_BIN_STAGE' => 'Paperera de SuiteCRM (faci clic als elements per afegir-los a l\'àrea de disseny)',
-'LBL_TOOLBOX' => 'Caixa d\'Eines',
+'LBL_SUGAR_FIELDS_STAGE' => 'Camps de SuiteCRM (faci clic en els elements per a afegir-los a l’àrea de disseny)',
+'LBL_SUGAR_BIN_STAGE' => 'Paperera de SuiteCRM (faci clic als elements per afegir-los a l’àrea de disseny)',
+'LBL_TOOLBOX' => 'Caixa d’Eines',
 'LBL_VIEW_SUGAR_FIELDS' => 'Veure camps de SuiteCRM',
 'LBL_VIEW_SUGAR_BIN' => 'Veure paperera de SuiteCRM',
 'LBL_QUICKCREATE' => 'Creació ràpida',
@@ -134,24 +134,24 @@ $mod_strings = array(
 'LBL_TAB_PANELS' => 'Habilitar pestanyes',
 'LBL_TAB_PANELS_HELP' => 'Quan pestanyes estan habilitades, utilitzeu el quadre desplegable "Tipus"<br />per a cada secció per definir la forma en què es mostrarà (fitxa o panell)',
 'LBL_TABDEF_TYPE' => 'Tipus de visualització',
-'LBL_TABDEF_TYPE_HELP' => 'Seleccioni la forma en que s\'ha de mostrar aquesta secció. Aquesta opció només tindrà efecte si ha habilitat el mode pestanyes per aquesta vista.',
+'LBL_TABDEF_TYPE_HELP' => 'Seleccioni la forma en que s’ha de mostrar aquesta secció. Aquesta opció només tindrà efecte si ha habilitat el mode pestanyes per aquesta vista.',
 'LBL_TABDEF_TYPE_OPTION_TAB' => 'Pestanya',
 'LBL_TABDEF_TYPE_OPTION_PANEL' => 'Panell',
-'LBL_TABDEF_TYPE_OPTION_HELP' => 'Seleccioneu Panell perquè el panell es mostri a la vista inicial o en la vista del panell anterior que s\'hagi seleccionat com Pestaña. <br/> Seleccioneu Pestanya per mostrar el panell en una pestanya independent. Quan s\'ha seleccionat un panell com Pestaña, els següents panells seleccionats com Panell es mostraran a la vista d\'aquesta pestanya. <br/> Sempre que seleccioni un panell com Pestaña serà el primer panell a mostrar en aquesta Pestaña. <br/> Si es selecciona com Pestaña el segon panell o posteriors, el primer panell s\'establirà automàticament com Pestanya si s\'hagués seleccionat anteriorment com Panell.',
+'LBL_TABDEF_TYPE_OPTION_HELP' => 'Seleccioneu Panell perquè el panell es mostri a la vista inicial o en la vista del panell anterior que s’hagi seleccionat com Pestaña. <br/> Seleccioneu Pestanya per mostrar el panell en una pestanya independent. Quan s’ha seleccionat un panell com Pestaña, els següents panells seleccionats com Panell es mostraran a la vista d’aquesta pestanya. <br/> Sempre que seleccioni un panell com Pestaña serà el primer panell a mostrar en aquesta Pestaña. <br/> Si es selecciona com Pestaña el segon panell o posteriors, el primer panell s’establirà automàticament com Pestanya si s’hagués seleccionat anteriorment com Panell.',
 'LBL_TABDEF_COLLAPSE' => 'Reduir ',
-'LBL_TABDEF_COLLAPSE_HELP' => 'Seleccionar per fer que l\'estat per defecte d\'aquest panell sigui plegat.',
+'LBL_TABDEF_COLLAPSE_HELP' => 'Seleccionar per fer que l’estat per defecte d’aquest panell sigui plegat.',
 'LBL_DROPDOWN_TITLE_NAME' => 'Nom',
 'LBL_DROPDOWN_LANGUAGE' => 'Llenguatge per Defecte',
-'LBL_DROPDOWN_ITEMS' => 'Llista d\'elements',
-'LBL_DROPDOWN_ITEM_NAME' => 'Nom de l\'element',
+'LBL_DROPDOWN_ITEMS' => 'Llista d’elements',
+'LBL_DROPDOWN_ITEM_NAME' => 'Nom de l’element',
 'LBL_DROPDOWN_ITEM_LABEL' => 'Mostrar etiqueta',
 'LBL_SYNC_TO_DETAILVIEW' => 'Sincronitza amb la vista detallada',
-'LBL_SYNC_TO_DETAILVIEW_HELP' => 'Seleccioneu aquesta opció per sincronitzar el disseny de la vista d\'Edició amb el corresponent disseny de la vista de Detall. Els camps i la seva col·locació a la vista de Detall seran sincronitzats i guardats automàticament a la vista de Detall en prémer a Desa or Guardar i Desplegar a la vista de Edició. No es podran realitzar canvis en el disseny de la vista de Detall.',
-'LBL_SYNC_TO_DETAILVIEW_NOTICE' => 'This DetailView is sync\'d with the corresponding EditView.<br> Fields and field placement in this DetailView reflect the fields and field placement in the EditView.<br> Changes to the DetailView cannot be saved or deployed within this page. Make changes or un-sync the layouts in the EditView. ',
-'LBL_COPY_FROM_EDITVIEW' => 'Copiar de la vista d\'edició',
-'LBL_DROPDOWN_BLANK_WARNING' => 'Els valors són necessaris tant per el nom de l\'element com per la etiqueta de visualització. Per afegir un element en blanc, faci clic a Agregar, sense entrar cap valor pel nom de l\'element ni per l\'etiqueta de visualització.',
+'LBL_SYNC_TO_DETAILVIEW_HELP' => 'Seleccioneu aquesta opció per sincronitzar el disseny de la vista d’Edició amb el corresponent disseny de la vista de Detall. Els camps i la seva col·locació a la vista de Detall seran sincronitzats i guardats automàticament a la vista de Detall en prémer a Desa or Guardar i Desplegar a la vista de Edició. No es podran realitzar canvis en el disseny de la vista de Detall.',
+'LBL_SYNC_TO_DETAILVIEW_NOTICE' => 'This DetailView is sync’d with the corresponding EditView.<br> Fields and field placement in this DetailView reflect the fields and field placement in the EditView.<br> Changes to the DetailView cannot be saved or deployed within this page. Make changes or un-sync the layouts in the EditView. ',
+'LBL_COPY_FROM_EDITVIEW' => 'Copiar de la vista d’edició',
+'LBL_DROPDOWN_BLANK_WARNING' => 'Els valors són necessaris tant per el nom de l’element com per la etiqueta de visualització. Per afegir un element en blanc, faci clic a Agregar, sense entrar cap valor pel nom de l’element ni per l’etiqueta de visualització.',
 'LBL_DROPDOWN_KEY_EXISTS' => 'La clau ja existeix a la llista',
-'LBL_NO_SAVE_ACTION' => 'No s\'ha pogut trobar la opció desar per aquesta vista.',
+'LBL_NO_SAVE_ACTION' => 'No s’ha pogut trobar la opció desar per aquesta vista.',
 'LBL_BADLY_FORMED_DOCUMENT' => 'Studio2:establishLocation: document mal format.',
 
 
@@ -159,7 +159,7 @@ $mod_strings = array(
 //RELATIONSHIPS
 'LBL_MODULE' => 'Mòdul',
 'LBL_LHS_MODULE'=>'Mòdul principal',
-'LBL_CUSTOM_RELATIONSHIPS' => '* relació creada a l\'estudi',
+'LBL_CUSTOM_RELATIONSHIPS' => '* relació creada a l’estudi',
 'LBL_RELATIONSHIPS'=>'Relacions',
 'LBL_RELATIONSHIP_EDIT' => 'Editar relació',
 'LBL_REL_NAME' => 'Nom',
@@ -204,7 +204,7 @@ $mod_strings = array(
 'LBL_HCUSTOM'=>'PERSONALITZAT',
 'LBL_HDEFAULT'=>'PER DEFECTE',
 'LBL_LANGUAGE'=>'Llenguatge:',
-'LBL_CUSTOM_FIELDS' => '* camp creat a l\'estudi',
+'LBL_CUSTOM_FIELDS' => '* camp creat a l’estudi',
 
 //SECTION
 'LBL_SECTION_EDLABELS' => 'Editar Etiquetes',
@@ -229,7 +229,7 @@ $mod_strings = array(
 'LBL_DEFAULT'=>'Per defecte',
 'LBL_HIDDEN'=>'Ocult',
 'LBL_AVAILABLE'=>'Disponible',
-'LBL_LISTVIEW_DESCRIPTION'=>'Hi ha tres columnes que es mostren a continuació. El <b> per defecte </b> la columna conté els camps que es mostren en una vista de llista per defecte. El <b> addicional </b> columna conté els camps que l\'usuari pot triar per crear una vista personalitzada. El <b> disponible </b> columna mostra els camps disponibles per a vostè com un administrador per afegir a l\'omissió o columnes addicionals per al seu ús pels usuaris.',
+'LBL_LISTVIEW_DESCRIPTION'=>'Hi ha tres columnes que es mostren a continuació. El <b> per defecte </b> la columna conté els camps que es mostren en una vista de llista per defecte. El <b> addicional </b> columna conté els camps que l’usuari pot triar per crear una vista personalitzada. El <b> disponible </b> columna mostra els camps disponibles per a vostè com un administrador per afegir a l’omissió o columnes addicionals per al seu ús pels usuaris.',
 'LBL_LISTVIEW_EDIT'=>'Editor de Llistes',
 
 //Manager Backups History
@@ -279,8 +279,8 @@ $mod_strings = array(
 
 //ERRORS
 'ERROR_ALREADY_EXISTS'=> 'Error: Camp Existent',
-'ERROR_INVALID_KEY_VALUE'=> 'Error: Valor de Clau No vàlid: [\']',
-'ERROR_NO_HISTORY' => 'No s\'han trobat arxius de la historial',
+'ERROR_INVALID_KEY_VALUE'=> 'Error: Valor de Clau No vàlid: [’]',
+'ERROR_NO_HISTORY' => 'No s’han trobat arxius de la historial',
 'ERROR_MINIMUM_FIELDS' => 'El disseny ha de contenir almenys un camp',
 'ERROR_GENERIC_TITLE' => 'Ha ocorregut un error',
 'ERROR_REQUIRED_FIELDS' => 'Està segur que vol continuar? Els següents camps requerits no es troben al disseny:',
@@ -302,7 +302,7 @@ $mod_strings = array(
 'LBL_WIDTH'=>'Amplada',
 'LBL_PACKAGE'=>'Paquet:',
 'LBL_TYPE'=>'Tipus:',
-'LBL_TEAM_SECURITY'=>'Seguretat d\'equips',
+'LBL_TEAM_SECURITY'=>'Seguretat d’equips',
 'LBL_ASSIGNABLE'=>'Assignable',
 'LBL_PERSON'=>'Persona',
 'LBL_COMPANY'=>'Empresa',
@@ -342,10 +342,10 @@ $mod_strings = array(
 'LBL_EC_CHECKERROR'=>'Si us plau, seleccioni un mòdul',
 'LBL_EC_CUSTOMFIELD'=>'camp(s) personalitzats',
 'LBL_EC_CUSTOMLAYOUT'=>'disseny(s) personalitzats',
-'LBL_EC_NOCUSTOM'=>'No s\'ha personalitzat cap mòdul.',
+'LBL_EC_NOCUSTOM'=>'No s’ha personalitzat cap mòdul.',
 'LBL_EC_EMPTYCUSTOM'=>'té personalitzacions buides.',
 'LBL_EC_EXPORTBTN'=>'Exportar',
-'LBL_MODULE_DEPLOYED' => 'El módul s\'ha desplegat.',
+'LBL_MODULE_DEPLOYED' => 'El módul s’ha desplegat.',
 'LBL_UNDEFINED' => 'no definit',
 
 //AJAX STATUS
@@ -358,27 +358,27 @@ $mod_strings = array(
 'LBL_AJAX_FIELD_EXISTS' =>'El nom del camp que ha introduït ja existeix. Si us plau, introdueixi un nou nom pel camp.',
 
 'LBL_AJAX_RESPONSE_TITLE' => 'Resultat',
-'LBL_AJAX_RESPONSE_MESSAGE' => 'Aquesta operació s\'ha realitzat correctament',
+'LBL_AJAX_RESPONSE_MESSAGE' => 'Aquesta operació s’ha realitzat correctament',
 'LBL_AJAX_LOADING_TITLE' => 'En curs...',
 'LBL_AJAX_LOADING_MESSAGE' => 'Si us plau, esperi, carregant...',
 
 //JS
 'LBL_JS_REMOVE_PACKAGE' => 'Està segur que vol eliminar aquest paquet? Això eliminarà permanentment tots els fitxers associats a aquest paquet.',
 'LBL_JS_REMOVE_MODULE' => 'Està segur que vol eliminar aquest mòdul? Això eliminarà permanentment tots els fitxers associats amb aquest mòdul.',
-'LBL_JS_DEPLOY_PACKAGE' => 'Qualsevol personalització que vostè va fer en l\'estudi es sobreescriuran quan es torna a desplegar aquest mòdul. Esteu segur que voleu continuar?',
+'LBL_JS_DEPLOY_PACKAGE' => 'Qualsevol personalització que vostè va fer en l’estudi es sobreescriuran quan es torna a desplegar aquest mòdul. Esteu segur que voleu continuar?',
 
 'LBL_DEPLOY_IN_PROGRESS' => 'Desplegant el paquet',
 'LBL_JS_VALIDATE_NAME'=>'Nom - Ha de ser alfanumèric, començar amb una lletra i no contenir espais.',
 'LBL_JS_VALIDATE_PACKAGE_NAME'=>'El nom del paquet ja existeix',
 'LBL_JS_VALIDATE_KEY'=>'Clau - Ha de ser alfanumèrica, començar amb una lletra i no contenir espais.',
-'LBL_JS_VALIDATE_LABEL'=>'Si us plau, introdueixi l\'etiqueta que s\'utilitzarà com a nom visible d\'aquest mòdul',
+'LBL_JS_VALIDATE_LABEL'=>'Si us plau, introdueixi l’etiqueta que s’utilitzarà com a nom visible d’aquest mòdul',
 'LBL_JS_VALIDATE_TYPE'=>'Si us plau, seleccioni el tipus de mòdul que vol construir a partir de la llista anterior',
 'LBL_JS_VALIDATE_REL_NAME'=>'Nom - Ha de ser alfanumeric i sense espais',
 'LBL_JS_VALIDATE_REL_LABEL'=>'Etiqueta - si us plau, agregui la etiqueta que serà mostrada sobre el subpanell',
 
 
 //CONFIRM
-'LBL_CONFIRM_FIELD_DELETE'=>'La supressió d\'aquest camp personalitzat eliminarà tant el camp personalitzat i totes les dades relacionades amb el camp personalitzat a la base de dades. El camp serà ja no apareixerà a les distribucions de mòduls. \\n\\n Voleu continuar?',
+'LBL_CONFIRM_FIELD_DELETE'=>'La supressió d’aquest camp personalitzat eliminarà tant el camp personalitzat i totes les dades relacionades amb el camp personalitzat a la base de dades. El camp serà ja no apareixerà a les distribucions de mòduls. \\n\\n Voleu continuar?',
 'LBL_CONFIRM_RELATIONSHIP_DELETE'=>'Està segur que desitja eliminar aquesta relació?',
 'LBL_CONFIRM_RELATIONSHIP_DEPLOY'=>'Això farà la relació permanent. Està segur que desitja utilitzar aquesta relació?',
 'LBL_CONFIRM_DONT_SAVE' => 'Hi ha canvis pendents de ser desats, desitja desar-los ara?',
@@ -388,9 +388,9 @@ $mod_strings = array(
 //POPUP HELP
 'LBL_POPHELP_FIELD_DATA_TYPE'=>'Seleccioni el tipus de dades apropiat segons el tipus de dades que seran introduides al camp.',
 'LBL_POPHELP_SEARCHABLE'=>'Select the boost level for this field. <br />Fields with a higher boost level will be given greater weight when the search is performed. <br />When a search is performed, matching records containing fields with a greater weight will be appear higher in the search results.<br /> If you change the boost level for a field from one level to another, perform a system index to apply the change. <br/> Be sure to select to delete the existing data at the time that the system index is performed.',
-'LBL_POPHELP_IMPORTABLE'=>'<b>Sí</b>: El camp serà inclòs en una operació d\'importació.<br><b>No</b>: El camp no serà inclòs en una importació.<br><b>Requerit</b>: S\'ha de subministrar un calor per al camp en qualsevol importació.',
-'LBL_POPHELP_IMAGE_WIDTH'=>'Introdueixi un número per a l\'amplada, com a mesura en píxels.<br> La imatge pujada serà escalada a aquesta amplada.',
-'LBL_POPHELP_IMAGE_HEIGHT'=>'Introdueixi un número per a l\'altura, com a mesura en píxels.<br> La imatge pujada serà escalada a aquesta altura.',
+'LBL_POPHELP_IMPORTABLE'=>'<b>Sí</b>: El camp serà inclòs en una operació d’importació.<br><b>No</b>: El camp no serà inclòs en una importació.<br><b>Requerit</b>: S’ha de subministrar un calor per al camp en qualsevol importació.',
+'LBL_POPHELP_IMAGE_WIDTH'=>'Introdueixi un número per a l’amplada, com a mesura en píxels.<br> La imatge pujada serà escalada a aquesta amplada.',
+'LBL_POPHELP_IMAGE_HEIGHT'=>'Introdueixi un número per a l’altura, com a mesura en píxels.<br> La imatge pujada serà escalada a aquesta altura.',
 'LBL_POPHELP_DUPLICATE_MERGE'=>'<b>Enabled</b>: The field will appear in the Merge Duplicates feature, but will not be available to use for the filter conditions in the Find Duplicates feature.<br><b>Disabled</b>: The field will not appear in the Merge Duplicates feature, and will not be available to use for the filter conditions in the Find Duplicates feature.',
 'LBL_POPHELP_GLOBAL_SEARCH'=>'Seleccioni aquesta opció per a utilitzar aquest camp en la cerca de registres des de la cerca global en aquest mòdul.',
 //Revert Module labels
@@ -409,7 +409,7 @@ $mod_strings = array(
 
 'LBL_ILLEGAL_FIELD_VALUE' => 'Drop down key cannot contain quotes.',
 'LBL_CONFIRM_SAVE_DROPDOWN' => 'Està seleccionant aquest element per a la seva eliminació de la llista desplegable. Qualsevol camp desplegable que usi aquesta llista amb aquest element com a valor ja no mostrarà aquest valor, i el valor ja no podrà ser seleccionat en els camps desplegables. Esteu segur que voleu continuar?',
-'LBL_POPHELP_VALIDATE_US_PHONE'=>'Seleccionar per validar aquest camp per a l\'ingrés d\'un nombre <br> telèfon de 10 dígits, amb previsió per al codi de país 1 i <br> d\'aplicar un format d\'Estats Units per al número de telèfon quan es guarda el registre Extremadura. El següent format s\'aplicarà: (xxx) xxx-xxxx.',
+'LBL_POPHELP_VALIDATE_US_PHONE'=>'Seleccionar per validar aquest camp per a l’ingrés d’un nombre <br> telèfon de 10 dígits, amb previsió per al codi de país 1 i <br> d’aplicar un format d’Estats Units per al número de telèfon quan es guarda el registre Extremadura. El següent format s’aplicarà: (xxx) xxx-xxxx.',
 'LBL_ALL_MODULES'=> 'Tots els mòduls',
 'LBL_RELATED_FIELD_ID_NAME_LABEL' => '{0} (relacionat {1} ID)',
 
@@ -507,7 +507,7 @@ $mod_strings = array(
 	'listViewEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Available</b> column contains fields that a user can select in the Search to create a custom ListView. <br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.',
 		'savebtn'	=> 'Feu clic a <b> Desa i Desplegar </b> per desar els canvis realitzats i perquè siguin actius dins del mòdul.',
-		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
+		'historyBtn'=> 'Feu clic a <b> Mostra l’historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l’historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
 		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </ b> per restaurar la vista en el seu format original. <br> <B> Restaura valors per defecte </ b> només es restaura la col·locació de camp dins el traçat original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
 		'Available' => '<b>Available</b> fields are not shown by default, but can be added to ListViews by users.',
@@ -516,7 +516,7 @@ $mod_strings = array(
 	'popupListViewEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.',
 		'savebtn'	=> 'Feu clic a <b> Desa i Desplegar </ b> per desar els canvis realitzats i perquè siguin actius dins del mòdul.',
-		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
+		'historyBtn'=> 'Feu clic a <b> Mostra l’historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l’historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
 		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </b> per restaurar la vista en el seu format original.<br><br><b>Restaura valors per defecte </b> només es restaura la col·locació de camp dins el vista original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
 		'Default'	=> '<b>Default</b> fields appear in ListViews that are not customized by users.'
@@ -525,7 +525,7 @@ $mod_strings = array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>Search</b> form appear here.<br><br>The <b>Default</b> column contains the fields that will be displayed in the Search form.<br/><br/>The <b>Hidden</b> column contains fields available for you as an admin to add to the Search form.',
 		'savebtn'	=> 'Clicant <b>Desar i Aplicar</b> els canvis seran actius',
 		'Hidden' 	=> 'Els camps <b>Ocults</b> no apareixen a la cerca.',
-		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
+		'historyBtn'=> 'Feu clic a <b> Mostra l’historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l’historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
 		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </b> per restaurar la vista en el seu format original.<br><br><b>Restaura valors per defecte </b> només es restaura la col·locació de camp dins el vista original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
 		'Default'	=> 'Les files per <b>Defecte</b> apareixen a la cerca.'
 	),
@@ -534,10 +534,10 @@ $mod_strings = array(
 		'defaultquickcreate'=> 'El área de <b>Diseño</b> contiene los campos que actualmente están siendo mostrados en el formulario de <b>Creación Rápida</b>.<br><br>El formulario de Creación Rápida aparece en los subpaneles de un módulo cuando el botón Crear es pulsado.<br/><br/>La <b>Caja de Herramientas</b> contiene la <b>Papelera de Reciclaje</b> y los campos y elementos del diseño que pueden ser agregados al mismo.<br><br>Haga cambios al diseño arrastrando y soltando elementos y campos entre la <b>Caja de Herramientas</b> y el <b>Diseño</b> así como dentro del mismo diseño.<br><br>Para quitar un campo del diseño, arrastre el campo a la <b>Papelera de Reciclaje</b>. El campo pasará a estar disponible en la Caja de Herramientas para ser agregado al diseño.',
 		//this defualt will be used for edit view
 		'default'	=> 'The <b>Layout</b> area contains the fields that are currently displayed within the <b>EditView</b>.<br/><br/>The <b>Toolbox</b> contains the <b>Recycle Bin</b> and the fields and layout elements that can be added to the layout.<br><br>Make changes to the layout by dragging and dropping elements and fields between the <b>Toolbox</b> and the <b>Layout</b> and within the layout itself.<br><br>To remove a field from the layout, drag the field to the <b>Recycle Bin</b>. The field will then be available in the Toolbox to add to the layout.',
-		'saveBtn'	=> 'Faci clic a <b>Desar</b> per a preservar els canvis que ha realitzat al disseny des de l\'última vegada que el va desar.<br><br>Els canvis no es mostraran al mòdul fins que apliqui els canvis desats.',
-		'historyBtn'=> 'Feu clic a <b> Mostra l\'historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l\'historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
+		'saveBtn'	=> 'Faci clic a <b>Desar</b> per a preservar els canvis que ha realitzat al disseny des de l’última vegada que el va desar.<br><br>Els canvis no es mostraran al mòdul fins que apliqui els canvis desats.',
+		'historyBtn'=> 'Feu clic a <b> Mostra l’historial </b> per veure i restaurar un disseny prèviament guardat de la història. <br> <B> Restaura </b> a <b> Mostra l’historial </b> restaura la col·locació de camp dins dels dissenys guardats anteriorment. Per canviar les etiquetes de camp, feu clic a la icona edita al costat de cada camp.',
 		'historyDefault'=> 'Feu clic a <b> Restaura valors per defecte </ b> per restaurar la vista en el seu format original. <br> <B> Restaura valors per defecte </ b> només es restaura la col·locació de camp dins el traçat original. Per canviar les etiquetes de camp, feu clic a la icona Edita al costat de cada camp.',
-		'publishBtn'=> 'Cliqui <b>Desar i aplicar</b> per a desar tots els canvis que ha realitzat al disseny des de l\'últim cop que els va desar, i per a deixar actius els canvis al mòdul.<br><br>El disseny serà mostrat immediatament al mòdul.',
+		'publishBtn'=> 'Cliqui <b>Desar i aplicar</b> per a desar tots els canvis que ha realitzat al disseny des de l’últim cop que els va desar, i per a deixar actius els canvis al mòdul.<br><br>El disseny serà mostrat immediatament al mòdul.',
 		'toolbox'	=> 'La <b>Caja de Herramientas</b> contiene la <b>Papelera de Reciclaje</b>, elementos de diseño adicionales y el conjunto de campos disponibles para ser agregados al diseño.<br/><br/>Los elementos de diseño y los campos de la Caja de Herramientas pueden ser arrastrados y soltados en el diseño, y los elementos de diseño y los campos pueden ser arrastrados y soltados del diseño a la Caja de Herramientas.<br><br>Los elementos de diseño son <b>Paneles</b> y <b>Filas</b>. Agregando una nueva fila o un nuevo panel al diseño proporciona ubicaciones adicionales en el diseño para los campos.<br/><br/>Arrastre y suelte cualquier campo en la Caja de Herramientas o en el diseño a una posición de campo ocupada para intercambiar las ubicacines de los dos campos.<br/><br/>El campo de <b>Relleno</b> crea espacio vacío en el diseño allí donde es colocado.',
 		'panels'	=> 'El área de <b>Diseño</b> proporciona una vista sobre cómo el diseño aparecerá en el módulo cuando los cambios realizados al diseño sean desplegados.<br/><br/>Puede reposicionar campos, filas y paneles arrastrándolos y soltándolos en la ubicación deseada.<br/><br/>Quite elementos arrastrándolos y soltándolos en la <b>Papelera de Reciclaje</b> de la Caja de Herramientas, o agregue nuevos elementos y campos arrastrándolos de la <b>Caja de Herramientas</b> y soltándolos en la ubicación deseada del diseño.',
 		'delete'	=> 'Arrastre y suelte cualquier elemento aquí para quitarlo del diseño',
@@ -555,14 +555,14 @@ $mod_strings = array(
 	    'exportHelp'=> 'Export customizations made in Studio by creating packages that can be uploaded into another SuiteCRM instance through the <b>Module Loader</b>.<br><br>  First, provide a <b>Package Name</b>.  You can provide <b>Author</b> and <b>Description</b> information for package as well.<br><br>Select the module(s) that contain the customizations you wish to export. Only modules containing customizations will appear for you to select.<br><br>Then click <b>Export</b> to create a .zip file for the package containing the customizations.',
 	    'exportCustomBtn'=> 'Haga clic en <b>Exportar</b> para crear un archivo .zip para el paquete que contenga las personalizaciones que desea exportar.',
 	    'name'=> 'Aquest és el <b>Nom</b> del paquet. Aquest nom serà mostrat durant la instal·lació.',
-	    'author'=> 'Aquest és <b>l\'Autor</b> que és mostrat durant la instal·lació com el nom de la entitat que ha creat el paquet. L\'autor pot ser una companyia o una persona individual.',
+	    'author'=> 'Aquest és <b>l’Autor</b> que és mostrat durant la instal·lació com el nom de la entitat que ha creat el paquet. L’autor pot ser una companyia o una persona individual.',
 	    'description'=> 'Esta es la <b>Descripción</b> del paquete que se muestra durante la instalación.',
 	),
 	'studioWizard'=>array(
 		'mainHelp' 	=> 'Bienvenido al área de <b>Herramientas de Desarrollo</b>. <br/><br/>Use las herramientas de este área para crear y gestionar módulos y campos tanto estándar como personalizados.',
 		'studioBtn'	=> 'Use el <b>Estudio</b> para personalizar los módulos desplegados.',
 		'mbBtn'		=> 'Use el <b>Constructor de Módulos</b> para crear nuevos módulos.',
-		'sugarPortalBtn' => 'Utilitzi <b>L\'editor del portal SuiteCRM</b> per a gestionar i personalitzar el portal de SuiteCRM.',
+		'sugarPortalBtn' => 'Utilitzi <b>L’editor del portal SuiteCRM</b> per a gestionar i personalitzar el portal de SuiteCRM.',
 		'dropDownEditorBtn' => 'Use el <b>Editor de Listas Desplegables</b> para agregar y editar listas desplegables globales para campos de lista desplegable.',
 		'appBtn' 	=> 'El modo de aplicación le permite personalizar varias propiedades del programa, como por ejemplo, cuántos informes se muestran en la página de inicio',
 		'backBtn'	=> 'Volver al paso previo.',
@@ -582,7 +582,7 @@ $mod_strings = array(
         'mbHelp'    => 'Use el <b>Constructor de Módulos</b> para crear paquetes que contengan módulos personalizados basados en objetos estándar o personalizados.',
 	    'viewBtnEditView' => 'Personalizar el diseño de <b>Vista de Edición</b> del módulo.<br><br>La Vista de Edición es el formulario que contiene los campos de entrada para capturar los datos introducidos por el usuario.',
 	    'viewBtnDetailView' => 'Personalizar el diseño <b>Vista de Detalle</b> del módulo.<br><br>La Vista de Detalle muestra datos de campos introducidos por el usuario.',
-		'viewBtnDashlet' => 'Customize the module\'s <b>SuiteCRM Dashlet</b>, including the SuiteCRM Dashlet\'s ListView and Search.<br><br>The SuiteCRM Dashlet will be available to add to the pages in the Home module.',
+		'viewBtnDashlet' => 'Customize the module’s <b>SuiteCRM Dashlet</b>, including the SuiteCRM Dashlet’s ListView and Search.<br><br>The SuiteCRM Dashlet will be available to add to the pages in the Home module.',
 	    'viewBtnListView' => 'Personalizar el diseño <b>Vista de Lista</b> del módulo.<br><br>Los resultados de la Búsqueda aparecen en la Vista de Lista.',
 	    'searchBtn' => 'Personalizar los diseños de <b>Búsqueda</b> del módulo.<br><br>Determina qué campos pueden ser utilizados para filtrar los registros que aparecen en la Vista de Lista.',
 		'viewBtnQuickCreate' => 'Personalitzar el disseny <b>Creació ràpida</b> de mòdul.<br><br>El formulari de creació ràpida apareix als subpanells i en el mòdul de correu electrònic.',
@@ -597,7 +597,7 @@ $mod_strings = array(
 		'BasicSearchBtn' => 'Personalizar el formulario de <b>Búsqueda Básica</b> que aparece en la pestaña de Búsqueda Básica en el área de Búsqueda del módulo.',
 	    'AdvancedSearchBtn' => 'Personalizar el formulario de <b>Búsqueda Avanzada</b> que aparece en la pestaña de Búsqueda Avanzada en el área de Búsqueda del módulo.',
 	    'portalHelp' => 'Gestionar i personalitzar el <b>Portal de SuiteCRM</b>.',
-	    'SPUploadCSS' => 'Puja a <b> Full d\'estil </b> per al Portal SuiteCRM.',
+	    'SPUploadCSS' => 'Puja a <b> Full d’estil </b> per al Portal SuiteCRM.',
 	    'SPSync' => '<b>Sync</b> customizations to the SuiteCRM Portal instance.',
 	    'Layouts' => 'Personalitzeu els <b> Dissenys </b> dels mòduls del Portal de SuiteCRM.',
 	    'portalLayoutHelp' => 'Els mòduls dins del Portal SuiteCRM apareixen en aquesta àrea..<br><br> Seleccioneu un mòdul per editar els <b>Dissenys</ b>.',
@@ -618,13 +618,13 @@ $mod_strings = array(
 	'labelsHelp'=>array(
 		'default'=> 'The <b>Labels</b> for the fields and other titles in the module can be changed.<br><br>Edit the label by clicking within the field, entering a new label and clicking <b>Save</b>.<br><br>If any language packs are installed in the application, you can select the <b>Language</b> to use for the labels.',
 		'saveBtn'=> 'Cliqui <b>Desar</b> per desar tots els canvis.',
-		'publishBtn'=> 'Feu clic a <b>Desa i Desplegar</b> per guardar tots els canvis i fer que s\'activin.',
+		'publishBtn'=> 'Feu clic a <b>Desa i Desplegar</b> per guardar tots els canvis i fer que s’activin.',
 	),
 	'portalSync'=>array(
 	    'default' => 'Enter the <b>SuiteCRM Portal URL</b> of the portal instance to update, and click <b>Go</b>.<br><br>Then enter a valid SuiteCRM user name and password, and then click <b>Begin Sync</b>.<br><br>The customizations made to the SuiteCRM Portal <b>Layouts</b>, along with the <b>Style Sheet</b> if one was uploaded, will be transferred to specified the portal instance.',
 	),
 	'portalStyle'=>array(
-	    'default' => 'Vostè pot personalitzar l\'aspecte del Portal SuiteCRM mitjançant l\'ús d\'un full d\'estil. <br><br> Seleccioneu una <b> Full d\'estil </b> per a carregar. <br> El full d\'estil es durà a terme al Portal SuiteCRM la propera alhora una sincronització es porta a terme.',
+	    'default' => 'Vostè pot personalitzar l’aspecte del Portal SuiteCRM mitjançant l’ús d’un full d’estil. <br><br> Seleccioneu una <b> Full d’estil </b> per a carregar. <br> El full d’estil es durà a terme al Portal SuiteCRM la propera alhora una sincronització es porta a terme.',
 	),
 	),
 
@@ -635,7 +635,7 @@ $mod_strings = array(
 			//custom begin
 			'nopackages'=> 'Para empezar un proyecto, haga clic en <b>Nuevo Paquete</b> y creará un nuevo paquete en el que albergar sus módulos personalizados. <br/><br/>Cada paquete puede contener uno o más módulos.<br/><br/>Por ejemplo, puede querer crear un paquete que contenga un módulo personalizado relacionado con el módulo estándar de Cuentas. O puede querer crear un paquete que contenga varios módulos nuevos que trabajan de forma conjunta como un proyecto y que están relacionados entre si y con otros módulos ya existentes en la aplicación.',
 			'somepackages'=> 'Un <b>paquete</b> actúa como contenedor de módulos pesonalizados, todos los cuales son parte de un proyecto. El paquete puede contener uno o más <b>módulos</b> personalizados que pueden estar relacionados entre ellos o con otros módulos de la aplicación.<br/><br/>Tras la creación de un paquete para su proyecto, puede crear módulos para el paquete de forma inmediata, o volver al Constructor de Módulos más tarde para completar el proyecto.<br><br>Cuando el proyecto ha sido completado, puede <b>Desplegar</b> el paquete para instalar los módulos personalizados dentro de la aplicación.',
-			'afterSave'=> 'Your new package should contain at least one module. You can create one or more custom modules for the package.<br/><br/>Click <b>New Module</b> to create a custom module for this package.<br/><br/> After creating at least one module, you can publish or deploy the package to make it available for your instance and/or other users\' instances.<br/><br/> To deploy the package in one step within your SuiteCRM instance, click <b>Deploy</b>.<br><br>Click <b>Publish</b> to save the package as a .zip file. After the .zip file is saved to your system, use the <b>Module Loader</b> to upload and install the package within your SuiteCRM instance.  <br/><br/>You can distribute the file to other users to upload and install within their own SuiteCRM instances.',
+			'afterSave'=> 'Your new package should contain at least one module. You can create one or more custom modules for the package.<br/><br/>Click <b>New Module</b> to create a custom module for this package.<br/><br/> After creating at least one module, you can publish or deploy the package to make it available for your instance and/or other users’ instances.<br/><br/> To deploy the package in one step within your SuiteCRM instance, click <b>Deploy</b>.<br><br>Click <b>Publish</b> to save the package as a .zip file. After the .zip file is saved to your system, use the <b>Module Loader</b> to upload and install the package within your SuiteCRM instance.  <br/><br/>You can distribute the file to other users to upload and install within their own SuiteCRM instances.',
 			'create'=> 'A <b>package</b> acts as a container for custom modules, all of which are part of one project. The package can contain one or more custom <b>modules</b> that can be related to each other or to other modules in the application.<br/><br/>After creating a package for your project, you can create modules for the package right away, or you can return to the Module Builder at a later time to complete the project.',
 			),
 	'main'=>array(
@@ -663,7 +663,7 @@ $mod_strings = array(
 
 	'searchViewEditor'=>array(
 		'modify'	=> 'There are two columns displayed to the left. The "Default" column contains the fields that will be displayed in the search view, and the "Hidden" column contains fields available for you as an admin to add to the view.',
-		'savebtn'	=> 'En fer clic a <b> Desa i Desplegar </b> guardar tots els canvis i fer que s\'activa.',
+		'savebtn'	=> 'En fer clic a <b> Desa i Desplegar </b> guardar tots els canvis i fer que s’activa.',
 		'Hidden' 	=> 'Camps ocults són camps que no es mostren a la vista de cerca.',
 		'Default'	=> 'Camps predeterminats es mostraran a la vista de cerca.'
 	),
@@ -671,7 +671,7 @@ $mod_strings = array(
 		'default'	=> 'There are two columns displayed to the left. The right-hand column, labeled Current Layout or Layout Preview, is where you change the module layout. The left-hand column, entitled Toolbox, contains useful elements and tools for use when editing the layout. <br/><br/>If the layout area is titled Current Layout then you are working on a copy of the layout currently used by the module for display.<br/><br/>If it is titled Layout Preview then you are working on a copy created earlier by a click on the Save button, that might have already been changed from the version seen by users of this module.',
 		'saveBtn'	=> 'Clicking this button saves the layout so that you can preserve your changes. When you return to this module you will start from this changed layout. Your layout however will not be seen by users of the module until you click the Save and Publish button.',
 		'publishBtn'=> 'Click this button to deploy the layout. This means that this layout will immediately be seen by users of this module.',
-		'toolbox'	=> 'La caixa d\'eines conté una varietat de característiques útils per als dissenys d\'edició, incloent una àrea d\'escombraries, un conjunt d\'elements addicionals i un conjunt de camps disponibles. Qualsevol d\'ells pot arrossegar i deixar anar en el disseny.',
+		'toolbox'	=> 'La caixa d’eines conté una varietat de característiques útils per als dissenys d’edició, incloent una àrea d’escombraries, un conjunt d’elements addicionals i un conjunt de camps disponibles. Qualsevol d’ells pot arrossegar i deixar anar en el disseny.',
 		'panels'	=> 'This area shows how your layout will look to users of this module when it is depolyed.<br/><br/>You can reposition elements such as fields, rows and panels by dragging and dropping them; delete elements by dragging and dropping them on the trash area in the toolbox, or add new elements by dragging them from the toolbox and dropping them on to the layout in the desired position.'
 	),
 	'dropdownEditor'=>array(
@@ -683,29 +683,29 @@ $mod_strings = array(
 	    'exportHelp'=> 'Customizations made in Studio within this instance can be packaged and deployed in another instance.  <br><br>Provide a <b>Package Name</b>.  You can provide <b>Author</b> and <b>Description</b> information for package.<br><br>Select the module(s) that contain the customizations to export. (Only modules containing customizations will appear for you to select.)<br><br>Click <b>Export</b> to create a .zip file for the package containing the customizations.  The .zip file can be uploaded in another instance through <b>Module Loader</b>.',
 	    'exportCustomBtn'=> 'Haga clic en <b>Exportar</b> para crear un archivo .zip para el paquete que contenga las personalizaciones que desea exportar.',
 	    'name'=> 'El <b> Nom </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
-	    'author'=> 'El <b> Autor </b> és el nom de l\'entitat que va crear el paquet. L\'autor pot ser un individu o una empresa. <br> L\'Autor es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
+	    'author'=> 'El <b> Autor </b> és el nom de l’entitat que va crear el paquet. L’autor pot ser un individu o una empresa. <br> L’Autor es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
 	    'description'=> 'El <b> Descripció </b> del paquet es mostrarà en el mòdul carregador després que el paquet es carrega per a la instal·lació en estudi.',
 	),
 	'studioWizard'=>array(
-		'mainHelp' 	=> 'Benvingut a la <b> Eines de Desenvolupament </b> zona. <br/><br/> Utilitzeu les eines dins d\'aquesta àrea per crear i administrar mòduls i camps estàndard i personalitzats.',
+		'mainHelp' 	=> 'Benvingut a la <b> Eines de Desenvolupament </b> zona. <br/><br/> Utilitzeu les eines dins d’aquesta àrea per crear i administrar mòduls i camps estàndard i personalitzats.',
 		'studioBtn'	=> 'Utilitzeu <b> Studio </b> per personalitzar mòduls instal·lats canviant la disposició de camp, la selecció del que es disposa dels camps i la creació de camps de dades personalitzades.',
 		'mbBtn'		=> 'Use el <b>Constructor de Módulos</b> para crear nuevos módulos.',
-		'appBtn' 	=> 'Utilitzeu la manera d\'aplicació per personalitzar les diferents propietats del programa, com quants es mostren els informes de TPS a la pàgina principal.',
+		'appBtn' 	=> 'Utilitzeu la manera d’aplicació per personalitzar les diferents propietats del programa, com quants es mostren els informes de TPS a la pàgina principal.',
 		'backBtn'	=> 'Volver al paso previo.',
 		'studioHelp'=> 'Utilitzeu <b>Studio</b> per personalitzar els mòduls instal·lats.',
 		'moduleBtn'	=> 'Haga clic para editar este módulo.',
 		'moduleHelp'=> 'Seleccioneu el component de mòdul que voleu editar',
-		'fieldsBtn'	=> 'Edita la informació que s\'emmagatzema en el mòdul mitjançant el control de la <b> Camps </b> en el mòdul. <br/> Vostè pot editar i crear camps personalitzats aquí.',
+		'fieldsBtn'	=> 'Edita la informació que s’emmagatzema en el mòdul mitjançant el control de la <b> Camps </b> en el mòdul. <br/> Vostè pot editar i crear camps personalitzats aquí.',
 		'labelsBtn' => 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
-		'layoutsBtn'=> 'Personalitzeu els <b> Layouts </b> de l\'Edició, Detall, de llista i buscar punts de vista.',
-		'subpanelBtn'=> 'Edita la informació que es mostra en els subpanells d\'aquest mòdul.',
-		'layoutsHelp'=> 'Seleccioneu un <b> Disseny per editar </b>.<br/<br/> Per canviar el disseny que conté camps de dades per a la introducció de dades, feu clic a <b> Mostra l\'</b>. <br/<br/> Per canviar la presentació que mostra les dades introduïdes en els camps de la vista d\'edició, feu clic a <b> Detallat </b>. <br/> Per canviar les columnes que apareixen a la llista predeterminada, feu clic a <b> Vista de llista </b>. <br/> per canviar la recerca de dissenys Bàsic i Avançat, feu clic a <b> Cercar </b> .Seleccionar a <b> Cercar </b> disseny per editar .',
+		'layoutsBtn'=> 'Personalitzeu els <b> Layouts </b> de l’Edició, Detall, de llista i buscar punts de vista.',
+		'subpanelBtn'=> 'Edita la informació que es mostra en els subpanells d’aquest mòdul.',
+		'layoutsHelp'=> 'Seleccioneu un <b> Disseny per editar </b>.<br/<br/> Per canviar el disseny que conté camps de dades per a la introducció de dades, feu clic a <b> Mostra l’</b>. <br/<br/> Per canviar la presentació que mostra les dades introduïdes en els camps de la vista d’edició, feu clic a <b> Detallat </b>. <br/> Per canviar les columnes que apareixen a la llista predeterminada, feu clic a <b> Vista de llista </b>. <br/> per canviar la recerca de dissenys Bàsic i Avançat, feu clic a <b> Cercar </b> .Seleccionar a <b> Cercar </b> disseny per editar .',
 		'subpanelHelp'=> 'Seleccioni un <b>Subpanell</b> a editar.',
 		'searchHelp' => 'Seleccioneu un disseny de <b>Cerca</b> a editar.',
 		'labelsBtn'	=> 'Feu clic a <b>Desa</b> per guardar les teves etiquetes personalitzades.',
         'newPackage'=> 'Haga clic en <b>Nuevo Paquete</b> para crear un nuevo paquete.',
-        'mbHelp'    => '<b> Benvinguts al Mòdul Constructor. </b> <br/> ús <b> Mòdul Constructor </b> per crear paquets que continguin mòduls personalitzats en base a objectes estàndard o personalitzats. <br/> Per començar, feu clic a <b> Nou paquet </b> per crear un nou paquet, o seleccionar un paquet per editar. <br/> A <b> Paquet </b > actua com un contenidor per mòduls personalitzats, tots els quals formen part d\'un projecte. El paquet pot contenir un o més mòduls personalitzats que poden estar relacionats entre si o amb els mòduls de l\'aplicació. <br/> Exemples: Vostè pot ser que desitgi per crear un paquet que conté un mòdul personalitzat que es relaciona amb el mòdul de comptes estàndard. O bé, és possible que vulgueu crear un paquet que conté diversos mòduls nous que funcionen junts com un projecte i que es relacionen entre si i amb els mòduls de l\'aplicació.',
-        'exportBtn' => 'Cliqui <b>Exportar personalitzacions</b> per a crear un paquet que contingui les personalitzacions realitzades a l\'estudi per mòduls específics.',
+        'mbHelp'    => '<b> Benvinguts al Mòdul Constructor. </b> <br/> ús <b> Mòdul Constructor </b> per crear paquets que continguin mòduls personalitzats en base a objectes estàndard o personalitzats. <br/> Per començar, feu clic a <b> Nou paquet </b> per crear un nou paquet, o seleccionar un paquet per editar. <br/> A <b> Paquet </b > actua com un contenidor per mòduls personalitzats, tots els quals formen part d’un projecte. El paquet pot contenir un o més mòduls personalitzats que poden estar relacionats entre si o amb els mòduls de l’aplicació. <br/> Exemples: Vostè pot ser que desitgi per crear un paquet que conté un mòdul personalitzat que es relaciona amb el mòdul de comptes estàndard. O bé, és possible que vulgueu crear un paquet que conté diversos mòduls nous que funcionen junts com un projecte i que es relacionen entre si i amb els mòduls de l’aplicació.',
+        'exportBtn' => 'Cliqui <b>Exportar personalitzacions</b> per a crear un paquet que contingui les personalitzacions realitzades a l’estudi per mòduls específics.',
 	),
 
 	),

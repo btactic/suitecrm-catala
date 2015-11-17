@@ -29,8 +29,8 @@ $app_list_strings['moduleList']['AOS_Invoices'] = 'Factures';
 $app_list_strings['moduleList']['AOS_PDF_Templates'] = 'Plantilles PDF';
 $app_list_strings['moduleList']['AOS_Product_Categories'] = 'Categories de Productes';
 $app_list_strings['moduleList']['AOS_Products'] = 'Productes';
-$app_list_strings['moduleList']['AOS_Products_Quotes'] = 'Línies d\'articles';
-$app_list_strings['moduleList']['AOS_Line_Item_Groups'] = 'Grups de línies d\'articles ';
+$app_list_strings['moduleList']['AOS_Products_Quotes'] = 'Línies d’articles';
+$app_list_strings['moduleList']['AOS_Line_Item_Groups'] = 'Grups de línies d’articles ';
 $app_list_strings['moduleList']['AOS_Quotes'] = 'Pressupostos';
 $app_list_strings['aos_quotes_type_dom'][''] = '';
 $app_list_strings['aos_quotes_type_dom']['Analyst'] = 'Analista';
@@ -105,5 +105,5 @@ $app_list_strings['contract_status_list']['Signed'] = 'Firmat';
 $app_list_strings['contract_type_list']['Type'] = 'Tipus';
 $app_strings['LBL_GENERATE_LETTER'] = 'Generar Carta';
 $app_strings['LBL_SELECT_TEMPLATE'] = 'Si us plau, seleccioni una plantilla';
-$app_strings['LBL_NO_TEMPLATE'] = 'ERROR\nNo s\'han trobat plantilles.\nSi us plau, vagi al mòdul de Plantilles PDF i creï una plantilla';
+$app_strings['LBL_NO_TEMPLATE'] = 'ERROR\nNo s’han trobat plantilles.\nSi us plau, vagi al mòdul de Plantilles PDF i creï una plantilla';
 

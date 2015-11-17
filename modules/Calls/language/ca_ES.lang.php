@@ -84,7 +84,7 @@ $mod_strings = array (
     'LNK_NEW_MEETING' => 'Programar Reunió',
     'LNK_CALL_LIST' => 'Trucades',
     'LNK_IMPORT_CALLS' => 'Importar Trucades',
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre a eliminar.',
     'NTC_REMOVE_INVITEE' => 'Està segur que desitja treure aquest participant de la trucada?',
     'LBL_INVITEE' => 'Participants',
     'LBL_RELATED_TO' => 'Relacionat amb:',
@@ -109,7 +109,7 @@ $mod_strings = array (
 	'LBL_REMINDER_TIME'=>'Hora Avís',
     'LBL_EMAIL_REMINDER_SENT' => 'Recordatori per correu electrònic enviat',
     'LBL_SEARCH_BUTTON'=> 'Cercar',
-    'LBL_ACTIVITIES_REPORTS' => 'Informe d\'activitats',
+    'LBL_ACTIVITIES_REPORTS' => 'Informe d’activitats',
     'LBL_ADD_BUTTON'=> 'Afegir',
 	'LBL_DEFAULT_SUBPANEL_TITLE' => 'Trucades',
     'LBL_LOG_CALL'=> 'Registrar Trucada',
@@ -131,14 +131,14 @@ $mod_strings = array (
     'NOTICE_DURATION_TIME' => 'El temps de durada te que ser major que 0',
     'LBL_CALL_INFORMATION' => 'Visió general de la trucada',
     'LBL_REMOVE' => 'eliminar',
-    'LBL_ACCEPT_STATUS' => 'Estat d\'acceptació',
-    'LBL_ACCEPT_LINK' => 'Enllaç d\'acceptació',
+    'LBL_ACCEPT_STATUS' => 'Estat d’acceptació',
+    'LBL_ACCEPT_LINK' => 'Enllaç d’acceptació',
     //For export labels
     'LBL_PARENT_ID' => 'Id pare',
     'LBL_EXPORT_MODIFIED_USER_ID' => 'Modificat Per ID',
     'LBL_EXPORT_CREATED_BY' => 'Creat per Id',
-    'LBL_EXPORT_ASSIGNED_USER_ID' => 'Id de l\'usuari assignat',
-    'LBL_EXPORT_DATE_START' => 'Data i hora d\'inici',
+    'LBL_EXPORT_ASSIGNED_USER_ID' => 'Id de l’usuari assignat',
+    'LBL_EXPORT_DATE_START' => 'Data i hora d’inici',
     'LBL_EXPORT_PARENT_TYPE' => 'Relacionat amb el mòdul',
     'LBL_EXPORT_REMINDER_TIME' =>'Temps de recordatori (en minuts)',
 
@@ -148,7 +148,7 @@ $mod_strings = array (
     'LBL_CREATE_LEAD' => 'Com a client potencial',
     'LBL_CREATE_AND_ADD' => 'Crear i afegir',
     'LBL_CANCEL_CREATE_INVITEE' => 'Cancel·lar',
-    'LBL_EMPTY_SEARCH_RESULT' => 'Disculpi, no s\'han trobat resultats. Si us plau, creï una invitació a sota.',
+    'LBL_EMPTY_SEARCH_RESULT' => 'Disculpi, no s’han trobat resultats. Si us plau, creï una invitació a sota.',
     'LBL_NO_ACCESS' => 'Vostè no té permís per a crear $module',
     
     'LBL_REPEAT_TYPE' => 'Tipus de repetició',
@@ -159,7 +159,7 @@ $mod_strings = array (
     'LBL_REPEAT_PARENT_ID' => 'Id repetició pare',
     'LBL_RECURRING_SOURCE' => 'Font recurrent',
     
-    'LBL_SYNCED_RECURRING_MSG' => 'Aquesta convocatòria es va originar en un altre sistema i ha estat sincronitzada amb SuiteCRM. Per realitzar canvis, aneu a la trucada original a l\'altre sistema. Els canvis realitzats a l\'altre sistema es poden sincronitzar amb aquest registre.',
+    'LBL_SYNCED_RECURRING_MSG' => 'Aquesta convocatòria es va originar en un altre sistema i ha estat sincronitzada amb SuiteCRM. Per realitzar canvis, aneu a la trucada original a l’altre sistema. Els canvis realitzats a l’altre sistema es poden sincronitzar amb aquest registre.',
 
 );
 

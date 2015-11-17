@@ -41,14 +41,14 @@ $app_list_strings['case_status_dom'] =
       'Open_New' => 'Nou',
       'Open_Assigned' => 'Assignat',
       'Closed_Closed' => 'Tancat',
-      'Open_Pending Input' => 'Pendent d\'Informació',
+      'Open_Pending Input' => 'Pendent d’Informació',
       'Closed_Rejected' => 'Rebutjat',
       'Closed_Duplicate' => 'Duplicat',
   );
 $app_list_strings['contact_portal_user_type_dom'] =
     array (
         'Single' => 'Usuari individual',
-        'Account' => 'Compta d\'usuari',
+        'Account' => 'Compta d’usuari',
     );
 $app_list_strings['dom_email_distribution_for_auto_create']=array (
     'AOPDefault' => 'Utilitza el AOP predeterminat',

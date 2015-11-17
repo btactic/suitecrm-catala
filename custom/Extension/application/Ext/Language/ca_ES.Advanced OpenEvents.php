@@ -51,7 +51,7 @@ $app_list_strings['fp_event_status_dom']['Declined'] = 'Rebutjat';
 $app_list_strings['fp_event_status_dom']['No Response'] = 'Sense resposta';
 
 $app_strings['LBL_STATUS_EVENT'] = 'Estat de la Invitació';
-$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d\'acceptació';
+$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d’acceptació';
 $app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Seleccionar Pàgina Actual';
 $app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Seleccionar tot';
 $app_strings['LBL_LISTVIEW_NONE'] = 'Treure la Selecció';

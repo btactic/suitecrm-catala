@@ -24,7 +24,7 @@
  */
 
 $app_list_strings['call_reschedule_dom'][''] = '';
-$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Fora d\'Oficina';
+$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Fora d’Oficina';
 $app_list_strings['call_reschedule_dom']['In a Meeting'] = 'A una reunió';
 
 $app_strings['LBL_RESCHEDULE_LABEL'] = 'Replanificar';
@@ -35,6 +35,6 @@ $app_strings['LBL_RESCHEDULE_ERROR1'] = 'Si us plau, seleccioni una data vàlida
 $app_strings['LBL_RESCHEDULE_ERROR2'] = 'Si us plau, seleccioni una raó';
 
 $app_strings['LBL_RESCHEDULE_PANEL'] = 'Replanificar';
-$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historial d\'intents de trucada';
+$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historial d’intents de trucada';
 $app_strings['LBL_RESCHEDULE_COUNT'] = 'Intents de trucada';
 

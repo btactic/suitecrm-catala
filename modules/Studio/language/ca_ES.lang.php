@@ -56,14 +56,14 @@ $mod_strings = array (
 'LBL_SELECT_A_SUBPANEL' => 'Seleccionar un Subpanell',
 'LBL_SELECT_SUBPANEL' => 'Seleccionar Subpanell',
 'LBL_MODULE_TITLE' => 'Estudi',
-'LBL_TOOLBOX' => 'Caixa d\'Eines',
+'LBL_TOOLBOX' => 'Caixa d’Eines',
 'LBL_STAGING_AREA' => 'Àrea de Disseny (arrossegui i deixi anar elements aquí)',
-'LBL_SUGAR_FIELDS_STAGE' => 'Camps de SuiteCRM (faci clic en els elements per a afegir-los a l\'àrea de disseny)',
-'LBL_SUGAR_BIN_STAGE' => 'Paperera de SuiteCRM (faci clic als elements per afegir-los a l\'àrea de disseny)',
+'LBL_SUGAR_FIELDS_STAGE' => 'Camps de SuiteCRM (faci clic en els elements per a afegir-los a l’àrea de disseny)',
+'LBL_SUGAR_BIN_STAGE' => 'Paperera de SuiteCRM (faci clic als elements per afegir-los a l’àrea de disseny)',
 'LBL_VIEW_SUGAR_FIELDS' => 'Veure camps de SuiteCRM',
 'LBL_VIEW_SUGAR_BIN' => 'Veure paperera de SuiteCRM',
 'LBL_FAILED_TO_SAVE' => 'Error al Desar',
-'LBL_CONFIRM_UNSAVE' => 'Els canvis no s\'han guardat i es perdran. Està segur de que vol continuar?',
+'LBL_CONFIRM_UNSAVE' => 'Els canvis no s’han guardat i es perdran. Està segur de que vol continuar?',
 'LBL_PUBLISHING' => 'Publicant ...',
 'LBL_PUBLISHED' => 'Publicat',
 'LBL_FAILED_PUBLISHED' => 'Error al Publicar',
@@ -100,7 +100,7 @@ $mod_strings = array (
 'LBL_SMW_WELCOME'=>'<h2>Benvingut al Estudi!</h2><br><b>Si us plau, seleccioni un dels següents mòduls.',
 
 //SELECT MODULE ACTION
-'LBL_SMA_WELCOME'=>'<h2>Editar un Mòdul</h2>Què dessitja fer amb aquest mòdul?<br><b>Si us plau, seleccioni l\'acció que desitja realitzar.',
+'LBL_SMA_WELCOME'=>'<h2>Editar un Mòdul</h2>Què dessitja fer amb aquest mòdul?<br><b>Si us plau, seleccioni l’acció que desitja realitzar.',
 'LBL_SMA_EDIT_CUSTOMFIELDS'=>'Editar Camps Personalitzats',
 'LBL_SMA_EDIT_LAYOUT'=>'Editar Diseny',
 'LBL_SMA_EDIT_LABELS' =>'Editar Etiquetes',
@@ -110,7 +110,7 @@ $mod_strings = array (
 'LBL_MB_RESTORE'=>'Restaurar',
 'LBL_MB_DELETE'=>'Esborrar',
 'LBL_MB_COMPARE'=>'Comparar',
-'LBL_MB_WELCOME'=> '<h2>Històrial</h2><br> l\'Historial li perment veure edicions publicades anteriorment del fitxer amb el que actualment està treballant. Pot comparar amb i restaurar versions prèvies. Si restaura un arxiu, aquest es convertirà en el seu arxiu de treball. Ho ha de publicar abans que sigui visible per a qualsevol altra persona.<br> Què desitja fer avui?<br><b> Por favor, seleccioni una de les següents opcions.</b>',
+'LBL_MB_WELCOME'=> '<h2>Històrial</h2><br> l’Historial li perment veure edicions publicades anteriorment del fitxer amb el que actualment està treballant. Pot comparar amb i restaurar versions prèvies. Si restaura un arxiu, aquest es convertirà en el seu arxiu de treball. Ho ha de publicar abans que sigui visible per a qualsevol altra persona.<br> Què desitja fer avui?<br><b> Por favor, seleccioni una de les següents opcions.</b>',
 
 //EDIT DROP DOWNS
 'LBL_ED_CREATE_DROPDOWN'=> 'Crea una Llista Desplegable',
@@ -126,7 +126,7 @@ $mod_strings = array (
 'LBL_EC_CLEAR_CACHE'=>'Netejar Caché',
 
 //SELECT MODULE
-'LBL_SM_WELCOME'=> '<h2>Historial</h2><br><b>Si us plau, seleccioni l\'arxiu que dessitja visualitzar.</b>',
+'LBL_SM_WELCOME'=> '<h2>Historial</h2><br><b>Si us plau, seleccioni l’arxiu que dessitja visualitzar.</b>',
 //END WIZARDS
 
 //DROP DOWN EDITOR
@@ -155,21 +155,21 @@ $mod_strings = array (
 'LBL_MODULE_NAME' => 'Administració',
 'LBL_CONFIGURE_GROUP_TABS' => 'Configurar Grups de Pestanyes',
  //end bug #15095 fix
-'LBL_GROUP_TAB_WELCOME'=>'El disseny dels Grups de Pestanyes s\'usarà sempre que un usuari elegeixi utilitzar Grups de Pestanyes en lloc de les Pestanyes de Mòduls habituals en Dc. Compte>Opcions de Presentació.',
+'LBL_GROUP_TAB_WELCOME'=>'El disseny dels Grups de Pestanyes s’usarà sempre que un usuari elegeixi utilitzar Grups de Pestanyes en lloc de les Pestanyes de Mòduls habituals en Dc. Compte>Opcions de Presentació.',
 'LBL_RENAME_TAB_WELCOME'=>'Faci clic en el Valor de Visualització de qualsevol pestanya de la següent taula per rebatejar la pestanya.',
 'LBL_DELETE_MODULE'=>'&nbsp;Esborrar&nbsp;Mòdul',
-'LBL_DISPLAY_OTHER_TAB_HELP' => 'Seleccioni mostrar la pestanya "Altres" a la barra de navegació. Per defecte, la pestanya "Altres" mostra aquells mòduls que encara no s\'han inclòs en altres grups.',
-'LBL_TAB_GROUP_LANGUAGE_HELP' => 'Sel·lecciona un dels idiomes disponibles, edita les etiquetes de grup i fes click en guardar i desplegar per aplicar les etiquetes amb l\'idioma escollit.',
+'LBL_DISPLAY_OTHER_TAB_HELP' => 'Seleccioni mostrar la pestanya "Altres" a la barra de navegació. Per defecte, la pestanya "Altres" mostra aquells mòduls que encara no s’han inclòs en altres grups.',
+'LBL_TAB_GROUP_LANGUAGE_HELP' => 'Sel·lecciona un dels idiomes disponibles, edita les etiquetes de grup i fes click en guardar i desplegar per aplicar les etiquetes amb l’idioma escollit.',
 'LBL_ADD_GROUP'=>'Afegir Grup',
 'LBL_NEW_GROUP'=>'Nou Grup',
 'LBL_RENAME_TABS'=>'Renombrar Pestanyes',
-'LBL_DISPLAY_OTHER_TAB' => 'Mostrar la pestanya \'Altres\'',
+'LBL_DISPLAY_OTHER_TAB' => 'Mostrar la pestanya ’Altres’',
 
 //LIST VIEW EDITOR
 'LBL_DEFAULT'=>'Per defecte',
 'LBL_ADDITIONAL'=>'Addicional',
 'LBL_AVAILABLE'=>'Disponible',
-'LBL_LISTVIEW_DESCRIPTION'=>'A continuació es mostren tres columnes. La columna "Per defecte" conté els camps que es mostren en una llista per defecte, la columna "Addicional" conté camps que un usuari pot elegir a l\'hora de crear una vista personalitzada, i la columna "Disponible" mostra columnes disponibles per a vostè com a administrador per a, o bé afegir-les a les columnes per defecte, o a les addicionals perquè siguin usades per usuaris ja que actualment no estan sent utilitzades.',
+'LBL_LISTVIEW_DESCRIPTION'=>'A continuació es mostren tres columnes. La columna "Per defecte" conté els camps que es mostren en una llista per defecte, la columna "Addicional" conté camps que un usuari pot elegir a l’hora de crear una vista personalitzada, i la columna "Disponible" mostra columnes disponibles per a vostè com a administrador per a, o bé afegir-les a les columnes per defecte, o a les addicionals perquè siguin usades per usuaris ja que actualment no estan sent utilitzades.',
 'LBL_LISTVIEW_EDIT'=>'Editor de Llistes',
 
 //ERRORS
@@ -179,15 +179,15 @@ $mod_strings = array (
 //SUGAR PORTAL
 'LBL_SW_SUGARPORTAL'=>'Portal de SuiteCRM',
 'LBL_SMP_WELCOME'=>' Si us plau, seleccioni el mòdul que desitja editar de la següent llista',
-'LBL_SP_WELCOME'=>'Benvingut a l\'estudi per al portal de SuiteCRM. Pot escollit editar mòduls aquí, o realitzar una sincronització amb una instància de portal. <br> Si us plau, escolleixi una opció de la llista següent.',
+'LBL_SP_WELCOME'=>'Benvingut a l’estudi per al portal de SuiteCRM. Pot escollit editar mòduls aquí, o realitzar una sincronització amb una instància de portal. <br> Si us plau, escolleixi una opció de la llista següent.',
 'LBL_SP_SYNC'=>'Sincronització de Portal',
-'LBL_SYNCP_WELCOME'=>'Si us plau, introdueixi l\'URL de la instància de portal que desitja actualitzar i feu clic al botó Vés. <br> Després d\'això, se li demanarà el seu nom i contrasenya. <br> Si us plau, introdueixi el seu nom i contrasenya de SuiteCRM i feu clic al botó Inicia Sincronització.',
-'LBL_LISTVIEWP_DESCRIPTION'=>'Té dues columnes a continuació: Per defecte, que inclou els camps que es mostraran, i Disponible, que inclou els camps que no es mostraran, però que estan disponibles per ser mostrats. Simplement ha d\'arrossegar els camps entre ambdues columnes. També pot canviar l\'ordre dels elements en una columna arrossegant-los i deixant-los anar.',
-'LBL_SP_STYLESHEET'=>'Pujar un Full d\'Estil',
-'LBL_SP_UPLOADSTYLE'=>'Faci clic al botó d\'exploració i seleccioni el full d\'estil que desitja pujar del seu ordinador.<br> La pròxima vegada que realitzi una sincronització al portal, s\'inclourà el full d\'estils.',
+'LBL_SYNCP_WELCOME'=>'Si us plau, introdueixi l’URL de la instància de portal que desitja actualitzar i feu clic al botó Vés. <br> Després d’això, se li demanarà el seu nom i contrasenya. <br> Si us plau, introdueixi el seu nom i contrasenya de SuiteCRM i feu clic al botó Inicia Sincronització.',
+'LBL_LISTVIEWP_DESCRIPTION'=>'Té dues columnes a continuació: Per defecte, que inclou els camps que es mostraran, i Disponible, que inclou els camps que no es mostraran, però que estan disponibles per ser mostrats. Simplement ha d’arrossegar els camps entre ambdues columnes. També pot canviar l’ordre dels elements en una columna arrossegant-los i deixant-los anar.',
+'LBL_SP_STYLESHEET'=>'Pujar un Full d’Estil',
+'LBL_SP_UPLOADSTYLE'=>'Faci clic al botó d’exploració i seleccioni el full d’estil que desitja pujar del seu ordinador.<br> La pròxima vegada que realitzi una sincronització al portal, s’inclourà el full d’estils.',
 'LBL_SP_UPLOADED'=> 'Pujat',
-'ERROR_SP_UPLOADED'=>'Si us plau, asseguri\'s que està pujant un full d\'estils CSS.',
-'LBL_SP_PREVIEW'=>'Aquí té una presentació preliminar de l\'aparença que tindrà el seu full d\'estils',
+'ERROR_SP_UPLOADED'=>'Si us plau, asseguri’s que està pujant un full d’estils CSS.',
+'LBL_SP_PREVIEW'=>'Aquí té una presentació preliminar de l’aparença que tindrà el seu full d’estils',
 
 	'LBL_SAVE' => 'Desar' /*for 508 compliance fix*/,
 	'LBL_UNDO' => 'Desfer' /*for 508 compliance fix*/,
@@ -202,7 +202,7 @@ $mod_strings = array (
 	'LBL_ADDFIELD' => 'Afegir Camp' /*for 508 compliance fix*/,
 	'LBL_EDIT' => 'Editar' /*for 508 compliance fix*/,
 
-'LBL_LANGUAGE_TOOLTIP' => 'Seleccioni l\'idioma que desitja editar.',
+'LBL_LANGUAGE_TOOLTIP' => 'Seleccioni l’idioma que desitja editar.',
 'LBL_SINGULAR' => 'Etiqueta singular',
 'LBL_PLURAL' => 'Etiqueta plural',
 'LBL_RENAME_MOD_SAVE_HELP' => 'Cliqui <b>Desar</b> per aplicar els canvis.'

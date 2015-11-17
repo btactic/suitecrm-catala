@@ -22,6 +22,6 @@
  * @author Salesagility Ltd <support@salesagility.com>
  */
 $mod_strings['LBL_SALESAGILITY_ADMIN'] = 'OpenAdmin avançat';
-$mod_strings['LBL_AOD_ADMIN_MANAGE_AOD'] = 'Configuració avançada d\'OpenDiscovery';
+$mod_strings['LBL_AOD_ADMIN_MANAGE_AOD'] = 'Configuració avançada d’OpenDiscovery';
 $mod_strings['LBL_AOD_ENABLE'] = 'Habilitar AOD';
-$mod_strings['LBL_AOD_SETTINGS'] = 'Configuració d\'AOD';
+$mod_strings['LBL_AOD_SETTINGS'] = 'Configuració d’AOD';

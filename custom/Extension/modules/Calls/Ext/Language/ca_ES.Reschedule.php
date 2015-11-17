@@ -8,6 +8,6 @@ $mod_strings = array_merge($mod_strings,
 		'LBL_RESCHEDULE_ERROR1' => 'Si us plau, seleccioni una data vàlida',
 		'LBL_RESCHEDULE_ERROR2' => 'Si us plau, seleccioni una raó',
 		'LBL_RESCHEDULE_PANEL' => 'Replanificar',
-		'LBL_RESCHEDULE_HISTORY' => 'Historial d\'intents de trucada'
+		'LBL_RESCHEDULE_HISTORY' => 'Historial d’intents de trucada'
 	)
 );

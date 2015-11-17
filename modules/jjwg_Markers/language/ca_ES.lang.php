@@ -38,6 +38,6 @@ $mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Assignat a';
 $mod_strings['LBL_MARKER_MAP'] = 'Marcador de mapa';
 
 $mod_strings['LBL_MARKER_MARKER_POSITION'] = 'Marcador de posició (Latitud, Longitud):';
-$mod_strings['LBL_MARKER_CLOSEST_MATCHING_ADDRESS'] = 'Coincidència més propera a l\'adreça: ';
+$mod_strings['LBL_MARKER_CLOSEST_MATCHING_ADDRESS'] = 'Coincidència més propera a l’adreça: ';
 $mod_strings['LBL_MARKER_MARKER_STATUS'] = 'Estat del marcador';
 $mod_strings['LBL_MARKER_EDIT_DESCRIPTION'] = 'Cliqui i arrastri el marcador';

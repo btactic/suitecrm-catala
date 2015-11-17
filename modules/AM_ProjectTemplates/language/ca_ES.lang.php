@@ -68,6 +68,6 @@ $mod_strings = array (
   'LBL_STATUS' => 'Estat',
   'LBL_PRIORITY' => 'Prioritat',
   'LBL_PROJECT_NAME' => 'Nom de Projecte',
-  'LBL_START_DATE' => 'Data d\'inici',
-  'LBL_CREATE_PROJECT_TITLE' => 'Crear un nou projecte a partir d\'aquesta plantilla?',
+  'LBL_START_DATE' => 'Data d’inici',
+  'LBL_CREATE_PROJECT_TITLE' => 'Crear un nou projecte a partir d’aquesta plantilla?',
 );

@@ -24,9 +24,9 @@
 
 
 $app_list_strings['moduleList']['AOR_Reports'] = 'Informes';
-$app_list_strings['moduleList']['AOR_Conditions'] = 'Condicions d\'Informe';
-$app_list_strings['moduleList']['AOR_Charts'] = 'Gràfics d\'Informes';
-$app_list_strings['moduleList']['AOR_Fields'] = 'Camps d\'Informes';
+$app_list_strings['moduleList']['AOR_Conditions'] = 'Condicions d’Informe';
+$app_list_strings['moduleList']['AOR_Charts'] = 'Gràfics d’Informes';
+$app_list_strings['moduleList']['AOR_Fields'] = 'Camps d’Informes';
 $app_list_strings['moduleList']['AOR_Scheduled_Reports'] = 'Informes programats';
 $app_list_strings['aor_operator_list']['Equal_To'] = 'Igual a';
 $app_list_strings['aor_operator_list']['Not_Equal_To'] = 'No igual a';
@@ -103,7 +103,7 @@ $app_list_strings['date_time_period_list']['last_month'] = 'Últim Mes';
 $app_list_strings['date_time_period_list']['this_quarter'] = 'Aquest trimestre';
 $app_list_strings['date_time_period_list']['last_quarter'] = 'Últim trimestre';
 $app_list_strings['date_time_period_list']['this_year'] = 'Aquest any';
-$app_list_strings['date_time_period_list']['last_year'] = 'L\'any passat';
+$app_list_strings['date_time_period_list']['last_year'] = 'L’any passat';
 $app_strings['LBL_CRON_ON_THE_MONTHDAY'] = 'en el';
 $app_strings['LBL_CRON_ON_THE_WEEKDAY'] = 'en';
 $app_strings['LBL_CRON_AT'] = 'en';

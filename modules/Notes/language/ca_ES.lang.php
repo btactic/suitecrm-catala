@@ -47,7 +47,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 $mod_strings = array (
-	'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
+	'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre a eliminar.',
 	'LBL_ACCOUNT_ID' => 'ID Compte:',
 	'LBL_CASE_ID' => 'ID Cas:',
 	'LBL_CLOSE' => 'Tancar:',
@@ -59,7 +59,7 @@ $mod_strings = array (
 	'LBL_EMAIL_ADDRESS' => 'Direcció de correu electrònic:',
     'LBL_EMAIL_ATTACHMENT' => 'Adjunt de correu electrònic:',
 	'LBL_FILE_MIME_TYPE' => 'Tipus MIME',
-	'LBL_FILE_URL' => 'URL d\'Arxiu',
+	'LBL_FILE_URL' => 'URL d’Arxiu',
 	'LBL_FILENAME' => 'Adjunt:',
 	'LBL_LEAD_ID' => 'ID Client Potencial:',
 	'LBL_LIST_CONTACT_NAME' => 'Contacte',
@@ -100,7 +100,7 @@ $mod_strings = array (
     'LBL_MODIFIED_BY'=>'Modificat Per',
     'LBL_SEND_ANYWAYS'=> 'Aquest correu electrònic no te assumpte. Enviar/desar de totes maneres?',
 	'LBL_LIST_EDIT_BUTTON' => 'Editar',
-	'LBL_ACTIVITIES_REPORTS' => 'Informe d\'activitats',
+	'LBL_ACTIVITIES_REPORTS' => 'Informe d’activitats',
 	'LBL_PANEL_DETAILS' => 'Detalls',
 	'LBL_NOTE_INFORMATION' => 'Visió general de la nota',
 	'LBL_MY_NOTES_DASHLETNAME' => 'Les meves notes',
@@ -109,7 +109,7 @@ $mod_strings = array (
 	'LBL_FIRST_NAME' => 'Nom',
     'LBL_LAST_NAME' => 'Cognoms',
     'LBL_EXPORT_PARENT_TYPE' => 'Relacionat amb el mòdul',
-    'LBL_EXPORT_PARENT_ID' => 'Relacionat amb l\'Id',
+    'LBL_EXPORT_PARENT_ID' => 'Relacionat amb l’Id',
     'LBL_DATE_ENTERED' => 'Data de Creació',
     'LBL_DATE_MODIFIED' => 'Última Modificació',
     'LBL_DELETED' => 'Esborrat',
