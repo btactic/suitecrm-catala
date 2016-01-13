@@ -8,7 +8,7 @@
 
 $manifest = array(
 	'name' => 'Català',
-	'description' => 'Traducció al Català de SuiteCRM',
+	'description' => 'Aquesta traducció ha sigut possible gràcies al suport del Departament de Cultura de la Generalitat de Catalunya',
 	'type' => 'langpack',
 	'is_uninstallable' => 'Yes',
 	'acceptable_sugar_versions' =>
