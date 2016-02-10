@@ -15,7 +15,7 @@ If you prefer, you can generate an installable version of translation from sourc
 ```
 Now you can generate an installable version of translation with those commands:
 ```
-$ git clone https://github.com/btactic/omupload.git
+$ git clone https://github.com/btactic/suitecrm-catala.git
 $ ./release.sh
 ```
 Finally go to your SuiteCRM installation and install suitecrm-catala.zip via Module Loader.
