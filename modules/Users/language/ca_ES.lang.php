@@ -570,7 +570,7 @@ $mod_strings = array (
     'LBL_SHOWOPTIONS' => 'Mostra les opcions',
 
     'LBL_SUITE_SUPERCHARGED' => 'Supercharged by SuiteCRM',
-    'LBL_SUITE_POWERED_BY' => 'Desenvolupat per SugarCRM',
+    'LBL_SUITE_POWERED_BY' => 'Desenvolupat per SugarCRM<br></br><center>Aquesta traducció ha sigut possible gràcies al suport del Departament de Cultura de la Generalitat de Catalunya.<br></br><img src="https://raw.githubusercontent.com/btactic/suitecrm-catala/master/images/Generalitat_de_Catalunya.jpg" alt="Logo_Generalitat" style="max-width:45%;"></center>',
     'LBL_SUITE_TOP' => 'Tornar a l’inici',
     'LBL_SUITE_PRINT' => 'Imprimir aquesta pàgina',
     'LBL_SUITE_DESC1' => 'SuiteCRM has been written and assembled by SalesAgility, one of the worlds most knowledgeable SugarCRM consultancies.',
