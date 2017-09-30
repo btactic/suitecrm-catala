@@ -9,7 +9,7 @@ Pot instal·lar la traducció utilitzant l'última distribució disponible a htt
 Només ha de descarregar l'última distribució i instal·lar-la des del Carregador de Mòduls.
 
 ## Instal·lar a partir del codi font
-IMPORTANT: Aquestes instruccions són per sistemes basats en UNIX.  
+IMPORTANT: Aquestes instruccions són per a sistemes basats en UNIX.  
 
 Si ho prefereix, pot generar una versió instal·lable de la traducció a partir del codi font, per a poder gaudir de les últimes millores que encara no han estat incloses a l'última distribució.  
 
