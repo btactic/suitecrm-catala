@@ -16,9 +16,9 @@ $manifest = array(
 	'acceptable_sugar_flavors' =>
 		  array('CE', 'PRO', 'CORP', 'ENT', 'ULT'),
 	'author' => 'bTactic and Transifex',
-	'version' => '7.4.0',
-	'published_date' => '17/11/2015',
-);
+	'version' => '7.4.1',
+	'published_date' => '27/02/20120',
+	);
 
 $installdefs = array(
 	'id'=> 'ca',
