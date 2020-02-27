@@ -50,5 +50,5 @@ $dashletStrings['RSSDashlet'] = array(
     'LBL_CONFIGURE_TITLE' => 'Títol',
     'LBL_CONFIGURE_HEIGHT' => 'Altura (1 - 300)',
     'LBL_CONFIGURE_RSSURL' => 'RSS Url',
-    'ERR_LOADING_FEED' => 'S\'ha produït un error carregant la font RSS',
+    'ERR_LOADING_FEED' => 'S’ha produït un error carregant la font RSS',
 );

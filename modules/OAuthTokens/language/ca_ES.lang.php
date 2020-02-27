@@ -52,10 +52,10 @@ $mod_strings = array(
     'LBL_TS' => 'Timestamp',
     'LBL_LIST_DELETE' => 'Eliminar el Token',
     'LBL_CONSUMER' => 'Nom del consumidor',
-    'LBL_OAUTH_DISABLED' => 'Suport OAuth no permès. L\'extensió PHP oauth poden faltar. Contacteu amb l\'administrador.',
+    'LBL_OAUTH_DISABLED' => 'Suport OAuth no permès. L’extensió PHP oauth poden faltar. Contacteu amb l’administrador.',
 
     'LBL_TOKEN_TS' => 'Token TS',
-    'LBL_CALLBACK_URL' => 'Resposta d\'URL',
+    'LBL_CALLBACK_URL' => 'Resposta d’URL',
     'LBL_SECRET' => 'Secret',
     'LBL_TSTATE' => 'TState',
     'LBL_VERIFY' => 'Verificar',

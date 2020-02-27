@@ -51,7 +51,7 @@ $mod_strings = array(
 
     //vardef labels
     'LBL_REVISION_NAME' => 'Número de Versió',
-    'LBL_FILENAME' => 'Nom d\'Arxiu',
+    'LBL_FILENAME' => 'Nom d’Arxiu',
     'LBL_MIME' => 'Tipus MIME',
     'LBL_REVISION' => 'Versió',
     'LBL_DOCUMENT' => 'Document Relacionat',
@@ -59,7 +59,7 @@ $mod_strings = array(
     'LBL_CHANGE_LOG' => 'Registre de Canvis:',
     'LBL_ACTIVE_DATE' => 'Data de Publicació',
     'LBL_EXPIRATION_DATE' => 'Data de Caducitat',
-    'LBL_FILE_EXTENSION' => 'Extensió d\'Arxiu',
+    'LBL_FILE_EXTENSION' => 'Extensió d’Arxiu',
 
     'LBL_DOC_NAME' => 'Nom de Document:',
     'LBL_DOC_VERSION' => 'Versió:',
@@ -69,17 +69,17 @@ $mod_strings = array(
     'LBL_REV_LIST_ENTERED' => 'Data de Creació',
     'LBL_REV_LIST_CREATED' => 'Creat per',
     'LBL_REV_LIST_LOG' => 'Registre de Canvis',
-    'LBL_REV_LIST_FILENAME' => 'Nom d\'arxiu',
+    'LBL_REV_LIST_FILENAME' => 'Nom d’arxiu',
 
     'LBL_CURRENT_DOC_VERSION' => 'Última Versió:',
     'LBL_SEARCH_FORM_TITLE' => 'Cerca de Documents',
     'LBL_REVISIONS' => 'Versions',
 
     //error messages
-    'ERR_FILENAME' => 'Nom d\'Arxiu',
+    'ERR_FILENAME' => 'Nom d’Arxiu',
     'ERR_DOC_VERSION' => 'Versió de Document',
     'ERR_DELETE_CONFIRM' => 'Desitja eliminar aquesta versió del document?',
-    'ERR_DELETE_LATEST_VERSION' => 'No té permisos per eliminar l\'última versió d\'un document.',
+    'ERR_DELETE_LATEST_VERSION' => 'No té permisos per eliminar l’última versió d’un document.',
     'LNK_NEW_MAIL_MERGE' => 'Combinar Correspondència',
     'LBL_DOC_ID' => 'Id del document',
     'LBL_DOC_TYPE' => 'Font',

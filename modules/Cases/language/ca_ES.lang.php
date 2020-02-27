@@ -43,7 +43,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 }
 
 $mod_strings = array(
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per eliminar el compte.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre per eliminar el compte.',
     'LBL_TOOL_TIP_BOX_TITLE' => 'Suggerencies amb base de coneixement',
     'LBL_TOOL_TIP_TITLE' => 'Títol',
     'LBL_TOOL_TIP_BODY' => 'Cos:',
@@ -126,7 +126,7 @@ $mod_strings = array(
     'LBL_SELECT_EXTERNAL_CASE_DOCUMENT' => 'Fitxer extern',
     'LBL_CONTACT_CREATED_BY_NAME' => 'Creat per contacte',
     'LBL_CONTACT_CREATED_BY' => 'Creat per',
-    'LBL_CASE_UPDATE_FORM' => 'Actualitzar l\'adjunt', //Form for attachments on case updates
+    'LBL_CASE_UPDATE_FORM' => 'Actualitzar l’adjunt', //Form for attachments on case updates
     'LBL_CREATOR_PORTAL' => 'URL del Portal', //PR 5426
     'LBL_SUGGESTION' => 'Suggeriment', //PR 5426
 );

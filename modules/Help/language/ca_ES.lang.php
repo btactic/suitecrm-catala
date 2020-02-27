@@ -57,5 +57,5 @@ $mod_strings = array(
     'LNK_NEW_EMAIL' => 'Arxivar correu electrònic',
     'LNK_NEW_MEETING' => 'Programar Reunió',
     'LNK_NEW_TASK' => 'Nova Tasca',
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre a eliminar.',
 );

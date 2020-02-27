@@ -68,7 +68,7 @@ $mod_strings = array(
     'LBL_FROM_ADDR' => 'Direcció correu electrònic remitent: ',
     'LBL_DATE_START' => 'Data Inici',
     'LBL_TIME_START' => 'Hora Inici',
-    'LBL_START_DATE_TIME' => 'Data i Hora d\'Inici: ',
+    'LBL_START_DATE_TIME' => 'Data i Hora d’Inici: ',
     'LBL_TEMPLATE' => 'Plantilla de correu electrònic:',
 
     'LBL_MODIFIED_BY' => 'Modificat per: ',
@@ -85,7 +85,7 @@ $mod_strings = array(
     'LBL_EDIT_EMAIL_TEMPLATE' => 'Editar',
     'LBL_FROM_MAILBOX' => 'De bustia',
     'LBL_FROM_MAILBOX_NAME' => 'Fer servir bustia:',
-    'LBL_OUTBOUND_EMAIL_ACCOUNT_NAME' => 'Compte d\'email sortint:',
+    'LBL_OUTBOUND_EMAIL_ACCOUNT_NAME' => 'Compte d’email sortint:',
     'LBL_PROSPECT_LIST_SUBPANEL_TITLE' => 'Llistes de Públic Objectiu',
     'LBL_ALL_PROSPECT_LISTS' => 'Seleccionar Totes les llistes de públic objectiu de la campanya.',
     'LBL_RELATED_PROSPECT_LISTS' => 'Totes les llistes de públic objectiu relacionades amb aquest missatge.',
@@ -95,13 +95,13 @@ $mod_strings = array(
     'LBL_MODULE_SEND_TEST' => 'Campanya: Enviar prova',
     'LBL_MODULE_SEND_EMAILS' => 'Campanya: Enviar missatges de correu electrònic',
     'LBL_SCHEDULE_MESSAGE_TEST' => 'Seleccioneu els missatges de campanya que voleu provar:',
-    'LBL_SCHEDULE_MESSAGE_EMAILS' => 'Seleccioneu els missatges de la campanya que li agradaria programar per al seu enviament en la data i hora d\'inici especificada:',
+    'LBL_SCHEDULE_MESSAGE_EMAILS' => 'Seleccioneu els missatges de la campanya que li agradaria programar per al seu enviament en la data i hora d’inici especificada:',
     'LBL_SCHEDULE_BUTTON_TITLE' => 'Enviar',
     'LBL_SCHEDULE_BUTTON_LABEL' => 'Enviar',
     'LBL_ERROR_ON_MARKETING' => 'Falten camps obligatoris',
 
     'LBL_CAMPAIGN_ID' => 'ID Campanya',
-    'LBL_OUTBOUND_EMAIL_ACOUNT_ID' => 'ID de compte d\'E-mail sortint',
+    'LBL_OUTBOUND_EMAIL_ACOUNT_ID' => 'ID de compte d’E-mail sortint',
     'LBL_EMAIL_TEMPLATE' => 'Plantilla de correu electrònic',
     'LBL_PROSPECT_LISTS' => 'Llistes de Públic Objectiu',
 

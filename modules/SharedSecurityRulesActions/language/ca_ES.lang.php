@@ -63,7 +63,7 @@ $mod_strings = array(
     'LBL_LIST_NAME' => 'Nom',
     'LBL_EDIT_BUTTON' => 'Editar',
     'LBL_REMOVE' => 'Eliminar',
-    'LBL_LIST_FORM_TITLE' => 'Llistat d\'accions de regles de seguretat compartida',
+    'LBL_LIST_FORM_TITLE' => 'Llistat d’accions de regles de seguretat compartida',
     'LBL_MODULE_NAME' => 'Compartir accions de camps de normes de seguretat',
     'LBL_MODULE_TITLE' => 'Compartir accions de camps de normes de seguretat',
     'LBL_HOMEPAGE_TITLE' => 'Accions de les meves regles de seguretat compartida',
@@ -75,7 +75,7 @@ $mod_strings = array(
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activitats',
     'LBL_SA_SHAREDSECURITYRULESACTIONS_SUBPANEL_TITLE' => 'Compartir accions de camps de normes de seguretat',
     'LBL_NEW_FORM_TITLE' => 'Noves accions de regles de seguretat compartida',
-    'LBL_ACCESSLEVEL' => 'Nivells d\'accés',
+    'LBL_ACCESSLEVEL' => 'Nivells d’accés',
     'LBL_SELECT_ACTION' => 'Acció',
     'LBL_OPTIONS' => 'Opcions',
 );

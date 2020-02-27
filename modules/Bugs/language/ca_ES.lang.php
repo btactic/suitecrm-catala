@@ -44,10 +44,10 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $mod_strings = array(
     'LBL_MODULE_NAME' => 'Incidències',
-    'LBL_MODULE_TITLE' => 'Seguiment d\'incidències: Inici',
+    'LBL_MODULE_TITLE' => 'Seguiment d’incidències: Inici',
     'LBL_MODULE_ID' => 'Incidències',
-    'LBL_SEARCH_FORM_TITLE' => 'Cerca d\'Incidències',
-    'LBL_LIST_FORM_TITLE' => 'Llista d\'Incidències',
+    'LBL_SEARCH_FORM_TITLE' => 'Cerca d’Incidències',
+    'LBL_LIST_FORM_TITLE' => 'Llista d’Incidències',
     'LBL_NEW_FORM_TITLE' => 'Nova Incidència',
     'LBL_SUBJECT' => 'Assumpte:',
     'LBL_NUMBER' => 'Número:',
@@ -67,15 +67,15 @@ $mod_strings = array(
     'LBL_LIST_TYPE' => 'Tipus',
     'LBL_RESOLUTION' => 'Resolució:',
     'LBL_RELEASE' => 'Publicació:',
-    'LNK_NEW_BUG' => 'Informe d\'Incidència',
+    'LNK_NEW_BUG' => 'Informe d’Incidència',
     'LNK_BUG_LIST' => 'Incidències',
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per eliminar la incidència.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre per eliminar la incidència.',
     'LBL_LIST_MY_BUGS' => 'Les Meves Incidències Assignades',
     'LNK_IMPORT_BUGS' => 'Importar errors',
     'LBL_FOUND_IN_RELEASE' => 'Trobat en Llançament:',
     'LBL_FIXED_IN_RELEASE' => 'Corregit en Llançament:',
     'LBL_LIST_FIXED_IN_RELEASE' => 'Corregit en Llançament',
-    'LBL_WORK_LOG' => 'Registre d\'Activitat:',
+    'LBL_WORK_LOG' => 'Registre d’Activitat:',
     'LBL_SOURCE' => 'Font:',
     'LBL_PRODUCT_CATEGORY' => 'Categoria:',
 
@@ -86,9 +86,9 @@ $mod_strings = array(
     'LBL_LIST_CONTACT_NAME' => 'Contacte',
     'LBL_LIST_ACCOUNT_NAME' => 'Compte',
     'LBL_LIST_PHONE' => 'Telèfon',
-    'NTC_DELETE_CONFIRMATION' => 'Està segur que desitja treure aquest contacte d\'aquesta incidència?',
+    'NTC_DELETE_CONFIRMATION' => 'Està segur que desitja treure aquest contacte d’aquesta incidència?',
 
-    'LBL_DEFAULT_SUBPANEL_TITLE' => 'Seguiment d\'Incidències',
+    'LBL_DEFAULT_SUBPANEL_TITLE' => 'Seguiment d’Incidències',
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activitats',
     'LBL_HISTORY_SUBPANEL_TITLE' => 'Històrial',
     'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contactes',
@@ -99,6 +99,6 @@ $mod_strings = array(
     'LBL_LIST_ASSIGNED_TO_NAME' => 'Usuari Assignat',
     'LBL_ASSIGNED_TO_NAME' => 'Assignat a',
 
-    'LBL_BUG_INFORMATION' => 'Visió general de l\'error', //Can be translated in all caps. This string will be used by SuiteP template menu actions
+    'LBL_BUG_INFORMATION' => 'Visió general de l’error', //Can be translated in all caps. This string will be used by SuiteP template menu actions
 
 );

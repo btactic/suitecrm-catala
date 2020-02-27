@@ -76,7 +76,7 @@ $mod_strings = array(
     'LNK_NEW_MEETING' => 'Programar Reunió',
     'LNK_CALL_LIST' => 'Trucades',
     'LNK_IMPORT_CALLS' => 'Importar Trucades',
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre a eliminar.',
     'LBL_INVITEE' => 'Participants',
     'LBL_RELATED_TO' => 'Relacionat amb:',
     'LNK_NEW_APPOINTMENT' => 'Crear Cita',
@@ -115,8 +115,8 @@ $mod_strings = array(
     'NOTICE_DURATION_TIME' => 'El temps de durada te que ser major que 0',
     'LBL_CALL_INFORMATION' => 'Visió general de la trucada', //Can be translated in all caps. This string will be used by SuiteP template menu actions
     'LBL_REMOVE' => 'Eliminar',
-    'LBL_ACCEPT_STATUS' => 'Estat d\'acceptació',
-    'LBL_ACCEPT_LINK' => 'Enllaç d\'acceptació',
+    'LBL_ACCEPT_STATUS' => 'Estat d’acceptació',
+    'LBL_ACCEPT_LINK' => 'Enllaç d’acceptació',
 
     // create invitee functionality
     'LBL_CREATE_INVITEE' => 'Crear una invitació',
@@ -124,7 +124,7 @@ $mod_strings = array(
     'LBL_CREATE_LEAD' => 'Com a client potencial',
     'LBL_CREATE_AND_ADD' => 'Crear i afegir',
     'LBL_CANCEL_CREATE_INVITEE' => 'Cancel·lar',
-    'LBL_EMPTY_SEARCH_RESULT' => 'Disculpi, no s\'han trobat resultats. Si us plau, creï una invitació a sota.',
+    'LBL_EMPTY_SEARCH_RESULT' => 'Disculpi, no s’han trobat resultats. Si us plau, creï una invitació a sota.',
     'LBL_NO_ACCESS' => 'Vostè no té permís per a crear $module',
 
     'LBL_REPEAT_TYPE' => 'Tipus de repetició',
@@ -135,7 +135,7 @@ $mod_strings = array(
     'LBL_REPEAT_PARENT_ID' => 'Id repetició pare',
     'LBL_RECURRING_SOURCE' => 'Font recurrent',
 
-    'LBL_SYNCED_RECURRING_MSG' => 'Aquesta convocatòria es va originar en un altre sistema i ha estat sincronitzada amb SuiteCRM. Per realitzar canvis, aneu a la trucada original a l\'altre sistema. Els canvis realitzats a l\'altre sistema es poden sincronitzar amb aquest registre.',
+    'LBL_SYNCED_RECURRING_MSG' => 'Aquesta convocatòria es va originar en un altre sistema i ha estat sincronitzada amb SuiteCRM. Per realitzar canvis, aneu a la trucada original a l’altre sistema. Els canvis realitzats a l’altre sistema es poden sincronitzar amb aquest registre.',
 
     // for reminders
     'LBL_REMINDERS' => 'Recordatoris',
@@ -154,7 +154,7 @@ $mod_strings = array(
     'LBL_RESCHEDULE_ERROR1' => 'Si us plau, seleccioni una data vàlida',
     'LBL_RESCHEDULE_ERROR2' => 'Si us plau, seleccioni un motiu',
     'LBL_RESCHEDULE_PANEL' => 'Replanificar',
-    'LBL_RESCHEDULE_HISTORY' => 'Historial d\'intents de trucada',
+    'LBL_RESCHEDULE_HISTORY' => 'Historial d’intents de trucada',
     'LBL_CANCEL' => 'Cancelar',
     'LBL_SAVE' => 'Afegir Nova Carpeta de Grup',
 

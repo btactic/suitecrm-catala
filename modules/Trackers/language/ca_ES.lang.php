@@ -45,7 +45,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 $mod_strings = array(
     //Column header mapping
     'action' => 'Acció',
-    'date_modified' => 'Data de l\'Última Acció',
+    'date_modified' => 'Data de l’Última Acció',
     'item_id' => 'ID',
     'item_summary' => 'Nom',
     'module_name' => 'Nom de Mòdul',

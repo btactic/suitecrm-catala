@@ -44,7 +44,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $mod_strings = array(
     'LBL_NAME' => 'Nom del treball',
-    'LBL_EXECUTE_TIME' => 'Hora d\'execució',
+    'LBL_EXECUTE_TIME' => 'Hora d’execució',
     'LBL_SCHEDULER_ID' => 'Planificador',
     'LBL_STATUS' => 'Estat del treball',
     'LBL_RESOLUTION' => 'Resultat',
@@ -65,5 +65,5 @@ $mod_strings = array(
     'ERR_NOSUCHUSER' => "L'edentificador d'usuari %s no s'ha trobat",
     'ERR_JOBTYPE' => "Tipus de treball desconegut: %s",
     'ERR_TIMEOUT' => "Error forçat per temps d'espera",
-    'ERR_JOB_FAILED_VERBOSE' => 'Tasca %1$s (%2$s) error a l\'execució del CRON',
+    'ERR_JOB_FAILED_VERBOSE' => 'Tasca %1$s (%2$s) error a l’execució del CRON',
 );

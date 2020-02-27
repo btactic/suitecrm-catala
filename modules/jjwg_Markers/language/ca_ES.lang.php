@@ -76,7 +76,7 @@ $mod_strings['LBL_MARKER_IMAGE'] = 'Marcador de tipus imatge';
 $mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Assignat a';
 
 $mod_strings['LBL_MARKER_MARKER_POSITION'] = 'Marcador de posició (Latitud, Longitud):';
-$mod_strings['LBL_MARKER_CLOSEST_MATCHING_ADDRESS'] = 'Coincidència més propera a l\'adreça: ';
+$mod_strings['LBL_MARKER_CLOSEST_MATCHING_ADDRESS'] = 'Coincidència més propera a l’adreça: ';
 $mod_strings['LBL_MARKER_MARKER_STATUS'] = 'Estat del marcador';
 $mod_strings['LBL_MARKER_EDIT_DESCRIPTION'] = 'Cliqui i arrastri el marcador';
 $mod_strings['LBL_JJWG_MAPS_JJWG_MARKERS_FROM_JJWG_MAPS_TITLE'] = 'Mapes';
