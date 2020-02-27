@@ -60,7 +60,7 @@ $mod_strings = [
     'LBL_OAUTHTOKENS_SUBPANEL_TITLE' => 'Tokens de OAuth2 actiu',
     'LBL_TOKEN_ID' => 'Token',
     'LBL_DATE_ENTERED' => 'Data de creació',
-    'LBL_ACCESS_TOKEN_EXPIRES' => 'Caducitat del token d\'accés',
+    'LBL_ACCESS_TOKEN_EXPIRES' => 'Caducitat del token d’accés',
     'LBL_REFRESH_TOKEN_EXPIRES' => 'Caducitat del refresc del token',
 
     'LNK_OAUTH2_TOKEN_LIST'=> 'Llista de tokens OAuth2',

@@ -44,9 +44,9 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $connector_strings = array(
     'LBL_GET_STARTED' => 'Començar!',
-    'LBL_TOS1' => 'Condicions d\'ús',
+    'LBL_TOS1' => 'Condicions d’ús',
     'LBL_TOS3' => 'Política de privacitat',
-    'iv_description0' => 'quan facis click a "començar" voldrà dir que estas d\'acord amb la vista interior',
+    'iv_description0' => 'quan facis click a "començar" voldrà dir que estas d’acord amb la vista interior',
     'LBL_OPP' => 'Trobar oportunitats',
     'LBL_OPP_SUB' => 'per arribar als clients',
     'LBL_REFERRAL' => 'Obtenir referències',

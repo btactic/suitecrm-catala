@@ -62,7 +62,7 @@ $mod_strings = array(
     'LBL_DESCENDING' => 'Descendent',
     // Emails
     'LBL_OPT_IN' => 'Autoritzar comunicacions',
-    'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Confirmació d\'autorització pendent, Confirmació d\'autorització no enviada',
-    'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Confirmació d\'autorització pendent, Confirmació d\'autorització enviada',
+    'LBL_OPT_IN_PENDING_EMAIL_NOT_SENT' => 'Confirmació d’autorització pendent, Confirmació d’autorització no enviada',
+    'LBL_OPT_IN_PENDING_EMAIL_SENT' => 'Confirmació d’autorització pendent, Confirmació d’autorització enviada',
     'LBL_OPT_IN_CONFIRMED' => 'Autoritzat a enviar',
 );

@@ -77,10 +77,10 @@ $mod_strings = array(
     'LBL_LABEL' => 'Etiqueta',
     'LBL_FUNCTION' => 'Funció',
     'LBL_SORT' => 'Ordenar',
-    'LBL_SORT_ORDER' => 'Criteri d\'ordenació',
+    'LBL_SORT_ORDER' => 'Criteri d’ordenació',
     'LBL_GROUP' => 'Grup',
     'LBL_GROUP_ORDER' => 'Ordre del grup',
-    'LBL_AUDIT_TABLE' => 'Taula d\'auditoria',
+    'LBL_AUDIT_TABLE' => 'Taula d’auditoria',
     'LBL_TOTAL' => 'Total',
     'LBL_FORMAT' => 'Opcions de format',
 );

@@ -51,6 +51,6 @@ $dashletStrings['SpotsDashlet'] = array(
     'LBL_SPOTS_TO_LOAD' => 'Punts de càrrega',
     'LBL_NO_SPOTS_SELECTED' => 'No hi ha punts seleccionats per a la visualització',
     'LBL_SPOTS_POINTED_DELETED' => 'Aquest missatge ha estat eliminat',
-    'LBL_SHOW_UI' => 'Mostra\'m',
+    'LBL_SHOW_UI' => 'Mostra’m',
     'LBL_NAME' => 'Nom',
 );

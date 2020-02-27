@@ -68,7 +68,7 @@ $app_list_strings = array(
         'Leads' => 'Clients Potencials',
         'Currencies' => 'Monedes',
         'Activities' => 'Activitats',
-        'Bugs' => 'Seguiment d\'Incidències',
+        'Bugs' => 'Seguiment d’Incidències',
         'Feeds' => 'Fonts RSS',
         'iFrames' => 'Portal',
         'TimePeriods' => 'Administració de Períodes de Temps',
@@ -96,7 +96,7 @@ $app_list_strings = array(
         'EmailTemplates' => 'Plantilles de correu electrònic',
         'ProspectLists' => 'Llistes de Public Objectiu',
         'SavedSearch' => 'Recerques Guardades',
-        'UpgradeWizard' => 'Assistent d\'Actualitzacions',
+        'UpgradeWizard' => 'Assistent d’Actualitzacions',
         'Trackers' => 'Monitoratge',
         'TrackerSessions' => 'Sessions de Monitoratge',
         'TrackerQueries' => 'Consultes de Monitoratge',
@@ -106,9 +106,9 @@ $app_list_strings = array(
         'SugarFavorites' => 'Favorits de SuiteCRM',
 
         'OAuthKeys' => 'Claus del consumidor OAuth',
-        'OAuthTokens' => 'Tokens d\'OAuth',
+        'OAuthTokens' => 'Tokens d’OAuth',
         'OAuth2Clients' => 'OAuth Clients',
-        'OAuth2Tokens' => 'Tokens d\'OAuth',
+        'OAuth2Tokens' => 'Tokens d’OAuth',
     ),
 
     'moduleListSingular' => array(
@@ -127,7 +127,7 @@ $app_list_strings = array(
         'Calendar' => 'Calendari',
         'Leads' => 'Clients Potencials',
         'Activities' => 'Activitats',
-        'Bugs' => 'Gestor d\'Incidències',
+        'Bugs' => 'Gestor d’Incidències',
         'KBDocuments' => 'Base de Coneixement',
         'Feeds' => 'Fonts RSS',
         'iFrames' => 'Favorits Web',
@@ -390,7 +390,7 @@ $app_list_strings = array(
         'Not Started' => 'No Iniciada',
         'In Progress' => 'En Progrés',
         'Completed' => 'Completada',
-        'Pending Input' => 'Pendent d\'Informació',
+        'Pending Input' => 'Pendent d’Informació',
         'Deferred' => 'Ajornada',
     ),
     'meeting_status_default' => 'Planificat',
@@ -465,7 +465,7 @@ $app_list_strings = array(
         'Not Started' => 'No Iniciada',
         'In Progress' => 'En Progrés',
         'Completed' => 'Completada',
-        'Pending Input' => 'Pendent d\'Informació',
+        'Pending Input' => 'Pendent d’Informació',
         'Deferred' => 'Ajornada',
     ),
     'project_task_utilization_options' => array(
@@ -507,7 +507,7 @@ $app_list_strings = array(
         'Leads' => 'Clients Potencials',
         'Contacts' => 'Contactes', // cn (11/22/2005) added to support Emails
 
-        'Bugs' => 'Gestor d\'Incidències',
+        'Bugs' => 'Gestor d’Incidències',
         'Project' => 'Projectes',
 
         'Prospects' => 'Públic Objectiu',
@@ -530,7 +530,7 @@ $app_list_strings = array(
         'Tasks' => 'Tasques',
         'Emails' => 'Correu electrònic',
 
-        'Bugs' => 'Gestor d\'Incidències',
+        'Bugs' => 'Gestor d’Incidències',
         'Project' => 'Projectes',
         'ProjectTask' => 'Tasques de Projecte',
         'Prospects' => 'Públic Objectiu',
@@ -552,7 +552,7 @@ $app_list_strings = array(
         'Tasks' => 'Tasques',
         'Opportunities' => 'Oportunitats',
 
-        'Bugs' => 'Gestor d\'Incidències',
+        'Bugs' => 'Gestor d’Incidències',
         'Cases' => 'Casos',
         'Leads' => 'Clients Potencials',
 
@@ -623,7 +623,7 @@ $app_list_strings = array(
         'Pending' => 'Pendent',
         'Rejected' => 'Refusat',
     ),
-    'bug_type_default_key' => 'Gestor d\'Incidències',
+    'bug_type_default_key' => 'Gestor d’Incidències',
     'bug_type_dom' => array(
         'Defect' => 'Defecte',
         'Feature' => 'Característica',
@@ -648,7 +648,7 @@ $app_list_strings = array(
         '' => '',
         'Accounts' => 'Comptes',
         'Activities' => 'Activitats',
-        'Bugs' => 'Seguiment d\'Incidències',
+        'Bugs' => 'Seguiment d’Incidències',
         'Calendar' => 'Calendari',
         'Calls' => 'Trucades',
         'Campaigns' => 'Campanyes',
@@ -781,7 +781,7 @@ $app_list_strings = array(
         'read' => 'Llegit',
         'replied' => 'Respost',
         'sent' => 'Enviat',
-        'send_error' => 'Error d\'Enviament',
+        'send_error' => 'Error d’Enviament',
         'unread' => 'No Llegit',
     ),
     'dom_email_archived_status' => array(
@@ -805,7 +805,7 @@ $app_list_strings = array(
     ),
     'dom_email_errors' => array(
         1 => 'Seleccioneu només un usuari quan assigneu elements directament.',
-        2 => 'Heu d\'assignar només elements marcats quan assignació directa d\'elements.',
+        2 => 'Heu d’assignar només elements marcats quan assignació directa d’elements.',
     ),
     'dom_email_bool' => array(
         'bool_true' => 'Si',
@@ -839,7 +839,7 @@ $app_list_strings = array(
     ),
 
     'schedulers_times_dom' => array(
-        'not run' => 'Hora d\'Execució Passada, No Executat',
+        'not run' => 'Hora d’Execució Passada, No Executat',
         'ready' => 'Llest',
         'in progress' => 'En Progrés',
         'failed' => 'Fallat',
@@ -945,8 +945,8 @@ $app_list_strings = array(
     'prospect_list_type_dom' => array(
         'default' => 'Per defecte',
         'seed' => 'El Primer de la Llista',
-        'exempt_domain' => 'Llista d\'Exclusió - Per Domini',
-        'exempt_address' => 'Llista d\'exclusió - Per direcció de correu electrònic',
+        'exempt_domain' => 'Llista d’Exclusió - Per Domini',
+        'exempt_address' => 'Llista d’exclusió - Per direcció de correu electrònic',
         'exempt' => 'Lista de Exclusión - Per Id',
         'test' => 'Prova',
     ),
@@ -1036,7 +1036,7 @@ $app_list_strings = array(
         '2' => 'TTL',
     ),
     'import_enclosure_options' => array(
-        '\'' => 'Comilles Simples (&#39;)',
+        '’' => 'Comilles Simples (&#39;)',
         '"' => 'Comilles Dobles (&#34;)',
         '' => '--Cap--',
         'other' => 'Altre:',
@@ -1055,7 +1055,7 @@ $app_list_strings = array(
         '_self' => 'A la mateix finestra',
     ),
     'dashlet_auto_refresh_options' => array(
-        '-1' => 'No refresqui\'s automàticament',
+        '-1' => 'No refresqui’s automàticament',
         '30' => 'Cada 30 segons',
         '60' => 'Cada hora',
         '180' => 'Cada 3 minuts',
@@ -1111,8 +1111,8 @@ $app_list_strings = array(
 
 $app_strings = array(
     'LBL_SEARCH_REAULTS_TITLE' => 'Resultats',
-    'ERR_SEARCH_INVALID_QUERY' => 'S\'ha produït un error mentre es realitzava la cerca. La sintaxi de la consulta podria no ser vàlida.',
-    'ERR_SEARCH_NO_RESULTS' => 'No hi ha resultats que coincideixin amb els criteris de cerca. Tracti d\'ampliar la cerca.',
+    'ERR_SEARCH_INVALID_QUERY' => 'S’ha produït un error mentre es realitzava la cerca. La sintaxi de la consulta podria no ser vàlida.',
+    'ERR_SEARCH_NO_RESULTS' => 'No hi ha resultats que coincideixin amb els criteris de cerca. Tracti d’ampliar la cerca.',
     'LBL_SEARCH_PERFORMED_IN' => 'Cerca realitzada en',
     'LBL_EMAIL_CODE' => 'Codi de Correu electrònic:',
     'LBL_SEND' => 'Enviar',
@@ -1133,7 +1133,7 @@ $app_strings = array(
     'LBL_ID_FF_CLEAR' => 'Netejar' /*for 508 compliance fix*/,
     'LBL_ID_FF_VCARD' => 'vCard' /*for 508 compliance fix*/,
     'LBL_ID_FF_REMOVE' => 'Eliminar' /*for 508 compliance fix*/,
-    'LBL_ID_FF_REMOVE_EMAIL' => 'Borrar l\'adreça de correu electrònic' /*for 508 compliance fix*/,
+    'LBL_ID_FF_REMOVE_EMAIL' => 'Borrar l’adreça de correu electrònic' /*for 508 compliance fix*/,
     'LBL_ID_FF_OPT_OUT' => 'Optar per',
     'LBL_ID_FF_OPT_IN' => 'Autoritzat a enviar',
     'LBL_ID_FF_INVALID' => 'Fer invàlid',
@@ -1153,10 +1153,10 @@ $app_strings = array(
     'LBL_NO_SHORTCUT_MENU' => 'No hi han accion disponibles.',
     'LBL_NO_DATA' => 'No hi ha dades',
 
-    'LBL_ERROR_UNDEFINED_BEHAVIOR' => 'S\'ha produït un error desconegut.', //PR 3669
-    'LBL_ERROR_UNHANDLED_VALUE' => 'Un valor ha no s\'ha transmès correctament i impedeix que un procés pugui continuar.', //PR 3669
+    'LBL_ERROR_UNDEFINED_BEHAVIOR' => 'S’ha produït un error desconegut.', //PR 3669
+    'LBL_ERROR_UNHANDLED_VALUE' => 'Un valor ha no s’ha transmès correctament i impedeix que un procés pugui continuar.', //PR 3669
     'LBL_ERROR_UNUSABLE_VALUE' => 'Un valor inutilitzable impedeix que un procés pugui continuar.', //PR 3669
-    'LBL_ERROR_INVALID_TYPE' => 'El tipus de valor és diferent al que s\'esperava.', //PR 3669
+    'LBL_ERROR_INVALID_TYPE' => 'El tipus de valor és diferent al que s’esperava.', //PR 3669
 
     'LBL_ROUTING_FLAGGED' => 'conjunt de marques de seguiment',
     'LBL_NOTIFICATIONS' => 'Notificacions',
@@ -1173,9 +1173,9 @@ $app_strings = array(
     'LBL_EMAIL_ACCOUNTS_SMTPPASS' => 'Clau de pas SMTP',
     'LBL_EMAIL_ACCOUNTS_SMTPPORT' => 'Port SMTP',
     'LBL_EMAIL_ACCOUNTS_SMTPSERVER' => 'Servidor SMTP',
-    'LBL_EMAIL_ACCOUNTS_SMTPUSER' => 'Nom d\'usuari SMTP',
+    'LBL_EMAIL_ACCOUNTS_SMTPUSER' => 'Nom d’usuari SMTP',
     'LBL_EMAIL_ACCOUNTS_SMTPDEFAULT' => 'Per defecte',
-    'LBL_EMAIL_WARNING_MISSING_USER_CREDS' => 'Alerta: Falta l\'usuari i la contrasenya de la compta de correu de sortida.',
+    'LBL_EMAIL_WARNING_MISSING_USER_CREDS' => 'Alerta: Falta l’usuari i la contrasenya de la compta de correu de sortida.',
     'LBL_EMAIL_ACCOUNTS_SUBTITLE' => 'Configurar comptes de correu electrònic per a veure correus electrònics entrants de les seves comptes de correu.',
     'LBL_EMAIL_ACCOUNTS_OUTBOUND_SUBTITLE' => 'Proporcionar informació del servidor de correu SMTP a utilitzar per al correu sortint en les comptes de correu.',
 
@@ -1188,16 +1188,16 @@ $app_strings = array(
     'LBL_EMAIL_ADDRESS_BOOK_EMAIL_ADDR' => 'Direcció de correu electrònic',
     'LBL_EMAIL_ADDRESS_BOOK_FILTER' => 'Filtre',
     'LBL_EMAIL_ADDRESS_BOOK_NAME' => 'Nom',
-    'LBL_EMAIL_ADDRESS_BOOK_NOT_FOUND' => 'No s\'ha trobat cap direcció',
+    'LBL_EMAIL_ADDRESS_BOOK_NOT_FOUND' => 'No s’ha trobat cap direcció',
     'LBL_EMAIL_ADDRESS_BOOK_SAVE_AND_ADD' => 'Desar i Agregar la Llibreta de Direccions',
     'LBL_EMAIL_ADDRESS_BOOK_SELECT_TITLE' => 'Seleccionar Entrades de la Llibreta de Direccions',
     'LBL_EMAIL_ADDRESS_BOOK_TITLE' => 'Llibreta de Direccions',
     'LBL_EMAIL_REPORTS_TITLE' => 'Informes',
-    'LBL_EMAIL_REMOVE_SMTP_WARNING' => 'Avís! El compte de sortida que està intentant eliminar està associat a un compte d\'entrada actual. Esteu segur que voleu continuar?',
+    'LBL_EMAIL_REMOVE_SMTP_WARNING' => 'Avís! El compte de sortida que està intentant eliminar està associat a un compte d’entrada actual. Esteu segur que voleu continuar?',
     'LBL_EMAIL_ADDRESSES' => 'Correu electrònic',
     'LBL_EMAIL_ADDRESS_PRIMARY' => 'Direcció de correu electrònic',
-    'LBL_EMAIL_ADDRESS_OPT_IN' => 'Han confirmat que l\'adreça electrònica ha estat activada és: ',
-    'LBL_EMAIL_ADDRESS_OPT_IN_ERR' => 'No es pot confirmar l\'adreça de correu electrònic',
+    'LBL_EMAIL_ADDRESS_OPT_IN' => 'Han confirmat que l’adreça electrònica ha estat activada és: ',
+    'LBL_EMAIL_ADDRESS_OPT_IN_ERR' => 'No es pot confirmar l’adreça de correu electrònic',
     'LBL_EMAIL_ARCHIVE_TO_SUITE' => 'Importar a SuiteCRM',
     'LBL_EMAIL_ASSIGNMENT' => 'Assignació',
     'LBL_EMAIL_ATTACH_FILE_TO_EMAIL' => 'Adjuntar',
@@ -1218,8 +1218,8 @@ $app_strings = array(
     'LBL_EMAIL_COFFEE_BREAK' => 'Comprovant correus electrònics nous. <br><br>Els comptes de correu amb gran volum poden tardar una quantitat considerable de temps.',
 
     'LBL_EMAIL_COMPOSE' => 'Correu electrònic',
-    'LBL_EMAIL_COMPOSE_ERR_NO_RECIPIENTS' => 'Si us plau, introdueixi els destinataris d\'aquest correu electrònic.',
-    'LBL_EMAIL_COMPOSE_NO_BODY' => 'El cos d\'aquest missatge és buit. Enviar de tota manera?',
+    'LBL_EMAIL_COMPOSE_ERR_NO_RECIPIENTS' => 'Si us plau, introdueixi els destinataris d’aquest correu electrònic.',
+    'LBL_EMAIL_COMPOSE_NO_BODY' => 'El cos d’aquest missatge és buit. Enviar de tota manera?',
     'LBL_EMAIL_COMPOSE_NO_SUBJECT' => 'Aquest missatge no té assumpte.  Enviar de tota manera?',
     'LBL_EMAIL_COMPOSE_NO_SUBJECT_LITERAL' => '(sense assumpte)',
     'LBL_EMAIL_COMPOSE_INVALID_ADDRESS' => 'Si us plau, introdueixi una direcció de correu electrònica vàlida per als camps: Per a, CC i CCO',
@@ -1232,7 +1232,7 @@ $app_strings = array(
     'LBL_EMAIL_CREATE_NEW' => '--Crear Al Desar--',
     'LBL_EMAIL_MULT_GROUP_FOLDER_ACCOUNTS' => 'Múltiple',
     'LBL_EMAIL_MULT_GROUP_FOLDER_ACCOUNTS_EMPTY' => 'Vuit',
-    'LBL_EMAIL_DATE_SENT_BY_SENDER' => 'Data d\'Enviament per Remitent',
+    'LBL_EMAIL_DATE_SENT_BY_SENDER' => 'Data d’Enviament per Remitent',
     'LBL_EMAIL_DATE_TODAY' => 'Avui',
     'LBL_EMAIL_DELETE' => 'Esborrar',
     'LBL_EMAIL_DELETE_CONFIRM' => 'Esborrar missatges seleccionats?',
@@ -1250,15 +1250,15 @@ $app_strings = array(
 
     'LBL_EMAIL_ERROR_ADD_GROUP_FOLDER' => 'El nom de la carpeta ha de ser únic i no pot ser vuit. Si us plau, torni-ho a intentar.',
     'LBL_EMAIL_ERROR_DELETE_GROUP_FOLDER' => 'No pot esborrar-se la carpeta. O la carpeta o els seus arbres tenen una safata de correu electrònic associada.',
-    'LBL_EMAIL_ERROR_CANNOT_FIND_NODE' => 'No s\'ha pogut determinar la carpeta pretesa a partir del context. Ho intenti de nou.',
+    'LBL_EMAIL_ERROR_CANNOT_FIND_NODE' => 'No s’ha pogut determinar la carpeta pretesa a partir del context. Ho intenti de nou.',
     'LBL_EMAIL_ERROR_CHECK_IE_SETTINGS' => 'Si us plau, comprovi la seva configuració.',
-    'LBL_EMAIL_ERROR_DESC' => 'S\'han detectat errors: ',
-    'LBL_EMAIL_DELETE_ERROR_DESC' => 'No té accés a aquesta àrea. Contacti amb l\'administrador del lloc per obtenir accés.',
+    'LBL_EMAIL_ERROR_DESC' => 'S’han detectat errors: ',
+    'LBL_EMAIL_DELETE_ERROR_DESC' => 'No té accés a aquesta àrea. Contacti amb l’administrador del lloc per obtenir accés.',
     'LBL_EMAIL_ERROR_DUPE_FOLDER_NAME' => 'Els noms de les carpetes de SuiteCRM han de ser únics.',
     'LBL_EMAIL_ERROR_EMPTY' => 'Si us plau, introdueixi algun criteri de cerca.',
     'LBL_EMAIL_ERROR_GENERAL_TITLE' => 'Ha ocorregut un error',
     'LBL_EMAIL_ERROR_MESSAGE_DELETED' => 'Missatge eliminat del servidor',
-    'LBL_EMAIL_ERROR_IMAP_MESSAGE_DELETED' => 'O el missatge s\'ha eliminat al servidor o ha estat mogut a una altra carpeta',
+    'LBL_EMAIL_ERROR_IMAP_MESSAGE_DELETED' => 'O el missatge s’ha eliminat al servidor o ha estat mogut a una altra carpeta',
     'LBL_EMAIL_ERROR_MAILSERVERCONNECTION' => 'La connexió amb el servidor de correu ha fallat. Si us plau, contacti amb el seu Administrador',
     'LBL_EMAIL_ERROR_MOVE' => 'De moment no està suportat moure correus electrònics entre servidors i/o comptes de correu.',
     'LBL_EMAIL_ERROR_MOVE_TITLE' => 'Error al Moure',
@@ -1268,14 +1268,14 @@ $app_strings = array(
     'LBL_EMAIL_ERROR_SERVER' => 'Es requereix una direcció de servidor de correu.',
     'LBL_EMAIL_ERROR_SAVE_ACCOUNT' => 'El compte de correu pot no haver estat guardat.',
     'LBL_EMAIL_ERROR_TIMEOUT' => 'Ha ocorregut un error en la comunicació amb el servidor de correu.',
-    'LBL_EMAIL_ERROR_USER' => 'Es requereix un nom d\'inici de sessió.',
+    'LBL_EMAIL_ERROR_USER' => 'Es requereix un nom d’inici de sessió.',
     'LBL_EMAIL_ERROR_PORT' => 'Es requereix un port del servidor de correu.',
     'LBL_EMAIL_ERROR_PROTOCOL' => 'Es requereix un protocol al servidor.',
     'LBL_EMAIL_ERROR_MONITORED_FOLDER' => 'Es requereix una Carpeta Monitoritzada.',
     'LBL_EMAIL_ERROR_TRASH_FOLDER' => 'Es requereix una Carpeta de Paperera.',
     'LBL_EMAIL_ERROR_VIEW_RAW_SOURCE' => 'Aquesta informació no està disponible',
     'LBL_EMAIL_ERROR_NO_OUTBOUND' => 'No hi ha cap servidor de correu sortint especificat.',
-    'LBL_EMAIL_ERROR_SENDING' => 'Error enviant el E-mail. Contacteu amb l\'administrador per obtenir ajuda.',
+    'LBL_EMAIL_ERROR_SENDING' => 'Error enviant el E-mail. Contacteu amb l’administrador per obtenir ajuda.',
     'LBL_EMAIL_FOLDERS' => SugarThemeRegistry::current()->getImage('icon_email_folder', 'align=absmiddle border=0', null, null, '.gif', '') . 'Carpetes',
     'LBL_EMAIL_FOLDERS_SHORT' => SugarThemeRegistry::current()->getImage('icon_email_folder', 'align=absmiddle border=0', null, null, '.gif', ''),
     'LBL_EMAIL_FOLDERS_ADD' => 'Afegir',
@@ -1284,7 +1284,7 @@ $app_strings = array(
     'LBL_EMAIL_FOLDERS_ADD_NEW_FOLDER' => 'Afegir Nova Carpeta de Grup',
     'LBL_EMAIL_FOLDERS_ADD_THIS_TO' => 'Afegir aquesta carpeta a',
     'LBL_EMAIL_FOLDERS_CHANGE_HOME' => 'Aquesta carpeta no pot ser canviada',
-    'LBL_EMAIL_FOLDERS_DELETE_CONFIRM' => 'Està segur que vol eliminar aquesta carpeta?\nAquest procés no pot ser tornat enrera.\nLa eliminació de carpetes s\'aplicarà en cascada a totes les carpetes contingudes.',
+    'LBL_EMAIL_FOLDERS_DELETE_CONFIRM' => 'Està segur que vol eliminar aquesta carpeta?\nAquest procés no pot ser tornat enrera.\nLa eliminació de carpetes s’aplicarà en cascada a totes les carpetes contingudes.',
     'LBL_EMAIL_FOLDERS_NEW_FOLDER' => 'Nom de la Nova Carpeta',
     'LBL_EMAIL_FOLDERS_NO_VALID_NODE' => 'Si us plau, seleccioni una carpeta abans de realitzar aquesta acció.',
     'LBL_EMAIL_FOLDERS_TITLE' => 'Administració de Carpetes de SuiteCRM',
@@ -1303,7 +1303,7 @@ $app_strings = array(
     'LBL_EMAIL_IE_SAVE' => 'Guardant Informació del Compte',
     'LBL_EMAIL_IMPORTING_EMAIL' => 'Important correu electrònic',
     'LBL_EMAIL_IMPORT_EMAIL' => 'Importar en SuiteCRM',
-    'LBL_EMAIL_IMPORT_SETTINGS' => 'Configuració d\'Importació',
+    'LBL_EMAIL_IMPORT_SETTINGS' => 'Configuració d’Importació',
     'LBL_EMAIL_INVALID' => 'No Vàlid',
     'LBL_EMAIL_LOADING' => 'Carregant...',
     'LBL_EMAIL_MARK' => 'Marcar',
@@ -1322,7 +1322,7 @@ $app_strings = array(
     'LBL_EMAIL_MENU_REMOVE' => 'Eliminar',
     'LBL_EMAIL_MENU_RENAME_FOLDER' => 'Renombrar Carpeta',
     'LBL_EMAIL_MENU_RENAMING_FOLDER' => 'Renombrant Carpeta',
-    'LBL_EMAIL_MENU_MAKE_SELECTION' => 'Si us plau, realitzi una selecció abans d\'intentar aquesta operació.',
+    'LBL_EMAIL_MENU_MAKE_SELECTION' => 'Si us plau, realitzi una selecció abans d’intentar aquesta operació.',
 
     'LBL_EMAIL_MENU_HELP_ADD_FOLDER' => 'Crear una carpeta (remota o a SuiteCRM)',
     'LBL_EMAIL_MENU_HELP_DELETE_FOLDER' => 'Eliminar una carpeta (remota o a SuiteCRM)',
@@ -1340,7 +1340,7 @@ $app_strings = array(
     'LBL_EMAIL_MULTISELECT' => '<b>Ctrl-Clic</b> per seleccionar múltiples<br />(els usuaris de Mac poden usar <b>CMD-Clic</b>)',
 
     'LBL_EMAIL_NO' => 'No',
-    'LBL_EMAIL_NOT_SENT' => 'El sistema és incapaç de processar la seva petició. Si us plau, contacti l\'administrador del sistema.',
+    'LBL_EMAIL_NOT_SENT' => 'El sistema és incapaç de processar la seva petició. Si us plau, contacti l’administrador del sistema.',
 
     'LBL_EMAIL_OK' => 'Acceptar',
     'LBL_EMAIL_ONE_MOMENT' => 'Un moment, si us plau, ...',
@@ -1383,7 +1383,7 @@ $app_strings = array(
     'LBL_EMAIL_SAVE' => 'Desar',
     'LBL_EMAIL_SAVE_AND_REPLY' => 'Desar i Contestar',
     'LBL_EMAIL_SAVE_DRAFT' => 'Desar Esborrany',
-    'LBL_EMAIL_DRAFT_SAVED' => 'L\'esborrany s\'ha guardat correctament',
+    'LBL_EMAIL_DRAFT_SAVED' => 'L’esborrany s’ha guardat correctament',
 
     'LBL_EMAIL_SEARCH' => SugarThemeRegistry::current()->getImage('Search', 'align=absmiddle border=0', null, null,    '.gif', ''),
     'LBL_EMAIL_SEARCH_SHORT' => SugarThemeRegistry::current()->getImage('Search', 'align=absmiddle border=0', null,        null, '.gif', ''),
@@ -1404,9 +1404,9 @@ $app_strings = array(
     'LBL_EMAIL_SETTINGS_FROM_ADDR' => 'Direcció del Remitent',
     'LBL_EMAIL_SETTINGS_FROM_TO_EMAIL_ADDR' => 'Direcció de correu electrònic per a notificació de prova:',
     'LBL_EMAIL_SETTINGS_FROM_NAME' => 'Nom del Remitent',
-    'LBL_EMAIL_SETTINGS_REPLY_TO_ADDR' => 'Respondre a l\'adreça',
+    'LBL_EMAIL_SETTINGS_REPLY_TO_ADDR' => 'Respondre a l’adreça',
     'LBL_EMAIL_SETTINGS_FULL_SYNC' => 'Sincronitzar tots els comptes de correu',
-    'LBL_EMAIL_TEST_NOTIFICATION_SENT' => 'Un correu electrònic va ser enviat a l\'adreça de correu electrònic especificada utilitzant la configuració del correu sortint proporcionada. Si us plau, comproveu si s\'ha rebut el correu electrònic per verificar que la configuració és correcta.',
+    'LBL_EMAIL_TEST_NOTIFICATION_SENT' => 'Un correu electrònic va ser enviat a l’adreça de correu electrònic especificada utilitzant la configuració del correu sortint proporcionada. Si us plau, comproveu si s’ha rebut el correu electrònic per verificar que la configuració és correcta.',
     'LBL_EMAIL_TEST_SEE_FULL_SMTP_LOG' => 'Vegi el registre de SMTP complert',
     'LBL_EMAIL_SETTINGS_FULL_SYNC_WARN' => 'Realitzar una sincronització completa?\nPer a comptes de correu grans, pot durar diversos minuts.',
     'LBL_EMAIL_SUBSCRIPTION_FOLDER_HELP' => 'Faci clic en la Tecla Shift o en la tecla Ctrl per seleccionar carpetes múltiples.',
@@ -1418,13 +1418,13 @@ $app_strings = array(
     'LBL_EMAIL_SETTINGS_NAME' => 'Nom',
     'LBL_EMAIL_SETTINGS_REQUIRE_REFRESH' => 'Aquestes opcions poden requerir un refresc de pàgina per ser activades.',
     'LBL_EMAIL_SETTINGS_RETRIEVING_ACCOUNT' => 'Recuperant compta de correu',
-    'LBL_EMAIL_SETTINGS_SAVED' => 'S\'ha aplicat la configuració correctament.',
+    'LBL_EMAIL_SETTINGS_SAVED' => 'S’ha aplicat la configuració correctament.',
     'LBL_EMAIL_SETTINGS_SEND_EMAIL_AS' => 'Enviar només correus electrònics de text pla',
     'LBL_EMAIL_SETTINGS_SHOW_NUM_IN_LIST' => 'Número de correus electrònics per pàgina',
     'LBL_EMAIL_SETTINGS_TITLE_LAYOUT' => 'Configuració Visual',
     'LBL_EMAIL_SETTINGS_TITLE_PREFERENCES' => 'Preferències',
-    'LBL_EMAIL_SETTINGS_USER_FOLDERS' => 'Carpetes d\'Usuari Disponibles',
-    'LBL_EMAIL_ERROR_PREPEND' => 'S\'ha produït un error en el correu electrònic:',
+    'LBL_EMAIL_SETTINGS_USER_FOLDERS' => 'Carpetes d’Usuari Disponibles',
+    'LBL_EMAIL_ERROR_PREPEND' => 'S’ha produït un error en el correu electrònic:',
     'LBL_EMAIL_INVALID_PERSONAL_OUTBOUND' => 'El servidor de correu sortint seleccionat per al compte de correu que utilitzeu no és vàlid. Comproveu la configuració o seleccioneu un servidor de correu diferent per al compte de correu.',
     'LBL_EMAIL_INVALID_SYSTEM_OUTBOUND' => 'No hi ha un servidor de correu de sortida configurat per a enviar correus electrònics. Si us plau, configureu un servidor de correu de sortida o seleccioneu un correu de sortida per la compta que esteu utilitzant a Configuració >> Compte de correu.',
     'LBL_DEFAULT_EMAIL_SIGNATURES' => 'Signatura per defecte',
@@ -1444,8 +1444,8 @@ $app_strings = array(
     'LBL_EMAIL_VIEW' => 'Veure',
     'LBL_EMAIL_VIEW_HEADERS' => 'Mostrar Capceleres',
     'LBL_EMAIL_VIEW_RAW' => 'Mostrar codi font del correu electrònic',
-    'LBL_EMAIL_VIEW_UNSUPPORTED' => 'Aquesta característica no està suportada quan s\'usa amb POP3.',
-    'LBL_DEFAULT_LINK_TEXT' => 'Text d\'enllaç per defecte.',
+    'LBL_EMAIL_VIEW_UNSUPPORTED' => 'Aquesta característica no està suportada quan s’usa amb POP3.',
+    'LBL_DEFAULT_LINK_TEXT' => 'Text d’enllaç per defecte.',
     'LBL_EMAIL_YES' => 'Si',
     'LBL_EMAIL_TEST_OUTBOUND_SETTINGS' => 'Enviar correu electrònic de prova',
     'LBL_EMAIL_TEST_OUTBOUND_SETTINGS_SENT' => 'Correu electrònic de prova enviat',
@@ -1463,32 +1463,32 @@ $app_strings = array(
     'LBL_INVALID_FILE_EXTENSION' => 'La extensió del fitxer no és vàlida',
 
     'ERR_AJAX_LOAD' => 'Ha succeit un error:',
-    'ERR_AJAX_LOAD_FAILURE' => 'S\'ha produït un error al atendre la seva petició, si us plau, torni-ho a intentar més tard.',
+    'ERR_AJAX_LOAD_FAILURE' => 'S’ha produït un error al atendre la seva petició, si us plau, torni-ho a intentar més tard.',
     'ERR_AJAX_LOAD_FOOTER' => 'Si aquest error persisteix, si us plau, digui-li al seu administrador que deshabiliti Ajax per aquest mòdul',
-    'ERR_DECIMAL_SEP_EQ_THOUSANDS_SEP' => 'No pot utilitzar-se el mateix caràcter com a separador decimal que l\'utilitzat com a separador de miles.\n\n Si us plau, canviï els valors.',
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre per eliminar el contacte.',
+    'ERR_DECIMAL_SEP_EQ_THOUSANDS_SEP' => 'No pot utilitzar-se el mateix caràcter com a separador decimal que l’utilitzat com a separador de miles.\n\n Si us plau, canviï els valors.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre per eliminar el contacte.',
     'ERR_EXPORT_DISABLED' => 'Exportació deshabilitada.',
     'ERR_EXPORT_TYPE' => 'Error exportando ',
     'ERR_INVALID_EMAIL_ADDRESS' => 'no es una direcció de correo válida.',
     'ERR_INVALID_FILE_REFERENCE' => 'Referència a arxiu no vàlid',
     'ERR_NO_HEADER_ID' => 'Aquesta funcionalitat no està disponible amb aquest tema.',
-    'ERR_NOT_ADMIN' => 'Accés no autoritzat a l\'administració.',
+    'ERR_NOT_ADMIN' => 'Accés no autoritzat a l’administració.',
     'ERR_MISSING_REQUIRED_FIELDS' => 'Falta camp requerit:',
     'ERR_INVALID_REQUIRED_FIELDS' => 'Camp requerit invàlid:',
     'ERR_INVALID_VALUE' => 'Valor no vàlid:',
-    'ERR_NO_SUCH_FILE' => 'L\'arxiu no existeix en el sistema',
+    'ERR_NO_SUCH_FILE' => 'L’arxiu no existeix en el sistema',
     'ERR_FILE_EMPTY' => 'El fitxer està buit', // PR 6672
     'ERR_NO_SINGLE_QUOTE' => 'No podem utilitzar les cometes simples per a ',
     'ERR_NOTHING_SELECTED' => 'Si us plau, realitzi una selecció abans de procedir.',
     'ERR_SELF_REPORTING' => 'Un usuari no pot ser informador de si mateix.',
-    'ERR_SQS_NO_MATCH_FIELD' => 'No s\'han trobat coincidències per al camp: ',
+    'ERR_SQS_NO_MATCH_FIELD' => 'No s’han trobat coincidències per al camp: ',
     'ERR_SQS_NO_MATCH' => 'Sense coincidències',
-    'ERR_ADDRESS_KEY_NOT_SPECIFIED' => 'Si us plau, especifiqui l\'índex \'clau\' en l\'atribut displayParams per a la definició de Metadades',
+    'ERR_ADDRESS_KEY_NOT_SPECIFIED' => 'Si us plau, especifiqui l’índex ’clau’ en l’atribut displayParams per a la definició de Metadades',
     'ERR_EXISTING_PORTAL_USERNAME' => 'Error: El Nom de Portal ja ha estat assignat a un altre contacte.',
     'ERR_COMPATIBLE_PRECISION_VALUE' => 'El valor del camp no és compatible amb el tipus de precisió',
     'ERR_EXTERNAL_API_SAVE_FAIL' => 'Ha succeït un error al intentar desar a una compta externa.',
-    'ERR_NO_DB' => 'No es pot establir la connexió amb la base de dades. Si us plau, consulti els registres d\'errors de SuiteCRM per a més detalls.',
-    'ERR_DB_FAIL' => 'S\'ha produït un error amb la base de dades. Si us plau, consulti els registres d\'errors de SuiteCRM per a més detalls.',
+    'ERR_NO_DB' => 'No es pot establir la connexió amb la base de dades. Si us plau, consulti els registres d’errors de SuiteCRM per a més detalls.',
+    'ERR_DB_FAIL' => 'S’ha produït un error amb la base de dades. Si us plau, consulti els registres d’errors de SuiteCRM per a més detalls.',
     'ERR_DB_VERSION' => 'Els fitxers {0} de SuiteCRM només poden ser utilitzats amb una base de dades {1} de SuiteCRM.',
 
     'LBL_ACCOUNT' => 'Compte',
@@ -1565,7 +1565,7 @@ $app_strings = array(
     'LBL_EMPTY_VCARD' => 'Si us plau, seleccioni un fitxer vCard',
     'LBL_EMPTY_REQUIRED_VCARD' => 'vCard no té tots els camps obligatoris per a aquest mòdul. Consulteu suitecrm.log per a detalls.',
     'LBL_VCARD_ERROR_FILESIZE' => 'El fitxer que heu intentat pujar excedeix el límit de 30000 bytes que està especificat al formulari HTML.',
-    'LBL_VCARD_ERROR_DEFAULT' => 'S\'ha produït un error al pujar el fitxer vCard. Si us plau, consulti el fitxer suitecrm.log per a més detalls.',
+    'LBL_VCARD_ERROR_DEFAULT' => 'S’ha produït un error al pujar el fitxer vCard. Si us plau, consulti el fitxer suitecrm.log per a més detalls.',
     'LBL_IMPORT_VCARD' => 'Importar vCard:',
     'LBL_IMPORT_VCARD_BUTTON_LABEL' => 'Importar vCard',
     'LBL_IMPORT_VCARD_BUTTON_TITLE' => 'Importar vCard',
@@ -1604,7 +1604,7 @@ $app_strings = array(
     'LBL_LIST_OF' => 'de',
     'LBL_LIST_PHONE' => 'Telèfon',
     'LBL_LIST_RELATED_TO' => 'Relacionat amb:',
-    'LBL_LIST_USER_NAME' => 'Nom d\'Usuari',
+    'LBL_LIST_USER_NAME' => 'Nom d’Usuari',
     'LBL_LISTVIEW_NO_SELECTED' => 'Si us plau, seleccioni almenys 1 registre per procedir.',
     'LBL_LISTVIEW_TWO_REQUIRED' => 'Si us plau, seleccioni almenys 2 registres per procedir.',
     'LBL_LISTVIEW_OPTION_SELECTED' => 'Registres Seleccionats',
@@ -1620,9 +1620,9 @@ $app_strings = array(
     'LBL_PROFILE' => 'Perfil',
     'LBL_MAILMERGE' => 'Combinar Correspondència',
     'LBL_MASS_UPDATE' => 'Actualització Massiva',
-    'LBL_NO_MASS_UPDATE_FIELDS_AVAILABLE' => 'No hi ha camps disponibles per a la operació d\'actualització massiva',
+    'LBL_NO_MASS_UPDATE_FIELDS_AVAILABLE' => 'No hi ha camps disponibles per a la operació d’actualització massiva',
     'LBL_OPT_OUT_FLAG_PRIMARY' => 'Refusar per correu electrònic principal',
-    'LBL_OPT_IN_FLAG_PRIMARY' => 'Autoritzat a enviar a l\'E-mail primari',
+    'LBL_OPT_IN_FLAG_PRIMARY' => 'Autoritzat a enviar a l’E-mail primari',
     'LBL_MEETINGS' => 'Reunions',
     'LBL_MEETING_GO_BACK' => 'Tornar a la reunió',
     'LBL_MEMBERS' => 'Membres',
@@ -1641,7 +1641,7 @@ $app_strings = array(
     'LBL_NONE' => '--Cap--',
     'LBL_NOTES' => 'Notes',
     'LBL_OPPORTUNITIES' => 'Oportunitats',
-    'LBL_OPPORTUNITY_NAME' => 'Nom de l\'Oportunitat',
+    'LBL_OPPORTUNITY_NAME' => 'Nom de l’Oportunitat',
     'LBL_OPPORTUNITY' => 'Oportunitat',
     'LBL_OR' => 'O',
     'LBL_PANEL_OVERVIEW' => 'Visió general', //Can be translated in all caps. This string will be used by SuiteP template menu actions
@@ -1750,7 +1750,7 @@ $app_strings = array(
     'LBL_SERVER_MEMORY_USAGE' => 'Ús de memòria del servidor: {0} ({1})',
     'LBL_SERVER_MEMORY_LOG_MESSAGE' => 'Ús: - mòdul: {0} - acció: {1}',
     'LBL_SERVER_PEAK_MEMORY_USAGE' => 'Pic de memòria utilitzada pel servidor: {0} ({1})',
-    'LBL_SHIPPING_ADDRESS' => 'Direcció d\'Enviament',
+    'LBL_SHIPPING_ADDRESS' => 'Direcció d’Enviament',
     'LBL_SHOW' => 'Mostrar',
     'LBL_STATE' => 'Estat:', //Used for Case State, situation, condition
     'LBL_STATUS_UPDATED' => 'El seu estat per a aquest esdeveniment ha estat actualitzat!',
@@ -1766,10 +1766,10 @@ $app_strings = array(
     'LBL_SCENARIO_SERVICE' => 'Servei',
     'LBL_SCENARIO_PROJECT' => 'Gestió de projectes',
 
-    'LBL_SCENARIO_SALES_DESCRIPTION' => 'Aquesta situació facilita la gestió de vendes d\'elements',
-    'LBL_SCENARIO_MAKETING_DESCRIPTION' => 'Aquesta situació facilita la gestió d\'elements de màrqueting',
-    'LBL_SCENARIO_FINANCE_DESCRIPTION' => 'Aquesta situació facilita la gestió d\'elements relacionats de Finances ',
-    'LBL_SCENARIO_SERVICE_DESCRIPTION' => 'Aquesta situació facilita la gestió del servei d\'elements relacionats',
+    'LBL_SCENARIO_SALES_DESCRIPTION' => 'Aquesta situació facilita la gestió de vendes d’elements',
+    'LBL_SCENARIO_MAKETING_DESCRIPTION' => 'Aquesta situació facilita la gestió d’elements de màrqueting',
+    'LBL_SCENARIO_FINANCE_DESCRIPTION' => 'Aquesta situació facilita la gestió d’elements relacionats de Finances ',
+    'LBL_SCENARIO_SERVICE_DESCRIPTION' => 'Aquesta situació facilita la gestió del servei d’elements relacionats',
     'LBL_SCENARIO_PROJECT_DESCRIPTION' => 'Aquest escenari posa la gestió del projecte elements relacionats',
 
     'LBL_SYNC' => 'Sincronitzar',
@@ -1790,9 +1790,9 @@ $app_strings = array(
     'LBL_UNDELETE' => 'Restaurar',
     'LBL_UNSYNC' => 'Desincronitzar',
     'LBL_UPDATE' => 'Actualitzar',
-    'LBL_USER_LIST' => 'Llista d\'Usuaris',
+    'LBL_USER_LIST' => 'Llista d’Usuaris',
     'LBL_USERS' => 'Usuaris',
-    'LBL_VERIFY_EMAIL_ADDRESS' => 'Comprovant l\'entrada de correu electrònic actual...',
+    'LBL_VERIFY_EMAIL_ADDRESS' => 'Comprovant l’entrada de correu electrònic actual...',
     'LBL_VERIFY_PORTAL_NAME' => 'Comprovant el nom de portal actual...',
     'LBL_VIEW_IMAGE' => 'veure',
 
@@ -1819,29 +1819,29 @@ $app_strings = array(
     'LNK_LOAD_SIGNED' => 'Firmar',
     'LNK_LOAD_SIGNED_TOOLTIP' => 'Reemplaçar amb document firmat',
     'LNK_PRINT' => 'Imprimir',
-    'LNK_BACKTOTOP' => 'Tornar a l\'inici',
+    'LNK_BACKTOTOP' => 'Tornar a l’inici',
     'LNK_REMOVE' => 'Eliminar',
     'LNK_RESUME' => 'Continuar',
     'LNK_VIEW_CHANGE_LOG' => 'Veure Registre de Canvis',
 
-    'NTC_CLICK_BACK' => 'Si us plau, pressioni el botó anterior del navegador i corregeixi l\'error.',
+    'NTC_CLICK_BACK' => 'Si us plau, pressioni el botó anterior del navegador i corregeixi l’error.',
     'NTC_DATE_FORMAT' => '(aaaa-mm-dd)',
     'NTC_DELETE_CONFIRMATION_MULTIPLE' => 'Està segur que desitja eliminar els registres seleccionats?',
-    'NTC_TEMPLATE_IS_USED' => 'La plantilla s\'està utilitzant almenys en un registre de màrqueting per correu electrònic. Està segur que desitja eliminar-la?',
+    'NTC_TEMPLATE_IS_USED' => 'La plantilla s’està utilitzant almenys en un registre de màrqueting per correu electrònic. Està segur que desitja eliminar-la?',
     'NTC_TEMPLATES_IS_USED' => 'Les següents plantilles són utilitzades en registres de màrqueting per correu electrònic. Esteu segur que voleu suprimir-les?' . PHP_EOL,
     'NTC_DELETE_CONFIRMATION' => 'Està segur de que desitja eliminar el registre?',
     'NTC_DELETE_CONFIRMATION_NUM' => 'Està segur de que desitja eliminar el ',
     'NTC_UPDATE_CONFIRMATION_NUM' => 'Està segur de que desitja actualitzar el ',
     'NTC_DELETE_SELECTED_RECORDS' => ' registre(s) seleccionats?',
-    'NTC_LOGIN_MESSAGE' => 'Si us plau, introdueixi el seu nom d\'usuari i la clau de pas:',
+    'NTC_LOGIN_MESSAGE' => 'Si us plau, introdueixi el seu nom d’usuari i la clau de pas:',
     'NTC_NO_ITEMS_DISPLAY' => 'Cap',
     'NTC_REMOVE_CONFIRMATION' => 'Are you sure you want to remove this relationship? Only the relationship will be removed. The record will not be deleted.',
     'NTC_REQUIRED' => 'Indica un camp requerit',
     'NTC_TIME_FORMAT' => '(24:00)',
     'NTC_WELCOME' => 'Benvingut',
     'NTC_YEAR_FORMAT' => '(aaaa)',
-    'WARN_UNSAVED_CHANGES' => 'Està a punt d\'abandonar aquest registre sense desar els canvis que hagi pogut realitzar. Està segur que vol sortir d\'aquest registre?',
-    'ERROR_NO_RECORD' => 'Error en recuperar registre. Aquest registre ha de ser eliminat o pot ser que no estigui autoritzat per veure\'l.',
+    'WARN_UNSAVED_CHANGES' => 'Està a punt d’abandonar aquest registre sense desar els canvis que hagi pogut realitzar. Està segur que vol sortir d’aquest registre?',
+    'ERROR_NO_RECORD' => 'Error en recuperar registre. Aquest registre ha de ser eliminat o pot ser que no estigui autoritzat per veure’l.',
     'WARN_BROWSER_VERSION_WARNING' => '<b>Atenció:</b> La versió del seu navegador ja no és compatible o esteu utilitzant un navegador incompatible.<p></p>Es recomanen les següents versions de navegadors:<p></p><ul><li>Internet Explorer 10 (la vista de compatibilitat no és compatible)<li>Firefox 32.0<li>Safari 5.1<li>Chrome 37</ul>',
     'WARN_BROWSER_IE_COMPATIBILITY_MODE_WARNING' => '<b>Atenció:</b> El seu navegador està en mode vista compatible IE. Aquest mode no és compatible.',
     'ERROR_TYPE_NOT_VALID' => 'Error. Aquest tipus no es vàlid.',
@@ -1862,13 +1862,13 @@ $app_strings = array(
     'LBL_SAVED_VIEWS' => 'Visualitzacions desades',
     'LBL_PROCESSING_REQUEST' => 'Processant...',
     'LBL_REQUEST_PROCESSED' => 'Fet',
-    'LBL_AJAX_FAILURE' => 'Error d\'Ajax',
+    'LBL_AJAX_FAILURE' => 'Error d’Ajax',
     'LBL_MERGE_DUPLICATES' => 'Combinar Duplicats',
     'LBL_SAVED_FILTER_SHORTCUT' => 'Els meus Filtres',
     'LBL_SEARCH_POPULATE_ONLY' => 'Realitzar una cerca utilitzant el formulari de cerca anterior',
     'LBL_DETAILVIEW' => 'Vista de Detall',
     'LBL_LISTVIEW' => 'Vista de Llista',
-    'LBL_EDITVIEW' => 'Vista d\'Edició',
+    'LBL_EDITVIEW' => 'Vista d’Edició',
     'LBL_BILLING_STREET' => 'Carrer:',
     'LBL_SHIPPING_STREET' => 'Carrer:',
     'LBL_SEARCHFORM' => 'Formulari de cerca',
@@ -1889,12 +1889,12 @@ $app_strings = array(
     'MSG_JS_ALERT_MTG_REMINDER_CALL_MSG' => "\nCliqui Acceptar per veure aquesta trucada o cliqui Cancel·lar per tancar aquest missatge.",
     'MSG_JS_ALERT_MTG_REMINDER_MEETING_MSG' => "\nCliqui Acceptar per veure aquesta reunió o cliqui Cancel·lar per tancar aquest missatge.",
     'MSG_JS_ALERT_MTG_REMINDER_NO_EVENT_NAME' => 'Esdeveniment',
-    'MSG_JS_ALERT_MTG_REMINDER_NO_DESCRIPTION' => 'L\'esdeveniment no està establert.',
+    'MSG_JS_ALERT_MTG_REMINDER_NO_DESCRIPTION' => 'L’esdeveniment no està establert.',
     'MSG_JS_ALERT_MTG_REMINDER_NO_LOCATION' => 'La ubicació no està configurada.',
-    'MSG_JS_ALERT_MTG_REMINDER_NO_START_DATE' => 'La data d\'inici no està definida.',
-    'MSG_LIST_VIEW_NO_RESULTS_BASIC' => 'No s\'han trobat resultats.',
+    'MSG_JS_ALERT_MTG_REMINDER_NO_START_DATE' => 'La data d’inici no està definida.',
+    'MSG_LIST_VIEW_NO_RESULTS_BASIC' => 'No s’han trobat resultats.',
     'MSG_LIST_VIEW_NO_RESULTS_CHANGE_CRITERIA' => 'No hi ha resultats... Vol canviar els seus criteris de cerca i torna a intentar-ho?',
-    'MSG_LIST_VIEW_NO_RESULTS' => 'No s\'han trobat resultats per <item1>',
+    'MSG_LIST_VIEW_NO_RESULTS' => 'No s’han trobat resultats per <item1>',
     'MSG_LIST_VIEW_NO_RESULTS_SUBMSG' => 'Crear <item1> com a nou <item2>',
     'MSG_LIST_VIEW_CHANGE_SEARCH' => 'o canviar els seus criteris de cerca',
     'MSG_EMPTY_LIST_VIEW_NO_RESULTS' => 'Actualment no té registres desats. <item2> o <item3> ara.',
@@ -1924,16 +1924,16 @@ $app_strings = array(
     'LBL_RESET_ALL_LEAD_FIELDS' => 'Restablir tots els camps',
     'LBL_REMOVE_ALL_LEAD_FIELDS' => 'Borrar Tots els Camps',
     'LBL_NEXT_BTN' => 'Següent',
-    'LBL_ONLY_IMAGE_ATTACHMENT' => 'Només pot incloure\'s un adjunt de tipus imatge',
+    'LBL_ONLY_IMAGE_ATTACHMENT' => 'Només pot incloure’s un adjunt de tipus imatge',
     'LBL_TRAINING' => 'Fòrum de suport',
     'ERR_MSSQL_DB_CONTEXT' => 'Canviat el context de base de dades a',
     'ERR_MSSQL_WARNING' => 'Advertència:',
 
     //Meta-Data framework
-    'ERR_CANNOT_CREATE_METADATA_FILE' => 'Error: No existeix l\'arxiu [[file]].  No s\'ha pogut crear perquè l\'arxiu amb el HTML corresponent no ha estat trobat.',
+    'ERR_CANNOT_CREATE_METADATA_FILE' => 'Error: No existeix l’arxiu [[file]].  No s’ha pogut crear perquè l’arxiu amb el HTML corresponent no ha estat trobat.',
     'ERR_CANNOT_FIND_MODULE' => 'Error: El mòdul [module] no existeix.',
     'LBL_ALT_ADDRESS' => 'Una altra Direcció:',
-    'ERR_SMARTY_UNEQUAL_RELATED_FIELD_PARAMETERS' => 'Error: Hi ha un nombre d\'arguments desigual per als elements \'key\' i \'copy\' en el array displayParams.',
+    'ERR_SMARTY_UNEQUAL_RELATED_FIELD_PARAMETERS' => 'Error: Hi ha un nombre d’arguments desigual per als elements ’key’ i ’copy’ en el array displayParams.',
 
     /* MySugar Framework (for Home and Dashboard) */
     'LBL_DASHLET_CONFIGURE_GENERAL' => 'General',
@@ -1974,29 +1974,29 @@ $app_strings = array(
     'LBL_MODULE' => 'Mòdul',
 
     //adding a label for address copy from left
-    'LBL_COPY_ADDRESS_FROM_LEFT' => 'Copiar direcció de l\'esquerra:',
+    'LBL_COPY_ADDRESS_FROM_LEFT' => 'Copiar direcció de l’esquerra:',
     'LBL_SAVE_AND_CONTINUE' => 'Desar i Continuar',
 
-    'LBL_SEARCH_HELP_TEXT' => '<p><br /><strong>Controls Multiselecció</strong></p><ul><li>Faci clic en els valors per seleccionar un atribut.</li><li>Ctrl-clic&nbsp;per a&nbsp;seleccionar múltiples. Els usuaris de Mac fan servir CMD-clic.</li><li>Per seleccionar tots els valors entre dos atributs,&nbsp; faci clic en el primer valor&nbsp;i després shift-clic en l\'últim.</li></ul><p><strong>Recerca Avançada i Opcions de Presentació</strong><br><br>Usant l\'opció <b>Recerques Guardades i Presentació</b>, pot guardar un conujunt de criteris de recerca i/o un diseny de Vista en Llista per ràpidament obtenir els resultats de recerca desitjats en un futur. Pot guardar un número il·limitat de recerques i disenys. Totes les recerques guardades apareixen amb el seu nom en la llista de Recerques Guardades, amb l\'última recerca guardada en la part superior de la llista.<br><br>Per personalitzar el disseny de Vista en Llista, utilitzi els quadres d\'Ocultar Columnes i Mostrar Columnes per seleccionar els camps a mostrar en els resultats de la cerca. Per exemple, pot veure o ocultar detalls com el nom del registre, l\'usuari assignat i l\'equip assignat en els resultats de la cerca. Per agregar una columna a la Vista en Llista, seleccioni el camp de la llista Ocultar Columnes i utilitzi la fletxa esquerra per moure\'l a la llista de Mostrar Columnes. Per eliminar una columna de la Vista en Llista, la seleccioni de la llista Mostrar Columnes i utilitzi la fletxa dreta per moure-la a la llista Ocultar Columnes.<br><br>Si guarda la configuració de disseny, podrà carregar-la en qualsevol moment per veure els resultats de la cerca amb la presentació personalitzada.<br><br>Per guardar i actualitzar una recerca i/o disseny:<ol><li>Introdueixi un nom per als resultats de recerca en el camp <b>Guardar aquesta recerca com a</b> i faci clic a <b>Guardar</b>.Després d\'això, el nom es mostrarà en la llista de Recerques Guardades al costat del botó <b>Netejar</b>.</li><li>Per veure una recerca guardada, seleccioni-la de la llista de Recerques Guardades. Els resultats de recerca es mostraran en la Llista de Vista.</li><li>Per actualitzar les propietats d\'una recerca guardada, seleccioni la recerca guardada de la llista, introdueixi els nous criteris de recerca i/o les opcions de disseny en l\'àrea de Recerca Avançada, i faci clic a<b>Actualitzar</b> al costat de <b>Modificar Recerca Actual</b>.</li><li>Per esborrar una recerca guardada, seleccioni-la en la llista de Recerques Guardades, faci clic a <b>Esborrar</b> al costat de <b>Modificar Recerca Actual</b>, i faci clic a <b>Acceptar</b> per confirmar l\'esborrament.</li></ol><p><strong>Consells</strong><br><br>Utilitzant % a com a comodí pot fer la seva cerca més àmplia. Per exemple, en comptes de cercar únicament resultats iguals a "Pomes", pot canviar la cerca per "Pomes%" i es retornaran tots els resultats que començen per Pomes però contenen altres caràcters.</p>',
+    'LBL_SEARCH_HELP_TEXT' => '<p><br /><strong>Controls Multiselecció</strong></p><ul><li>Faci clic en els valors per seleccionar un atribut.</li><li>Ctrl-clic&nbsp;per a&nbsp;seleccionar múltiples. Els usuaris de Mac fan servir CMD-clic.</li><li>Per seleccionar tots els valors entre dos atributs,&nbsp; faci clic en el primer valor&nbsp;i després shift-clic en l’últim.</li></ul><p><strong>Recerca Avançada i Opcions de Presentació</strong><br><br>Usant l’opció <b>Recerques Guardades i Presentació</b>, pot guardar un conujunt de criteris de recerca i/o un diseny de Vista en Llista per ràpidament obtenir els resultats de recerca desitjats en un futur. Pot guardar un número il·limitat de recerques i disenys. Totes les recerques guardades apareixen amb el seu nom en la llista de Recerques Guardades, amb l’última recerca guardada en la part superior de la llista.<br><br>Per personalitzar el disseny de Vista en Llista, utilitzi els quadres d’Ocultar Columnes i Mostrar Columnes per seleccionar els camps a mostrar en els resultats de la cerca. Per exemple, pot veure o ocultar detalls com el nom del registre, l’usuari assignat i l’equip assignat en els resultats de la cerca. Per agregar una columna a la Vista en Llista, seleccioni el camp de la llista Ocultar Columnes i utilitzi la fletxa esquerra per moure’l a la llista de Mostrar Columnes. Per eliminar una columna de la Vista en Llista, la seleccioni de la llista Mostrar Columnes i utilitzi la fletxa dreta per moure-la a la llista Ocultar Columnes.<br><br>Si guarda la configuració de disseny, podrà carregar-la en qualsevol moment per veure els resultats de la cerca amb la presentació personalitzada.<br><br>Per guardar i actualitzar una recerca i/o disseny:<ol><li>Introdueixi un nom per als resultats de recerca en el camp <b>Guardar aquesta recerca com a</b> i faci clic a <b>Guardar</b>.Després d’això, el nom es mostrarà en la llista de Recerques Guardades al costat del botó <b>Netejar</b>.</li><li>Per veure una recerca guardada, seleccioni-la de la llista de Recerques Guardades. Els resultats de recerca es mostraran en la Llista de Vista.</li><li>Per actualitzar les propietats d’una recerca guardada, seleccioni la recerca guardada de la llista, introdueixi els nous criteris de recerca i/o les opcions de disseny en l’àrea de Recerca Avançada, i faci clic a<b>Actualitzar</b> al costat de <b>Modificar Recerca Actual</b>.</li><li>Per esborrar una recerca guardada, seleccioni-la en la llista de Recerques Guardades, faci clic a <b>Esborrar</b> al costat de <b>Modificar Recerca Actual</b>, i faci clic a <b>Acceptar</b> per confirmar l’esborrament.</li></ol><p><strong>Consells</strong><br><br>Utilitzant % a com a comodí pot fer la seva cerca més àmplia. Per exemple, en comptes de cercar únicament resultats iguals a "Pomes", pot canviar la cerca per "Pomes%" i es retornaran tots els resultats que començen per Pomes però contenen altres caràcters.</p>',
 
     //resource management
-    'ERR_QUERY_LIMIT' => 'Error: S\'ha assolit el límit $limit de consultes per el mòdul $module.',
+    'ERR_QUERY_LIMIT' => 'Error: S’ha assolit el límit $limit de consultes per el mòdul $module.',
     'ERROR_NOTIFY_OVERRIDE' => 'Error: Es te que sobreescribir ResourceObserver->notify().',
 
     //tracker labels
-    'ERR_MONITOR_FILE_MISSING' => 'Error: No s\'ha pogut crear un monitor perquè l\'arxiu de metadades està buit o no existeix.',
+    'ERR_MONITOR_FILE_MISSING' => 'Error: No s’ha pogut crear un monitor perquè l’arxiu de metadades està buit o no existeix.',
     'ERR_MONITOR_NOT_CONFIGURED' => 'Error: No hi ha cap monitor configurat per el nom solicitat',
-    'ERR_UNDEFINED_METRIC' => 'Error: No s\'ha pogut establir un valor per una mètrica no definida',
-    'ERR_STORE_FILE_MISSING' => 'Error: No s\'ha pogut trobar l\'arxiu d\'implementació d\'Emmagatzemament',
+    'ERR_UNDEFINED_METRIC' => 'Error: No s’ha pogut establir un valor per una mètrica no definida',
+    'ERR_STORE_FILE_MISSING' => 'Error: No s’ha pogut trobar l’arxiu d’implementació d’Emmagatzemament',
 
     'LBL_MONITOR_ID' => 'Id de Monitor',
-    'LBL_USER_ID' => 'Id d\'Usuari',
+    'LBL_USER_ID' => 'Id d’Usuari',
     'LBL_MODULE_NAME' => 'Nom de Mòdul',
-    'LBL_ITEM_ID' => 'Id d\'Element',
-    'LBL_ITEM_SUMMARY' => 'Resumen d\'Element',
+    'LBL_ITEM_ID' => 'Id d’Element',
+    'LBL_ITEM_SUMMARY' => 'Resumen d’Element',
     'LBL_ACTION' => 'Acció',
     'LBL_SESSION_ID' => 'Id de Sessió',
-    'LBL_BREADCRUMBSTACK_CREATED' => 'Pluja d\'idees creada per l\'usuari {0}',
+    'LBL_BREADCRUMBSTACK_CREATED' => 'Pluja d’idees creada per l’usuari {0}',
     'LBL_VISIBLE' => 'Registre Visible',
     'LBL_DATE_LAST_ACTION' => 'Data de la Última Acció',
 
@@ -2010,20 +2010,20 @@ $app_strings = array(
     'LBL_LIST' => 'Llista',
     'LBL_CREATE_BUG' => 'Nova Incidència',
 
-    'LBL_OBJECT_IMAGE' => 'imatge d\'objecte',
+    'LBL_OBJECT_IMAGE' => 'imatge d’objecte',
     //jchi #12300
     'LBL_MASSUPDATE_DATE' => 'Seleccioni Data',
 
     'LBL_VALIDATE_RANGE' => 'no està dins del rang vàlid',
-    'LBL_CHOOSE_START_AND_END_DATES' => 'Si us plau, triï una data d\'inici i de finalització',
-    'LBL_CHOOSE_START_AND_END_ENTRIES' => 'Si us plau, triï un període d\'inici i de finalització',
+    'LBL_CHOOSE_START_AND_END_DATES' => 'Si us plau, triï una data d’inici i de finalització',
+    'LBL_CHOOSE_START_AND_END_ENTRIES' => 'Si us plau, triï un període d’inici i de finalització',
 
     //jchi #  20776
     'LBL_DROPDOWN_LIST_ALL' => 'Tot',
 
     //Connector
-    'ERR_CONNECTOR_FILL_BEANS_SIZE_MISMATCH' => 'Error: El número d\'Arrays del paràmetre bean no coincideix amb el número d\'Arrays dels resultats.',
-    'ERR_MISSING_MAPPING_ENTRY_FORM_MODULE' => 'Error: Falta l\'entrada de mapeig per el mòdul.',
+    'ERR_CONNECTOR_FILL_BEANS_SIZE_MISMATCH' => 'Error: El número d’Arrays del paràmetre bean no coincideix amb el número d’Arrays dels resultats.',
+    'ERR_MISSING_MAPPING_ENTRY_FORM_MODULE' => 'Error: Falta l’entrada de mapeig per el mòdul.',
     'ERROR_UNABLE_TO_RETRIEVE_DATA' => 'Error: No ha estat possible obtenir les dades per el connector.',
 
     // fastcgi checks
@@ -2049,7 +2049,7 @@ $app_strings = array(
     'LBL_FIRST_DAY_OF_NEXT_MONTH' => 'el primer dia del mes vinent',
     'LBL_THREE_MONTHS' => 'tres mesos',
     'LBL_SIXMONTHS' => 'sis mesos',
-    'LBL_NEXT_YEAR' => 'l\'any següent',
+    'LBL_NEXT_YEAR' => 'l’any següent',
 
     //Datetimecombo fields
     'LBL_HOURS' => 'Hores',
@@ -2082,7 +2082,7 @@ $app_strings = array(
 
     //IMPORT SAMPLE TEXT
     'LBL_IMPORT_SAMPLE_FILE_TEXT' => '
-"Aquest és un fitxer d\'importació d\'exemple que proporciona un exemple dels continguts que s\'esperava d\'un arxiu que està a punt per a la importació". "L\'arxiu és un fitxer CSV delimitat per comes, utilitzant cometes com el qualificador de camp". "La fila de capçalera és la fila més superior a l\'arxiu i conté les etiquetes de camp com vols veure-los en l\'aplicació". "Aquestes etiquetes s\'utilitzen per assignar les dades a l\'arxiu als camps en l\'aplicació." "Notes: els noms de la base de dades també podria ser utilitzat en la fila de capçalera. Això és útil quan està utilitzant phpMyAdmin o una altra eina de base de dades per proporcionar una llista de dades per importar exportat." "L\'ordre de columna no és crítica en el procés d\'importació coincideix amb les dades en els camps apropiats basats en la fila de capçalera". "Per utilitzar aquest fitxer com a plantilla, feu el següent:" "1. eliminar les files Mostra de dades" "2. Treure el text d\'ajuda que estàs llegint ara mateix""3. Aportació de les seves dades en el corresponents files i columnes""4. Salvi l\'arxiu a un lloc conegut en el seu sistema""5. Feu clic a l\'opció importa del menú accions en l\'aplicació i seleccioneu el fitxer per carregar"   ',
+"Aquest és un fitxer d’importació d’exemple que proporciona un exemple dels continguts que s’esperava d’un arxiu que està a punt per a la importació". "L’arxiu és un fitxer CSV delimitat per comes, utilitzant cometes com el qualificador de camp". "La fila de capçalera és la fila més superior a l’arxiu i conté les etiquetes de camp com vols veure-los en l’aplicació". "Aquestes etiquetes s’utilitzen per assignar les dades a l’arxiu als camps en l’aplicació." "Notes: els noms de la base de dades també podria ser utilitzat en la fila de capçalera. Això és útil quan està utilitzant phpMyAdmin o una altra eina de base de dades per proporcionar una llista de dades per importar exportat." "L’ordre de columna no és crítica en el procés d’importació coincideix amb les dades en els camps apropiats basats en la fila de capçalera". "Per utilitzar aquest fitxer com a plantilla, feu el següent:" "1. eliminar les files Mostra de dades" "2. Treure el text d’ajuda que estàs llegint ara mateix""3. Aportació de les seves dades en el corresponents files i columnes""4. Salvi l’arxiu a un lloc conegut en el seu sistema""5. Feu clic a l’opció importa del menú accions en l’aplicació i seleccioneu el fitxer per carregar"   ',
     //define labels to be used for overriding local values during import/export
 
     'LBL_NOTIFICATIONS_NONE' => 'No hi ha notificacions actuals',
@@ -2091,26 +2091,26 @@ $app_strings = array(
     'LBL_ALT_SORT' => 'Ordenar',
     'LBL_ALT_SHOW_OPTIONS' => 'Mostra les opcions',
     'LBL_ALT_HIDE_OPTIONS' => 'Oculta les opcions',
-    'LBL_ALT_MOVE_COLUMN_LEFT' => 'Mou l\'entrada seleccionada a la llista de l\'esquerra',
-    'LBL_ALT_MOVE_COLUMN_RIGHT' => 'Mou l\'entrada seleccionada a la llista de la dreta',
-    'LBL_ALT_MOVE_COLUMN_UP' => 'Moure selecció cap amunt en l\'ordre de la llista',
-    'LBL_ALT_MOVE_COLUMN_DOWN' => 'Moure selecció cap avall en l\'ordre de la llista',
+    'LBL_ALT_MOVE_COLUMN_LEFT' => 'Mou l’entrada seleccionada a la llista de l’esquerra',
+    'LBL_ALT_MOVE_COLUMN_RIGHT' => 'Mou l’entrada seleccionada a la llista de la dreta',
+    'LBL_ALT_MOVE_COLUMN_UP' => 'Moure selecció cap amunt en l’ordre de la llista',
+    'LBL_ALT_MOVE_COLUMN_DOWN' => 'Moure selecció cap avall en l’ordre de la llista',
     'LBL_ALT_INFO' => 'Informació',
-    'MSG_DUPLICATE' => 'El registre {0} que està a punt de crear pot ser un duplicat d\'un registre {0} que ja existeix. Els {1} registres que contenen noms similars es mostren a continuació.<br />Faci clic a Crear {1} per a continuar amb la creació d\'aquest nou {0}, o seleccioni un {0} existent de la següent llista.',
-    'MSG_SHOW_DUPLICATES' => 'El registre {0} que està a punt de crear pot ser un duplicat d\'un registre {0} que ja existeix. Els {1} registres que contenen noms similars es mostren a continuació. Faci clic a Desar per a continuar amb la creació d\'aquest nou {0}, o faci clic a Cancel·lar per a tornar al mòdul sense crear {0}.',
+    'MSG_DUPLICATE' => 'El registre {0} que està a punt de crear pot ser un duplicat d’un registre {0} que ja existeix. Els {1} registres que contenen noms similars es mostren a continuació.<br />Faci clic a Crear {1} per a continuar amb la creació d’aquest nou {0}, o seleccioni un {0} existent de la següent llista.',
+    'MSG_SHOW_DUPLICATES' => 'El registre {0} que està a punt de crear pot ser un duplicat d’un registre {0} que ja existeix. Els {1} registres que contenen noms similars es mostren a continuació. Faci clic a Desar per a continuar amb la creació d’aquest nou {0}, o faci clic a Cancel·lar per a tornar al mòdul sense crear {0}.',
     'LBL_EMAIL_TITLE' => 'direcció de correu electrònic',
     'LBL_EMAIL_OPT_TITLE' => 'direcció de correu electrònic rebutjada',
     'LBL_EMAIL_INV_TITLE' => 'direcció de correu electrònic invàlida',
-    'LBL_EMAIL_PRIM_TITLE' => 'Fer l\'adreça electrònica principal',
+    'LBL_EMAIL_PRIM_TITLE' => 'Fer l’adreça electrònica principal',
     'LBL_SELECT_ALL_TITLE' => 'Seleccionar tot',
     'LBL_SELECT_THIS_ROW_TITLE' => 'Seleccionar aquesta fila',
 
     //for upload errors
-    'UPLOAD_ERROR_TEXT' => 'ERROR: S\'ha produït un error durant la pujada. Codi d\'error: {0} - {1}',
-    'UPLOAD_ERROR_TEXT_SIZEINFO' => 'ERROR: S\'ha produït un error durant la pujada. Codi d\'error: {0} - {1}. La mida màxima de pujada és {2}',
-    'UPLOAD_ERROR_HOME_TEXT' => 'ERROR: S\'ha produït un error durant la pujada, si us plau, contacti amb el seu administrador per obtenir ajuda.',
+    'UPLOAD_ERROR_TEXT' => 'ERROR: S’ha produït un error durant la pujada. Codi d’error: {0} - {1}',
+    'UPLOAD_ERROR_TEXT_SIZEINFO' => 'ERROR: S’ha produït un error durant la pujada. Codi d’error: {0} - {1}. La mida màxima de pujada és {2}',
+    'UPLOAD_ERROR_HOME_TEXT' => 'ERROR: S’ha produït un error durant la pujada, si us plau, contacti amb el seu administrador per obtenir ajuda.',
     'UPLOAD_MAXIMUM_EXCEEDED' => 'La mida de la pujada ({0} bytes) excedeix la mida màxima permesa: {1} bytes',
-    'UPLOAD_REQUEST_ERROR' => 'S\'ha produït un error. Si us plau, recargui la pàgina i torni-ho a provar.',
+    'UPLOAD_REQUEST_ERROR' => 'S’ha produït un error. Si us plau, recargui la pàgina i torni-ho a provar.',
 
     //508 used Access Keys
     'LBL_EDIT_BUTTON_KEY' => 'i',
@@ -2165,7 +2165,7 @@ $app_strings = array(
 
     'LBL_CATEGORY' => 'Categoría',
     'LBL_LIST_CATEGORY' => 'Categoría',
-    'ERR_FACTOR_TPL_INVALID' => 'Missatge de factor d\'autenticació no és vàlid, contacteu amb l\'administrador.',
+    'ERR_FACTOR_TPL_INVALID' => 'Missatge de factor d’autenticació no és vàlid, contacteu amb l’administrador.',
     'LBL_SUBTHEMES' => 'Estil',
     'LBL_SUBTHEME_OPTIONS_DAWN' => 'Alba',
     'LBL_SUBTHEME_OPTIONS_DAY' => 'Dia',
@@ -2176,36 +2176,36 @@ $app_strings = array(
     'LBL_CONFIRM_DISREGARD_DRAFT_TITLE' => 'Descartar el esborrany',
     'LBL_CONFIRM_DISREGARD_DRAFT_BODY' => 'Amb aquesta operació se suprimirà aquest missatge, voleu continuar?',
     'LBL_CONFIRM_DISREGARD_EMAIL_TITLE' => 'Sortir del diàleg del compositor',
-    'LBL_CONFIRM_DISREGARD_EMAIL_BODY' => 'Sortint del diàleg del compositor tota l\'informació entrada es perdrà, segur que vols continuar sortint?',
+    'LBL_CONFIRM_DISREGARD_EMAIL_BODY' => 'Sortint del diàleg del compositor tota l’informació entrada es perdrà, segur que vols continuar sortint?',
     'LBL_CONFIRM_APPLY_EMAIL_TEMPLATE_TITLE' => 'Aplicar una plantilla de missatge',
     'LBL_CONFIRM_APPLY_EMAIL_TEMPLATE_BODY' => 'Aquesta operació esborrarà el camp cos del missatge, ¿vol continuar?',
 
     'LBL_CONFIRM_OPT_IN_TITLE' => 'Confirmat Autoritzat a enviar',
     'LBL_OPT_IN_TITLE' => 'Autoritzat a enviar',
     'LBL_CONFIRM_OPT_IN_DATE' => 'Confirmat Autoritzat a enviar en data',
-    'LBL_CONFIRM_OPT_IN_SENT_DATE' => 'Confirmat Autoritzat a enviar en data d\'enviament',
+    'LBL_CONFIRM_OPT_IN_SENT_DATE' => 'Confirmat Autoritzat a enviar en data d’enviament',
     'LBL_CONFIRM_OPT_IN_FAIL_DATE' => 'Confirmat Autoritzat per enviar en data errònia',
     'LBL_CONFIRM_OPT_IN_TOKEN' => 'Confirmar Autoritzat a enviar al Token',
-    'ERR_OPT_IN_TPL_NOT_SET' => 'La plantilla d\'email per Autoritzat a enviar no està configurada. Si us plau configureu a la configuració del correu electrònic.',
-    'ERR_OPT_IN_RELATION_INCORRECT' => 'Autoritzar a enviar requereix l\'e-mail a compte/contacte/Potencial/Objectiu',
+    'ERR_OPT_IN_TPL_NOT_SET' => 'La plantilla d’email per Autoritzat a enviar no està configurada. Si us plau configureu a la configuració del correu electrònic.',
+    'ERR_OPT_IN_RELATION_INCORRECT' => 'Autoritzar a enviar requereix l’e-mail a compte/contacte/Potencial/Objectiu',
 
     'LBL_SECURITYGROUP_NONINHERITABLE' => 'Grup no inheretable',
     'LBL_PRIMARY_GROUP' => "Grup principal",
 
     // footer
-    'LBL_SUITE_TOP' => 'Tornar a l\'inici',
+    'LBL_SUITE_TOP' => 'Tornar a l’inici',
     'LBL_SUITE_SUPERCHARGED' => 'Sobrealimentats per SuiteCRM',
     'LBL_SUITE_POWERED_BY' => 'Desenvolupat per SugarCRM',
     'LBL_SUITE_DESC1' => 'SuiteCRM ha estat escrit i ensamblat per <a href="https://salesagility.com"> SalesAgility</a>. El programa es subministra TAL QUAL ES, sense garantia. Sota llicència AGPLv3.',
     'LBL_SUITE_DESC2' => 'Aquest programa és programari lliure; por distribuir-lo i/o modificar-lo solar els termes de la GNU Affero General Public License versió 3 publicada per la Freeman Software Foundation, incloent el permiís addicional a la capçalera del codi font.',
-    'LBL_SUITE_DESC3' => 'SuiteCRM és una marca registrada de SalesAgility Ltd. Tots els noms d\'altres empreses i productes poden ser marques registrades de les respectives empreses amb les que s\'associen.',
+    'LBL_SUITE_DESC3' => 'SuiteCRM és una marca registrada de SalesAgility Ltd. Tots els noms d’altres empreses i productes poden ser marques registrades de les respectives empreses amb les que s’associen.',
     'LBL_GENERATE_PASSWORD_BUTTON_TITLE' => 'Restablir contrasenya',
-    'LBL_SEND_CONFIRM_OPT_IN_EMAIL' => 'Enviar confirmació Autoritzat a enviar a l\'E-mail',
+    'LBL_SEND_CONFIRM_OPT_IN_EMAIL' => 'Enviar confirmació Autoritzat a enviar a l’E-mail',
     'LBL_CONFIRM_OPT_IN_ONLY_FOR_PERSON' => 'Confirmar Autoritzat a enviar per enviament de correu electrònic només per a comptes/contactes/Potencials/Prospectes',
-    'LBL_CONFIRM_OPT_IN_IS_DISABLED' => 'Confirmar Autoritzat a enviar per enviament de correu electrònic està inhabilitada, permetre confirmar Autoritzat a enviar opció en configuració d\'E-mail o contactar amb l\'administrador.',
-    'LBL_CONTACT_HAS_NO_PRIMARY_EMAIL' => 'Confirmar l\'enviament de Autoritzat a enviar a E-mail no és possible perquè el contacte ha adreça E-mail no principal',
-    'LBL_CONFIRM_EMAIL_SENDING_FAILED' => 'Confirmar Autoritzat a enviar E-mail d\'enviament ha fallat',
-    'LBL_CONFIRM_EMAIL_SENT' => 'Confirmació d\'Autoritzat a enviar l\'E-mail enviat amb èxit',
+    'LBL_CONFIRM_OPT_IN_IS_DISABLED' => 'Confirmar Autoritzat a enviar per enviament de correu electrònic està inhabilitada, permetre confirmar Autoritzat a enviar opció en configuració d’E-mail o contactar amb l’administrador.',
+    'LBL_CONTACT_HAS_NO_PRIMARY_EMAIL' => 'Confirmar l’enviament de Autoritzat a enviar a E-mail no és possible perquè el contacte ha adreça E-mail no principal',
+    'LBL_CONFIRM_EMAIL_SENDING_FAILED' => 'Confirmar Autoritzat a enviar E-mail d’enviament ha fallat',
+    'LBL_CONFIRM_EMAIL_SENT' => 'Confirmació d’Autoritzat a enviar l’E-mail enviat amb èxit',
 );
 
 $app_list_strings['moduleList']['Library'] = 'Biblioteca';
@@ -2223,7 +2223,7 @@ $app_list_strings['lawful_basis_dom'] = array(
     'consent' => 'Consentiment',
     'contract' => 'Contracte',
     'legal_obligation' => 'Obligació legal',
-    'protection_of_interest' => 'Protecció d\'interès',
+    'protection_of_interest' => 'Protecció d’interès',
     'public_interest' => 'Interès públic',
     'legitimate_interest' => 'Interès legítim',
     'withdrawn' => 'Retirat',
@@ -2235,7 +2235,7 @@ $app_list_strings['lawful_basis_source_dom'] = array(
     '' => '',
     'website' => 'Lloc Web',
     'phone' => 'Telèfon',
-    'given_to_user' => 'Donat a l\'usuari',
+    'given_to_user' => 'Donat a l’usuari',
     'email' => 'Correu electrònic',
     'third_party' => 'Tercers',
 );
@@ -2314,7 +2314,7 @@ $app_list_strings['countries_dom'] = array(
     'DOMINICA' => 'DOMINICA',
     'DOMINICAN REPUBLIC' => 'REPÚBLICA DOMINICANA',
     'DUBAI' => 'DUBAI',
-    'ECUADOR' => 'L\'EQUADOR',
+    'ECUADOR' => 'L’EQUADOR',
     'EGYPT' => 'EGYPT',
     'EL SALVADOR' => 'EL SALVADOR',
     'EQUATORIAL GUINEA' => 'EQUATORIAL GUINEA',
@@ -2462,7 +2462,7 @@ $app_list_strings['countries_dom'] = array(
     'UKRAINE' => 'UCRAÏNA',
     'UNITED ARAB EMIRATES' => 'UNIÓ DELS EMIRATS ÀRABS',
     'UNITED KINGDOM' => 'REGNE UNIT',
-    'URUGUAY' => 'L\'URUGUAI',
+    'URUGUAY' => 'L’URUGUAI',
     'US PACIFIC ISLAND' => 'ILLA DEL PACÍFIC',
     'US VIRGIN ISLANDS' => 'ILLES VERGES AMERICANES',
     'USA' => 'USA',
@@ -2571,16 +2571,16 @@ $app_list_strings['timezone_dom'] = array(
     'Africa/Kampala' => 'Àfrica/Kampala',
     'Africa/Lusaka' => 'Àfrica/Lusaka',
     'Africa/Harare' => 'Àfrica/Harare',
-    'Antarctica/Casey' => 'L\'Antàrtida/Casey',
-    'Antarctica/Davis' => 'L\'Antàrtida/Davis',
-    'Antarctica/Mawson' => 'L\'Antàrtida/Mawson',
+    'Antarctica/Casey' => 'L’Antàrtida/Casey',
+    'Antarctica/Davis' => 'L’Antàrtida/Davis',
+    'Antarctica/Mawson' => 'L’Antàrtida/Mawson',
     'Indian/Kerguelen' => 'Índia/Kerguelen',
-    'Antarctica/DumontDUrville' => 'L\'Antàrtida/DumontDUrville',
-    'Antarctica/Syowa' => 'L\'Antàrtida/Syowa',
-    'Antarctica/Vostok' => 'L\'Antàrtida/Vostok',
-    'Antarctica/Rothera' => 'L\'Antàrtida/Rothera',
-    'Antarctica/Palmer' => 'L\'Antàrtida/Palmer',
-    'Antarctica/McMurdo' => 'L\'Antàrtida/McMurdo',
+    'Antarctica/DumontDUrville' => 'L’Antàrtida/DumontDUrville',
+    'Antarctica/Syowa' => 'L’Antàrtida/Syowa',
+    'Antarctica/Vostok' => 'L’Antàrtida/Vostok',
+    'Antarctica/Rothera' => 'L’Antàrtida/Rothera',
+    'Antarctica/Palmer' => 'L’Antàrtida/Palmer',
+    'Antarctica/McMurdo' => 'L’Antàrtida/McMurdo',
     'Asia/Kabul' => 'Kabul/Àsia',
     'Asia/Yerevan' => 'Yerevan/Àsia',
     'Asia/Baku' => 'Baku/Àsia',
@@ -2955,7 +2955,7 @@ $app_list_strings['fp_event_status_dom']['Declined'] = 'Rebutjat';
 $app_list_strings['fp_event_status_dom']['No Response'] = 'Sense resposta';
 
 $app_strings['LBL_STATUS_EVENT'] = 'Estat de la Invitació';
-$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d\'acceptació';
+$app_strings['LBL_ACCEPT_STATUS'] = 'Estat d’acceptació';
 $app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Pàgina Actual';
 $app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Tots els Registres';
 $app_strings['LBL_LISTVIEW_NONE'] = 'Rés';
@@ -2984,14 +2984,14 @@ $app_list_strings['case_status_dom'] =
         'Open_New' => 'Nou',
         'Open_Assigned' => 'Assignat',
         'Closed_Closed' => 'Tancat',
-        'Open_Pending Input' => 'Pendent d\'Informació',
+        'Open_Pending Input' => 'Pendent d’Informació',
         'Closed_Rejected' => 'Refusat',
         'Closed_Duplicate' => 'Duplicat',
     );
 $app_list_strings['contact_portal_user_type_dom'] =
     array(
         'Single' => 'Usuari individual',
-        'Account' => 'Compta d\'usuari',
+        'Account' => 'Compta d’usuari',
     );
 $app_list_strings['dom_email_distribution_for_auto_create'] = array(
     'AOPDefault' => 'Utilitza el AOP predeterminat',
@@ -3003,9 +3003,9 @@ $app_list_strings['dom_email_distribution_for_auto_create'] = array(
 
 //aor
 $app_list_strings['moduleList']['AOR_Reports'] = 'Informes';
-$app_list_strings['moduleList']['AOR_Conditions'] = 'Condicions d\'Informe';
-$app_list_strings['moduleList']['AOR_Charts'] = 'Gràfics d\'Informe';
-$app_list_strings['moduleList']['AOR_Fields'] = 'Camps d\'Informes';
+$app_list_strings['moduleList']['AOR_Conditions'] = 'Condicions d’Informe';
+$app_list_strings['moduleList']['AOR_Charts'] = 'Gràfics d’Informe';
+$app_list_strings['moduleList']['AOR_Fields'] = 'Camps d’Informes';
 $app_list_strings['moduleList']['AOR_Scheduled_Reports'] = 'Informes programats';
 $app_list_strings['aor_operator_list']['Equal_To'] = 'Igual a';
 $app_list_strings['aor_operator_list']['Not_Equal_To'] = 'No igual a';
@@ -3089,7 +3089,7 @@ $app_list_strings['date_time_period_list']['this_month'] = 'Aquest Mes';
 $app_list_strings['date_time_period_list']['this_quarter'] = 'Aquest Trimestre';
 $app_list_strings['date_time_period_list']['last_quarter'] = 'Últim Trimestre';
 $app_list_strings['date_time_period_list']['this_year'] = 'Aquest any';
-$app_list_strings['date_time_period_list']['last_year'] = 'L\'any passat';
+$app_list_strings['date_time_period_list']['last_year'] = 'L’any passat';
 $app_strings['LBL_CRON_ON_THE_MONTHDAY'] = 'en el';
 $app_strings['LBL_CRON_ON_THE_WEEKDAY'] = 'en';
 $app_strings['LBL_CRON_AT'] = 'en';
@@ -3109,8 +3109,8 @@ $app_list_strings['moduleList']['AOS_Invoices'] = 'Factures';
 $app_list_strings['moduleList']['AOS_PDF_Templates'] = 'Plantilles PDF';
 $app_list_strings['moduleList']['AOS_Product_Categories'] = 'Categories de Productes';
 $app_list_strings['moduleList']['AOS_Products'] = 'Productes';
-$app_list_strings['moduleList']['AOS_Products_Quotes'] = 'Línies d\'articles';
-$app_list_strings['moduleList']['AOS_Line_Item_Groups'] = 'Grups de línies d\'articles ';
+$app_list_strings['moduleList']['AOS_Products_Quotes'] = 'Línies d’articles';
+$app_list_strings['moduleList']['AOS_Line_Item_Groups'] = 'Grups de línies d’articles ';
 $app_list_strings['moduleList']['AOS_Quotes'] = 'Pressupostos';
 $app_list_strings['aos_quotes_type_dom'][''] = '';
 $app_list_strings['aos_quotes_type_dom']['Analyst'] = 'Analista';
@@ -3185,7 +3185,7 @@ $app_list_strings['contract_status_list']['Signed'] = 'Firmat';
 $app_list_strings['contract_type_list']['Type'] = 'Tipus';
 $app_strings['LBL_PRINT_AS_PDF'] = 'Imprimir com a PDF';
 $app_strings['LBL_SELECT_TEMPLATE'] = 'Si us plau, seleccioni una plantilla';
-$app_strings['LBL_NO_TEMPLATE'] = 'ERROR\nNo s\'han trobat plantilles.\nSi us plau, vagi al mòdul de Plantilles PDF i creï una plantilla';
+$app_strings['LBL_NO_TEMPLATE'] = 'ERROR\nNo s’han trobat plantilles.\nSi us plau, vagi al mòdul de Plantilles PDF i creï una plantilla';
 
 //aow PR 5775
 $app_list_strings['moduleList']['AOW_WorkFlow'] = 'Flux de treball';
@@ -3280,7 +3280,7 @@ $app_strings['LBL_JJWG_MAPS_ADDRESS'] = 'Direcció';
 
 $app_list_strings['moduleList']['jjwg_Maps'] = 'Mapes';
 $app_list_strings['moduleList']['jjwg_Markers'] = 'Marcadors de Mapa';
-$app_list_strings['moduleList']['jjwg_Areas'] = 'Mapa d\'àrees';
+$app_list_strings['moduleList']['jjwg_Areas'] = 'Mapa d’àrees';
 $app_list_strings['moduleList']['jjwg_Address_Cache'] = 'Mapes - adreça memòria cau';
 
 $app_list_strings['moduleList']['jjwp_Partners'] = 'JJWP socis';
@@ -3332,7 +3332,7 @@ $app_list_strings['marker_image_list']['bus'] = 'Bus';
 $app_list_strings['marker_image_list']['cable_car'] = 'Telefèric';
 $app_list_strings['marker_image_list']['car'] = 'Cotxe';
 $app_list_strings['marker_image_list']['car_rental'] = 'Lloguer de cotxes';
-$app_list_strings['marker_image_list']['carrepair'] = 'Reparació d\'automòbils';
+$app_list_strings['marker_image_list']['carrepair'] = 'Reparació d’automòbils';
 $app_list_strings['marker_image_list']['castle'] = 'Castell';
 $app_list_strings['marker_image_list']['cathedral'] = 'Catedral';
 $app_list_strings['marker_image_list']['chapel'] = 'Capella';
@@ -3362,9 +3362,9 @@ $app_list_strings['marker_image_list']['disabled_parking'] = 'Aparcament per a d
 $app_list_strings['marker_image_list']['doctor'] = 'Doctor';
 $app_list_strings['marker_image_list']['dog_leash'] = 'Corretja de gossos';
 $app_list_strings['marker_image_list']['down'] = 'A baix';
-$app_list_strings['marker_image_list']['down_left'] = 'A baix a l\'esquerra';
+$app_list_strings['marker_image_list']['down_left'] = 'A baix a l’esquerra';
 $app_list_strings['marker_image_list']['down_right'] = 'A baix a la dreta';
-$app_list_strings['marker_image_list']['down_then_left'] = 'A baix i després a l\'esquerra';
+$app_list_strings['marker_image_list']['down_then_left'] = 'A baix i després a l’esquerra';
 $app_list_strings['marker_image_list']['down_then_right'] = 'A baix i després a la dreta';
 $app_list_strings['marker_image_list']['drugs'] = 'Drogues';
 $app_list_strings['marker_image_list']['elevator'] = 'Elevador';
@@ -3419,7 +3419,7 @@ $app_list_strings['marker_image_list']['mosque'] = 'Mesquita';
 $app_list_strings['marker_image_list']['motorcycle'] = 'Moto';
 $app_list_strings['marker_image_list']['museum'] = 'Museu';
 $app_list_strings['marker_image_list']['music_live'] = 'Música en directe';
-$app_list_strings['marker_image_list']['oil_pump_jack'] = 'Jack bomba d\'oli';
+$app_list_strings['marker_image_list']['oil_pump_jack'] = 'Jack bomba d’oli';
 $app_list_strings['marker_image_list']['pagoda'] = 'Pagoda';
 $app_list_strings['marker_image_list']['palace'] = 'Palau';
 $app_list_strings['marker_image_list']['panoramic'] = 'Panoràmica';
@@ -3435,8 +3435,8 @@ $app_list_strings['marker_image_list']['police'] = 'Policia';
 $app_list_strings['marker_image_list']['port'] = 'Port';
 $app_list_strings['marker_image_list']['postal'] = 'Postal';
 $app_list_strings['marker_image_list']['power_line_pole'] = 'Pal de línia elèctrica';
-$app_list_strings['marker_image_list']['power_plant'] = 'Planta d\'energia';
-$app_list_strings['marker_image_list']['power_substation'] = 'Subestació d\'energia';
+$app_list_strings['marker_image_list']['power_plant'] = 'Planta d’energia';
+$app_list_strings['marker_image_list']['power_substation'] = 'Subestació d’energia';
 $app_list_strings['marker_image_list']['public_art'] = 'Art públic';
 $app_list_strings['marker_image_list']['rain'] = 'Pluja';
 $app_list_strings['marker_image_list']['real_estate'] = 'Estat real';
@@ -3515,22 +3515,22 @@ $app_list_strings['marker_image_list']['tram'] = 'Tramvia';
 $app_list_strings['marker_image_list']['truck'] = 'Camió';
 $app_list_strings['marker_image_list']['tuesday'] = 'Dimarts';
 $app_list_strings['marker_image_list']['tunnel'] = 'Túnel';
-$app_list_strings['marker_image_list']['turn_left'] = 'Gir a l\'esquerra';
+$app_list_strings['marker_image_list']['turn_left'] = 'Gir a l’esquerra';
 $app_list_strings['marker_image_list']['turn_right'] = 'Gir a la dreta';
 $app_list_strings['marker_image_list']['university'] = 'Universitat';
 $app_list_strings['marker_image_list']['up'] = 'A dalt';
 $app_list_strings['marker_image_list']['up_left'] = 'A dalt a la esquerra';
 $app_list_strings['marker_image_list']['up_right'] = 'A dalt a la dreta';
-$app_list_strings['marker_image_list']['up_then_left'] = 'A dalt i després a l\'esquerra';
+$app_list_strings['marker_image_list']['up_then_left'] = 'A dalt i després a l’esquerra';
 $app_list_strings['marker_image_list']['up_then_right'] = 'A dalt i després a la dreta';
 $app_list_strings['marker_image_list']['vespa'] = 'Vespa';
 $app_list_strings['marker_image_list']['video'] = 'Vídeo';
 $app_list_strings['marker_image_list']['villa'] = 'Vila';
 $app_list_strings['marker_image_list']['water'] = 'Aigua';
 $app_list_strings['marker_image_list']['waterfall'] = 'Cascada';
-$app_list_strings['marker_image_list']['watermill'] = 'Molí d\'aigua';
+$app_list_strings['marker_image_list']['watermill'] = 'Molí d’aigua';
 $app_list_strings['marker_image_list']['waterpark'] = 'Parc aquàtic';
-$app_list_strings['marker_image_list']['watertower'] = 'Torre d\'aigua';
+$app_list_strings['marker_image_list']['watertower'] = 'Torre d’aigua';
 $app_list_strings['marker_image_list']['wednesday'] = 'Dimecres';
 $app_list_strings['marker_image_list']['wifi'] = 'WiFi';
 $app_list_strings['marker_image_list']['wind_turbine'] = 'Aerogenerador';
@@ -3542,7 +3542,7 @@ $app_list_strings['marker_image_list']['zoo'] = 'Zoològic';
 
 //Reschedule
 $app_list_strings['call_reschedule_dom'][''] = '';
-$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Fora d\'Oficina';
+$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Fora d’Oficina';
 $app_list_strings['call_reschedule_dom']['In a Meeting'] = 'A una reunió';
 
 $app_strings['LBL_RESCHEDULE_LABEL'] = 'Replanificar';
@@ -3553,14 +3553,14 @@ $app_strings['LBL_RESCHEDULE_ERROR1'] = 'Si us plau, seleccioni una data vàlida
 $app_strings['LBL_RESCHEDULE_ERROR2'] = 'Si us plau, seleccioni una raó';
 
 $app_strings['LBL_RESCHEDULE_PANEL'] = 'Replanificar';
-$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historial d\'intents de trucada';
+$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historial d’intents de trucada';
 $app_strings['LBL_RESCHEDULE_COUNT'] = 'Intents de trucada';
 
 //SecurityGroups
 $app_list_strings['moduleList']['SecurityGroups'] = 'Gestió de Suite de seguretat';
 $app_strings['LBL_SECURITYGROUP'] = 'Grup de Seguretat';
 
-$app_list_strings['moduleList']['OutboundEmailAccounts'] = 'Comptes d\'E-mail sortints';
+$app_list_strings['moduleList']['OutboundEmailAccounts'] = 'Comptes d’E-mail sortints';
 
 //social
 $app_strings['FACEBOOK_USER_C'] = 'Facebook';
@@ -3651,7 +3651,7 @@ $app_list_strings['run_when_dom']['Once True'] = 'Perpetu - (camp ha auditar)';
 $app_list_strings['sa_status_list']['Complete'] = 'Completa';
 $app_list_strings['sa_status_list']['In_Review'] = 'En Revisió';
 $app_list_strings['sa_status_list']['Issue_Resolution'] = 'Resolució del problema';
-$app_list_strings['sa_status_list']['Pending_Apttus_Submission'] = 'Registre d\'Apptus Pendent';
+$app_list_strings['sa_status_list']['Pending_Apttus_Submission'] = 'Registre d’Apptus Pendent';
 $app_list_strings['sharedGroupRule']['none'] = 'Sense Accés';
 $app_list_strings['sharedGroupRule']['view'] = 'Només visualització';
 $app_list_strings['sharedGroupRule']['view_edit'] = 'Veure i Editar';
@@ -3673,9 +3673,9 @@ $app_list_strings['aow_condition_type_list']['Multi'] = 'Un de';
 
 $app_list_strings['moduleList']['SurveyResponses'] = 'Respostes a enquestes';
 $app_list_strings['moduleList']['Surveys'] = 'Enquestes';
-$app_list_strings['moduleList']['SurveyQuestionResponses'] = 'Respostes a pregunta d\'enquesta';
-$app_list_strings['moduleList']['SurveyQuestions'] = 'Preguntes de l\'enquesta';
-$app_list_strings['moduleList']['SurveyQuestionOptions'] = 'Opcions de pregunta d\'enquesta';
+$app_list_strings['moduleList']['SurveyQuestionResponses'] = 'Respostes a pregunta d’enquesta';
+$app_list_strings['moduleList']['SurveyQuestions'] = 'Preguntes de l’enquesta';
+$app_list_strings['moduleList']['SurveyQuestionOptions'] = 'Opcions de pregunta d’enquesta';
 $app_list_strings['survey_status_list']['Draft'] = 'Borrador';
 $app_list_strings['survey_status_list']['Public'] = 'Públic';
 $app_list_strings['survey_status_list']['Closed'] = 'Tancat';
@@ -3695,7 +3695,7 @@ $app_list_strings['surveys_matrix_options'][1] = 'Ni satisfet ni insatisfet';
 $app_list_strings['surveys_matrix_options'][2] = 'Insatisfet';
 
 $app_strings['LBL_OPT_IN_PENDING_EMAIL_NOT_SENT'] = 'Pendent de confirmar Autoritzat a enviar, confirmar Autoritzat a enviar no enviat';
-$app_strings['LBL_OPT_IN_PENDING_EMAIL_FAILED'] = 'Confirmar Autoritzat a enviar a l\'e-mail d\'enviament ha fallat';
+$app_strings['LBL_OPT_IN_PENDING_EMAIL_FAILED'] = 'Confirmar Autoritzat a enviar a l’e-mail d’enviament ha fallat';
 $app_strings['LBL_OPT_IN_PENDING_EMAIL_SENT'] = 'Pendent de confirmar Autoritzat a enviar, confirmar Autoritzat a enviar per enviaments';
 $app_strings['LBL_OPT_IN'] = 'Autoritzat a enviar';
 $app_strings['LBL_OPT_IN_CONFIRMED'] = 'Autoritzat a enviar Confirmat';
@@ -3715,24 +3715,24 @@ $app_list_strings['email_confirmed_opt_in_dom'] = array(
     'confirmed-opt-in' => 'Confirmat Autoritzat a enviar'
 );
 
-$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL'] = 'El correu electrònic de confirmació per Autoritzat a enviar s\'ha afegit a la cua de correu electrònic d\'adreces d\'e-mail %s';
-$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL_NOT_OPT_IN'] = 'No es pot enviar correu electrònic a les adreces d\'e-mail de %s , perquè no estan Autoritzats a enviar. ';
-$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL_MISSING_EMAIL_ADDRESS_ID'] = 'L\'adreça de correu electrònic %s no té un id vàlid. ';
+$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL'] = 'El correu electrònic de confirmació per Autoritzat a enviar s’ha afegit a la cua de correu electrònic d’adreces d’e-mail %s';
+$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL_NOT_OPT_IN'] = 'No es pot enviar correu electrònic a les adreces d’e-mail de %s , perquè no estan Autoritzats a enviar. ';
+$app_strings['RESPONSE_SEND_CONFIRM_OPT_IN_EMAIL_MISSING_EMAIL_ADDRESS_ID'] = 'L’adreça de correu electrònic %s no té un id vàlid. ';
 
-$app_strings['ERR_TWO_FACTOR_FAILED'] = 'L\'Autenticació en dos passos ha fallat';
-$app_strings['ERR_TWO_FACTOR_CODE_SENT'] = 'S\'ha enviat el codi de l\'autenticació en dos passos.';
-$app_strings['ERR_TWO_FACTOR_CODE_FAILED'] = 'El codi d\'autenticació de Factor doble no s\'ha pogut per enviar.';
+$app_strings['ERR_TWO_FACTOR_FAILED'] = 'L’Autenticació en dos passos ha fallat';
+$app_strings['ERR_TWO_FACTOR_CODE_SENT'] = 'S’ha enviat el codi de l’autenticació en dos passos.';
+$app_strings['ERR_TWO_FACTOR_CODE_FAILED'] = 'El codi d’autenticació de Factor doble no s’ha pogut per enviar.';
 $app_strings['LBL_THANKS_FOR_SUBMITTING'] = 'Moltes gràcies per haver enviat una pregunta.';
 
 $app_strings['ERR_IP_CHANGE'] = 'La sessió va ser acabada per canvi significatiu de la seva adreça IP';
-$app_strings['ERR_RETURN'] = 'Tornar a l\'Inici';
+$app_strings['ERR_RETURN'] = 'Tornar a l’Inici';
 
 
 $app_list_strings['oauth2_grant_type_dom'] = array(
-    'password' => 'Clau d\'autorització',
+    'password' => 'Clau d’autorització',
     'client_credentials' => 'Credencials de client',
     'implicit' => 'Implícit',
-    'authorization_code' => 'Codi d\'autorització'
+    'authorization_code' => 'Codi d’autorització'
 );
 
 $app_list_strings['oauth2_duration_units'] = [
@@ -3749,30 +3749,30 @@ $app_list_strings['search_controllers'] = [
 ];
 
 
-$app_strings['LBL_DEFAULT_API_ERROR_TITLE'] = 'Error d\'API de JSON';
-$app_strings['LBL_DEFAULT_API_ERROR_DETAIL'] = 'S\'ha produït l\'Error d\'API de JSON.';
+$app_strings['LBL_DEFAULT_API_ERROR_TITLE'] = 'Error d’API de JSON';
+$app_strings['LBL_DEFAULT_API_ERROR_DETAIL'] = 'S’ha produït l’Error d’API de JSON.';
 $app_strings['LBL_API_EXCEPTION_DETAIL'] = 'Versió Api: 8';
 $app_strings['LBL_BAD_REQUEST_EXCEPTION_DETAIL'] = 'Assegureu-vos que omplir els camps obligatoris';
 $app_strings['LBL_EMPTY_BODY_EXCEPTION_DETAIL'] = 'JSON API espera el cos de la sol·licitud per ser JSON';
 $app_strings['LBL_INVALID_JSON_API_REQUEST_EXCEPTION_DETAIL'] = 'Incapaç de validar la petició càrrega Api Json';
-$app_strings['LBL_INVALID_JSON_API_RESPONSE_EXCEPTION_DETAIL'] = 'Incapaç de validar la resposta de càrrega d\'Api de Json';
+$app_strings['LBL_INVALID_JSON_API_RESPONSE_EXCEPTION_DETAIL'] = 'Incapaç de validar la resposta de càrrega d’Api de Json';
 $app_strings['LBL_MODULE_NOT_FOUND_EXCEPTION_DETAIL'] = 'JSON API no pot trobar recursos';
 $app_strings['LBL_NOT_ACCEPTABLE_EXCEPTION_DETAIL'] = 'JSON API espera la capçalera "Accepta" per ser application/vnd.api+json';
 $app_strings['LBL_UNSUPPORTED_MEDIA_TYPE_EXCEPTION_DETAIL'] = 'JSON API espera la capçalera "Content-Type" a application/vnd.api+json';
 
-$app_strings['MSG_BROWSER_NOTIFICATIONS_ENABLED'] = 'Notificacions d\'escriptori ara estan habilitades per a aquest navegador web.';
-$app_strings['MSG_BROWSER_NOTIFICATIONS_DISABLED'] = 'Escriptori notificacions estan inhabilitades per a aquest navegador web. Utilitzar les preferències per permetre\'ls una altra vegada.';
-$app_strings['MSG_BROWSER_NOTIFICATIONS_UNSUPPORTED'] = 'Aquest navegador no dóna suport notificacions d\'escriptori.';
+$app_strings['MSG_BROWSER_NOTIFICATIONS_ENABLED'] = 'Notificacions d’escriptori ara estan habilitades per a aquest navegador web.';
+$app_strings['MSG_BROWSER_NOTIFICATIONS_DISABLED'] = 'Escriptori notificacions estan inhabilitades per a aquest navegador web. Utilitzar les preferències per permetre’ls una altra vegada.';
+$app_strings['MSG_BROWSER_NOTIFICATIONS_UNSUPPORTED'] = 'Aquest navegador no dóna suport notificacions d’escriptori.';
 
 $app_strings['LBL_GOOGLE_SYNC_ERR'] = 'SuiteCRM Google Sync - ERROR';
-$app_strings['LBL_THERE_WAS_AN_ERR'] = 'S\'ha produït un error: ';
+$app_strings['LBL_THERE_WAS_AN_ERR'] = 'S’ha produït un error: ';
 $app_strings['LBL_CLICK_HERE'] = 'Cliqui aquí';
 $app_strings['LBL_TO_CONTINUE'] = ' per continuar.';
 
 $app_strings['IMAP_HANDLER_ERROR'] = 'ERROR: {error}; la clau es: "{key}".';
 $app_strings['IMAP_HANDLER_SUCCESS'] = 'OK: paràmetres de prova canviats a "{key}"';
 $app_strings['IMAP_HANDLER_ERROR_INVALID_REQUEST'] = 'Petició incorrecte, utilitzi valor "{var}".';
-$app_strings['IMAP_HANDLER_ERROR_UNKNOWN_BY_KEY'] = 'Ha ocorregut un error desconegut, la clau "{key}" no s\'ha guardat.';
+$app_strings['IMAP_HANDLER_ERROR_UNKNOWN_BY_KEY'] = 'Ha ocorregut un error desconegut, la clau "{key}" no s’ha guardat.';
 $app_strings['IMAP_HANDLER_ERROR_NO_TEST_SET'] = 'Els paràmetres de prova no existeixen.';
 $app_strings['IMAP_HANDLER_ERROR_NO_KEY'] = 'Clau no trobada.';
 $app_strings['IMAP_HANDLER_ERROR_KEY_SAVE'] = 'Error guardant la clau.';

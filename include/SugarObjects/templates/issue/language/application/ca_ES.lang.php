@@ -54,7 +54,7 @@ $app_list_strings = array(
         'New' => 'Nou',
         'Assigned' => 'Assignat',
         'Closed' => 'Tancat',
-        'Pending Input' => 'Pendent d\'Informació',
+        'Pending Input' => 'Pendent d’Informació',
         'Rejected' => 'Refusat',
         'Duplicate' => 'Duplicat',
     ),

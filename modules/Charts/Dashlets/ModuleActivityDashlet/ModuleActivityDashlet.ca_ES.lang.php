@@ -44,7 +44,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $dashletStrings['ModuleActivityDashlet'] = array(
     'LBL_TITLE' => 'Activitat del Mòdul',
-    'LBL_DESCRIPTION' => 'Creació registre gràfic de barres horitzontals d\'usuari per mòdul',
+    'LBL_DESCRIPTION' => 'Creació registre gràfic de barres horitzontals d’usuari per mòdul',
     'LBL_MODULES' => 'Mòduls',
     'LBL_REFRESH' => 'Actuatlizar Gràfic',
     'LBL_TOTAL_ACTIVITY' => 'Activitat total per període és',

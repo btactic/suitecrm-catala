@@ -44,6 +44,6 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $dashletStrings['PipelineBySalesStageDashlet'] = array(
     'LBL_TITLE' => 'Objectiu Per Etapa de Vendes',
-    'LBL_DESCRIPTION' => 'Gràfic de Barres Verticals d\'Objectiu per Etapa de Vendes',
+    'LBL_DESCRIPTION' => 'Gràfic de Barres Verticals d’Objectiu per Etapa de Vendes',
     'LBL_REFRESH' => 'Actualitzar Gràfic'
 );

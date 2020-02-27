@@ -57,7 +57,7 @@ $mod_strings = array(
     'LBL_LIST_ISO4217_HELP' => 'Introdueixi el codi ISO 4217 de tres lletres que defineix el nom i el símbol de la moneda.',
     'LBL_UPDATE' => 'Actualitzar',
     'LBL_LIST_RATE' => 'Rati de conversió',
-    'LBL_LIST_RATE_HELP' => 'Un rati de conversió de 0.5 per a l\'Euro significa que 10 dòlars dels Estats Units equivalen a 5 Euros.',
+    'LBL_LIST_RATE_HELP' => 'Un rati de conversió de 0.5 per a l’Euro significa que 10 dòlars dels Estats Units equivalen a 5 Euros.',
     'LBL_LIST_STATUS' => 'Estat',
     'LNK_NEW_CONTACT' => 'Nou Contacte',
     'LNK_NEW_ACCOUNT' => 'Nou Compte',
@@ -68,7 +68,7 @@ $mod_strings = array(
     'LNK_NEW_EMAIL' => 'Nou correu electrònic',
     'LNK_NEW_MEETING' => 'Nova reunió',
     'LNK_NEW_TASK' => 'Nova Tasca',
-    'NTC_DELETE_CONFIRMATION' => 'Està segur que vol eliminar aquest registre? Qualsevol registre que utilitzi aquesta moneda es convertirà a la moneda per defecte del sistema quan s\'accedeixi a ell. Pot ser millor establir l\'estat d\'inactiu.',
+    'NTC_DELETE_CONFIRMATION' => 'Està segur que vol eliminar aquest registre? Qualsevol registre que utilitzi aquesta moneda es convertirà a la moneda per defecte del sistema quan s’accedeixi a ell. Pot ser millor establir l’estat d’inactiu.',
     'LBL_BELOW_MIN' => 'El rati de conversió ha de ser major que 0',
     'currency_status_dom' =>
         array(

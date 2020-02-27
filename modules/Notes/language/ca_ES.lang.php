@@ -43,7 +43,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 }
 
 $mod_strings = array(
-    'ERR_DELETE_RECORD' => 'Ha d\'especificar un número de registre a eliminar.',
+    'ERR_DELETE_RECORD' => 'Ha d’especificar un número de registre a eliminar.',
     'LBL_ACCOUNT_ID' => 'ID Compte:',
     'LBL_CASE_ID' => 'ID Cas:',
     'LBL_CLOSE' => 'Tancar:',
@@ -54,7 +54,7 @@ $mod_strings = array(
     'LBL_EMAIL_ADDRESS' => 'Direcció de correu electrònic:',
     'LBL_EMAIL_ATTACHMENT' => 'Adjunt de correu electrònic:',
     'LBL_FILE_MIME_TYPE' => 'Tipus MIME',
-    'LBL_FILE_URL' => 'URL d\'Arxiu',
+    'LBL_FILE_URL' => 'URL d’Arxiu',
     'LBL_FILENAME' => 'Adjunt:',
     'LBL_LEAD_ID' => 'ID Client Potencial:',
     'LBL_LIST_CONTACT_NAME' => 'Contacte',
