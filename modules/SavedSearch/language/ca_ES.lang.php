@@ -1,11 +1,11 @@
 <?php
-if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
-/*********************************************************************************
+/**
+ *
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
-
- * SuiteCRM is an extension to SugarCRM Community Edition developed by Salesagility Ltd.
- * Copyright (C) 2011 - 2014 Salesagility Ltd.
+ *
+ * SuiteCRM is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ * Copyright (C) 2011 - 2019 SalesAgility Ltd.
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -16,7 +16,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+ * FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
  * details.
  *
  * You should have received a copy of the GNU Affero General Public License along with
@@ -34,39 +34,30 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo and "Supercharged by SuiteCRM" logo. If the display of the logos is not
- * reasonably feasible for  technical reasons, the Appropriate Legal Notices must
- * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
- ********************************************************************************/
+ * reasonably feasible for technical reasons, the Appropriate Legal Notices must
+ * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
+ */
 
-/*********************************************************************************
+if (!defined('sugarEntry') || !sugarEntry) {
+    die('Not A Valid Entry Point');
+}
 
- * Description:  Defines the English language pack for the base application.
- * Portions created by SugarCRM are Copyright (C) SugarCRM, Inc.
- * All Rights Reserved.
- * Contributor(s): ______________________________________..
- ********************************************************************************/
-
-$mod_strings = array (
-	'LBL_MODULE_TITLE' => 'Les Meves Recerques Guardades',
-	'LBL_SEARCH_FORM_TITLE' => 'Les Meves Cerques Desades: Cerca',
-	'LBL_LIST_FORM_TITLE' => 'Llista de Les Meves Recerques Guardades', 
-	'LBL_DELETE_CONFIRM' => 'Està segur de que vol eliminar la Cerca Desada Seleccionada?',
-	'LBL_UPDATE_BUTTON_TITLE' => 'Actualitzar aquesta Cerca Desada',
-	'LBL_DELETE_BUTTON_TITLE' => 'Esborrar aquesta Cerca Desada',
-	'LBL_SAVE_BUTTON_TITLE' => 'Desar la cerca actual',
-	'LBL_LIST_NAME' => 'Nom',
-	'LBL_LIST_MODULE' => 'Mòdul',
+$mod_strings = array(
+    'LBL_MODULE_TITLE' => 'Els meus filtres guardats',
+    'LBL_SEARCH_FORM_TITLE' => 'El meu filtres guardats: filtre',
+    'LBL_LIST_FORM_TITLE' => 'La meva llista de filtres guardats',
+    'LBL_DELETE_CONFIRM' => 'Esteu segur que voleu suprimir el Filtre Guardat seleccionat?',
+    'LBL_DELETE_BUTTON_TITLE' => 'Eliminar aquest filtre guardat',
+    'LBL_SAVE_BUTTON_TITLE' => 'Desar el filtre actual',
+    'LBL_LIST_NAME' => 'Nom',
+    'LBL_LIST_MODULE' => 'Mòdul',
     'LBL_ORDER_BY_COLUMNS' => 'Ordenar per columna:',
     'LBL_DIRECTION' => 'Direcció:',
-    'LBL_SAVE_SEARCH_AS' => 'Desar aquesta cerca com a:',
-    'LBL_SAVE_SEARCH_AS_HELP' => 'Això guarda la seva configuració de vista i qualsevol filtre a la pestanya de Cerca Avançada.',
-    'LBL_PREVIOUS_SAVED_SEARCH' => 'Recerques Guardades Prèvies:',
-    'LBL_PREVIOUS_SAVED_SEARCH_HELP' => 'Editar o Esborrar qualsevol Cerca Desada.',
-    'LBL_ASCENDING' => 'Ascendent', 
+    'LBL_SAVE_SEARCH_AS' => 'Guardar el filtre com:',
+    'LBL_ASCENDING' => 'Ascendent',
     'LBL_DESCENDING' => 'Descendent',
-    'LBL_MODIFY_CURRENT_SEARCH'=> 'Modificar cerca actual',
+    'LBL_MODIFY_CURRENT_FILTER' => 'Modificar el filtre actual',
+
+    'LBL_CREATED_BY' => 'Creat Per',
 
 );
-
-
-?>

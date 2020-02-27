@@ -1,11 +1,11 @@
 <?php
-if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
-/*********************************************************************************
+/**
+ *
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
-
- * SuiteCRM is an extension to SugarCRM Community Edition developed by Salesagility Ltd.
- * Copyright (C) 2011 - 2014 Salesagility Ltd.
+ *
+ * SuiteCRM is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ * Copyright (C) 2011 - 2019 SalesAgility Ltd.
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -16,7 +16,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+ * FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
  * details.
  *
  * You should have received a copy of the GNU Affero General Public License along with
@@ -34,54 +34,43 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo and "Supercharged by SuiteCRM" logo. If the display of the logos is not
- * reasonably feasible for  technical reasons, the Appropriate Legal Notices must
- * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
- ********************************************************************************/
+ * reasonably feasible for technical reasons, the Appropriate Legal Notices must
+ * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
+ */
 
-/*********************************************************************************
- * Description:  Defines the English language pack for the base application.
- * Portions created by SugarCRM are Copyright (C) SugarCRM, Inc.
- * All Rights Reserved.
- * Contributor(s): ______________________________________..
- ********************************************************************************/
+if (!defined('sugarEntry') || !sugarEntry) {
+    die('Not A Valid Entry Point');
+}
 
-$mod_strings = array (
-  'LBL_MODULE_NAME' => 'Combinació de Registres',
-  'LBL_MODULE_TITLE' => 'Combinació de Registres: Inici',
-  'LBL_SEARCH_FORM_TITLE' => 'Cerca de Combinacions',
-  'LBL_LIST_FORM_TITLE' => 'Llista de Combinacions',
+$mod_strings = array(
+    'LBL_MODULE_NAME' => 'Combinació de Registres',
+    'LBL_MODULE_TITLE' => 'Combinació de Registres: Inici',
+    'LBL_SEARCH_FORM_TITLE' => 'Cerca de Combinacions',
+    'LBL_LIST_FORM_TITLE' => 'Llista de Combinacions',
 
-  'LBL_LBL_MERGE_RECORDS_STEP_1' => 'Cerca registres a fusionar amb',
-  'LBL_AVAIL_FIELDS' => 'Camps Disponibles',
-  'LBL_FILTER_COND' => 'Condició de Filtrat',
-  'LBL_SELECTED_FIELDS' => 'Camps Seleccionats',
-  'LBL_MERGE_RECORDS_WITH' => 'Combinar Registres Amb',
-  'LBL_MERGE_VALUE_OVER' => 'Combinar valors sobre',
+    'LBL_LBL_MERGE_RECORDS_STEP_1' => 'Cerca registres a fusionar amb',
+    'LBL_AVAIL_FIELDS' => 'Camps Disponibles',
+    'LBL_FILTER_COND' => 'Condició de Filtrat',
+    'LBL_MERGE_VALUE_OVER' => 'Combinar valors sobre',
 
-  'LBL_NEXT_STEP_TITLE' => 'Pasar a Següent Pas[Ctrl+N]',
-  'LBL_NEXT_STEP_BUTTON_KEY' => 'N',
-  'LBL_NEXT_STEP_BUTTON_LABEL' => 'Següent Pas >',
+    'LBL_NEXT_STEP_TITLE' => 'Pasar a Següent Pas',
+    'LBL_NEXT_STEP_BUTTON_LABEL' => 'Següent Pas >',
 
-  'LBL_PERFORM_MERGE_BUTTON_TITLE' => 'Realitzar Combinació[Ctrl+P]',
-  'LBL_PERFORM_MERGE_BUTTON_KEY' => 'P',
-  'LBL_PERFORM_MERGE_BUTTON_LABEL' => 'Realitzar Combinació',
+    'LBL_PERFORM_MERGE_BUTTON_TITLE' => 'Realitzar Combinació',
+    'LBL_PERFORM_MERGE_BUTTON_KEY' => 'P',
+    'LBL_PERFORM_MERGE_BUTTON_LABEL' => 'Realitzar Combinació',
 
-  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Desar Combinació',
-  'LBL_SAVE_MERGED_RECORD_BUTTON_KEY' => 'S',
-  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Desar Combinació',
+    'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Desar Combinació',
+    'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Desar Combinació',
 
-  'LBL_STEP2_FORM_TITLE' => 'Registres Trobats amb els que Combinar:',
-  'LBL_SELECT_ERROR'=>'Ha de realitzar una selecció abans de continuar.',
-  'LBL_SELECT_PRIMARY'=>'Seleccioni el registre principal per a la combinació.',
-  'LBL_CHANGE_PARENT'=>'Establir com principal',
-  'LBL_REMOVE_FROM_MERGE'=>'Treure',
-  'LBL_DIFF_COL_VALUES'=>'Columnes el valor del qual a la fila principal difereix del valor a les files de combinació:',
-  'LBL_SAME_COL_VALUES'=>'Columnes el valor del qual és similar a totes les files:',
-  'ERR_EXCEEDS_MAX'=>'Només li està permès combinar un màxim de 5 registres. Els registres que superin aquest límit seran ignorats.',
-  'LBL_DELETE_MESSAGE'=>'Aquesta acció eliminarà els següents registres:',
-  'LBL_PROCEED'=>'Continuar?',
-  'LBL_STEP1_DIRECTIONS' => 'S’han trobat registres que podrien estar duplicats. Quan es troben possibles duplicats, pot seleccionar aquells registres que desitja fusionar amb el registre actual.',
+    'LBL_STEP2_FORM_TITLE' => 'Registres Trobats amb els que Combinar:',
+    'LBL_SELECT_ERROR' => 'Ha de realitzar una selecció abans de continuar.',
+    'LBL_CHANGE_PARENT' => 'Establir com principal',
+    'LBL_REMOVE_FROM_MERGE' => 'Eliminar',
+    'LBL_DIFF_COL_VALUES' => 'Columnes el valor del qual a la fila principal difereix del valor a les files de combinació:',
+    'LBL_SAME_COL_VALUES' => 'Columnes el valor del qual és similar a totes les files:',
+    'LBL_DELETE_MESSAGE' => 'Aquesta acció eliminarà els següents registres:',
+    'LBL_PROCEED' => 'Continuar?',
+    'LBL_STEP1_DIRECTIONS' => 'S\'han trobat registres que podrien estar duplicats. Quan es troben possibles duplicats, pot seleccionar aquells registres que desitja fusionar amb el registre actual.',
 );
 
-
-?>

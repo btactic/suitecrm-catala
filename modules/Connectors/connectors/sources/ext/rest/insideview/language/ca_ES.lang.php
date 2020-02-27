@@ -1,11 +1,11 @@
 <?php
-if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
-/*********************************************************************************
+/**
+ *
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
-
- * SuiteCRM is an extension to SugarCRM Community Edition developed by Salesagility Ltd.
- * Copyright (C) 2011 - 2014 Salesagility Ltd.
+ *
+ * SuiteCRM is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ * Copyright (C) 2011 - 2019 SalesAgility Ltd.
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -16,7 +16,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+ * FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
  * details.
  *
  * You should have received a copy of the GNU Affero General Public License along with
@@ -34,17 +34,19 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo and "Supercharged by SuiteCRM" logo. If the display of the logos is not
- * reasonably feasible for  technical reasons, the Appropriate Legal Notices must
- * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
- ********************************************************************************/
+ * reasonably feasible for technical reasons, the Appropriate Legal Notices must
+ * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
+ */
 
+if (!defined('sugarEntry') || !sugarEntry) {
+    die('Not A Valid Entry Point');
+}
 
-$connector_strings = array (
+$connector_strings = array(
     'LBL_GET_STARTED' => 'Començar!',
-    'LBL_TOS0' => 'Estic d’acord amb la vista interior',
-    'LBL_TOS1' => 'Condicions d’ús',
+    'LBL_TOS1' => 'Condicions d\'ús',
     'LBL_TOS3' => 'Política de privacitat',
-    'iv_description0' => 'quan facis click a "començar" voldrà dir que estas d’acord amb la vista interior',
+    'iv_description0' => 'quan facis click a "començar" voldrà dir que estas d\'acord amb la vista interior',
     'LBL_OPP' => 'Trobar oportunitats',
     'LBL_OPP_SUB' => 'per arribar als clients',
     'LBL_REFERRAL' => 'Obtenir referències',
@@ -52,5 +54,3 @@ $connector_strings = array (
     'LBL_ENGAGE' => 'Captar clients',
     'LBL_ENGAGE_SUB' => 'amb iniciadors de converses',
 );
-
-?>

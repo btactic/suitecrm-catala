@@ -1,11 +1,11 @@
 <?php
-if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
-/*********************************************************************************
+/**
+ *
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
-
- * SuiteCRM is an extension to SugarCRM Community Edition developed by Salesagility Ltd.
- * Copyright (C) 2011 - 2014 Salesagility Ltd.
+ *
+ * SuiteCRM is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ * Copyright (C) 2011 - 2019 SalesAgility Ltd.
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -16,7 +16,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+ * FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
  * details.
  *
  * You should have received a copy of the GNU Affero General Public License along with
@@ -34,34 +34,37 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo and "Supercharged by SuiteCRM" logo. If the display of the logos is not
- * reasonably feasible for  technical reasons, the Appropriate Legal Notices must
- * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
- ********************************************************************************/
+ * reasonably feasible for technical reasons, the Appropriate Legal Notices must
+ * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
+ */
 
+if (!defined('sugarEntry') || !sugarEntry) {
+    die('Not A Valid Entry Point');
+}
 
-$mod_strings = array (
-  'LBL_CONSKEY' => 'Clau del consumidor',
-  'LBL_CONSSECRET' => 'Secret del consumidor',
-  'LBL_ASSIGNED_TO_ID' => 'ID Usuari Assignat',
-  'LBL_ASSIGNED_TO_NAME' => 'Usuari',
-  'LBL_ID' => 'ID',
-  'LBL_DATE_ENTERED' => 'Data de Creació',
-  'LBL_DATE_MODIFIED' => 'Última Modificació',
-  'LBL_MODIFIED' => 'Modificat Per',
-  'LBL_MODIFIED_ID' => 'Modificat per Id',
-  'LBL_MODIFIED_NAME' => 'Modificat per Nom',
-  'LBL_CREATED' => 'Creat Per',
-  'LBL_CREATED_ID' => 'Creat per Id',
-  'LBL_DESCRIPTION' => 'Descripció',
-  'LBL_DELETED' => 'Esborrat',
-  'LBL_NAME' => 'Clau de client',
-  'LBL_CREATED_USER' => 'Creat per l’usuari',
-  'LBL_MODIFIED_USER' => 'Modificat per l’usuari',
-  'LBL_LIST_NAME' => 'Nom de la clau',
-  'LBL_LIST_FORM_TITLE' => 'Claus d’OAuth',
-  'LBL_MODULE_NAME' => 'Claus d’OAuth',
-  'LBL_MODULE_TITLE' => 'Claus d’OAuth',
-  'LNK_NEW_RECORD' => 'Crear clau OAuth',
-  'LNK_LIST' => 'vista de les claus OAuth',
-  'LBL_TOKENS' => 'Tokens',
+$mod_strings = array(
+    'LBL_CONSKEY' => 'Clau del consumidor',
+    'LBL_CONSSECRET' => 'Secret del consumidor',
+    'LBL_ASSIGNED_TO_ID' => 'ID Usuari Assignat',
+    'LBL_ASSIGNED_TO_NAME' => 'Usuari',
+    'LBL_ID' => 'ID',
+    'LBL_DATE_ENTERED' => 'Data de Creació',
+    'LBL_DATE_MODIFIED' => 'Última Modificació',
+    'LBL_MODIFIED' => 'Modificat Per',
+    'LBL_MODIFIED_ID' => 'Modificat per Id',
+    'LBL_MODIFIED_NAME' => 'Modificat per Nom',
+    'LBL_CREATED' => 'Creat Per',
+    'LBL_CREATED_ID' => 'Creat per Id',
+    'LBL_DESCRIPTION' => 'Descripció',
+    'LBL_DELETED' => 'Esborrat',
+    'LBL_NAME' => 'Clau de client',
+    'LBL_CREATED_USER' => 'Creat per l\'usuari',
+    'LBL_MODIFIED_USER' => 'Modificat per l\'usuari',
+    'LBL_LIST_NAME' => 'Nom de la clau',
+    'LBL_LIST_FORM_TITLE' => 'Claus d\'OAuth',
+    'LBL_MODULE_NAME' => 'Claus d\'OAuth',
+    'LBL_MODULE_TITLE' => 'Claus d\'OAuth',
+    'LNK_NEW_RECORD' => 'Crear clau OAuth',
+    'LNK_LIST' => 'vista de les claus OAuth',
+    'LBL_TOKENS' => 'Fitxes',
 );
