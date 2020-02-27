@@ -16,7 +16,7 @@ Si ho prefereix, pot generar una versió instal·lable de la traducció a partir
 Si vol utilitzar aquest mètode, és necessari que disposi del paquet `git` instal·lat al seu ordinador. Si no el té instal·lat, el pot instal·lar mitjançant aquestes comandes:
 ```
 # apt-get update
-# apt-get -y install git
+# apt-get -y install git zip php-cli
 ```
 Ara ja pot generar una versió instal·lable de la traducció utilitzant aquestes comandes:
 ```

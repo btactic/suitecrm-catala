@@ -11,7 +11,7 @@ Just download the last release and install it via Module Loader.
 If you prefer, you can generate an installable version of translation from source code to get an updated version. If you choose this method you must have git installed. If git is not installed on your machine you can install with those commands:
 ```
 # apt-get update
-# apt-get -y install git
+# apt-get -y install git zip php-cli
 ```
 Now you can generate an installable version of translation with those commands:
 ```
